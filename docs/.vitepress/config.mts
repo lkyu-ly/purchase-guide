@@ -5,9 +5,10 @@ export default defineConfig({
 	lang: 'zh-CN',
 	title: 'MOE 购机指南',
 	description: 'MOE频道2024年新生购机指南',
+	head: [['link', { rel: 'icon', href: '/icon.png' }]],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		logo: '.vitepress/icon.png',
+		logo: '/icon.png',
 		nav: [
 			{ text: '主页', link: '/' },
 			{ text: '机型推荐', link: '/recommend/推荐' },
