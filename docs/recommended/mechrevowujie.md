@@ -19,9 +19,9 @@
 |  供电配置  |                100W PD 充电；80Wh 锂电池                 |
 |  网络配置  |                RJ45 网口；AX200 无线网卡                 |
 
-主购买链接：[无界 14X R7-8845HS 24G+1TB ￥ 3799](https://mobile.yangkeduo.com/goods.html?ps=nHjGCtkKTY)
+主购买链接：[无界 14X R7-8845HS 24G+1TB ￥ 3799（PDD）](https://mobile.yangkeduo.com/goods.html?ps=nHjGCtkKTY)
 
-副购买链接：[无界15X R7-8845HS 32G+1TB ￥4399](https://mobile.yangkeduo.com/goods.html?ps=6OmuU2Kyp2)
+副购买链接：[无界15X R7-8845HS 32G+1TB ￥4399（PDD）](https://mobile.yangkeduo.com/goods.html?ps=6OmuU2Kyp2)
 
 ## 总结
 
