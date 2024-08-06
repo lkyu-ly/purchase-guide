@@ -19,7 +19,7 @@
 
 [主购买链接：翼龙 15Pro 黑色 R7-8845H+RTX4060 16G+1T ￥ 6599（PDD）](https://mobile.yangkeduo.com/goods.html?ps=rlPci4VzLp)
 
-[耀世 15Pro 黑色 i7-13650HX+RTX4060 16G+1T ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=H2l9XuJAoA)
+[副购买链接：耀世 15Pro 黑色 i7-13650HX+RTX4060 16G+1T ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=H2l9XuJAoA)
 
 ## 总结
 
