@@ -5,3 +5,7 @@
 	width: 100%; /* 使表格宽度为 100% */
 	overflow: auto;
 }
+
+h1 {
+	color: #3451ad;
+}
