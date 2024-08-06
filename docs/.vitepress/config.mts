@@ -8,16 +8,16 @@ export default defineConfig({
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
-			{ text: 'Home', link: '/' },
-			{ text: 'Examples', link: '/markdown-examples' },
+			{ text: '主页', link: '/' },
+			{ text: '机型推荐', link: '/markdown-examples' },
 		],
 
 		sidebar: [
 			{
-				text: 'Examples',
+				text: '机型推荐',
 				items: [
-					{ text: 'Markdown Examples', link: '/markdown-examples' },
-					{ text: 'Runtime API Examples', link: '/api-examples' },
+					{ text: '机械革命 无界 14X/15X', link: '/recommended/无界' },
+					{ text: '联想 ThinkBook14+ 2023/2024', link: '/recommended/thinkbook' },
 				],
 			},
 		],

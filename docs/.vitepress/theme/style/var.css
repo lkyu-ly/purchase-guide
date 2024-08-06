@@ -1,0 +1,7 @@
+.vp-doc table {
+	display: table;
+	border-collapse: collapse;
+	margin: 20px auto;
+	width: 100%; /* 使表格宽度为 100% */
+	overflow: auto;
+}
