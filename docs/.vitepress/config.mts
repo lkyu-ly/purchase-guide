@@ -26,9 +26,16 @@ export default defineConfig({
 					{ text: '笔记本电脑的购买渠道', link: '/introduction/购买' },
 				],
 			},
-			{ text: '笔记本电脑的评价体系', collapsed: false, items: [
-				{ text: '处理器', link: '/evaluation/处理器' },
-			] },
+			{
+				text: '笔记本电脑的评价体系',
+				collapsed: false,
+				items: [
+					{ text: '处理器', link: '/evaluation/处理器' },
+					{ text: '内存', link: '/evaluation/内存' },
+					{ text: '显卡', link: '/evaluation/显卡' },
+					{ text: '屏幕', link: '/evaluation/屏幕' },
+				],
+			},
 			{
 				text: '机型推荐',
 				collapsed: false,
