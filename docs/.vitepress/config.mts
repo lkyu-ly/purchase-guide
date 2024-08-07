@@ -34,6 +34,7 @@ export default defineConfig({
 					{ text: '内存', link: '/evaluation/内存' },
 					{ text: '显卡', link: '/evaluation/显卡' },
 					{ text: '屏幕', link: '/evaluation/屏幕' },
+					{ text: '拓展性', link: '/evaluation/拓展性' },
 				],
 			},
 			{
