@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import mdFootnote from 'markdown-it-footnote';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -17,6 +18,14 @@ export default defineConfig({
 		sidebar: [
 			{ text: '写在前面', items: [{ text: '前言', link: '/前言' }] },
 			{
+				text: '笔记本电脑选购须知',
+				collapsed: false,
+				items: [
+					{ text: '笔记本电脑的分类', link: '/introduction/分类' },
+					{ text: '笔记本电脑的选择', link: '/introduction/选择' },
+				],
+			},
+			{
 				text: '机型推荐',
 				collapsed: false,
 				items: [
@@ -24,7 +33,7 @@ export default defineConfig({
 					{ text: '机械革命 无界14Pro', link: '/recommend/机械革命无界14Pro' },
 					{ text: '联想 ThinkBook14+ 2023/2024', link: '/recommend/联想ThinkBook14+' },
 					{ text: '惠普 星BookPro14', link: '/recommend/惠普星BookPro14' },
-					{ text: '华硕 a豆14Air', link: '/recommend/华硕a豆14Air.md' },
+					{ text: '华硕 a豆14Air', link: '/recommend/华硕a豆14Air' },
 					{ text: '红米 RedmiBook Pro 16 2024', link: '/recommend/RedmiBookPro16' },
 					{ text: '机械革命 蛟龙15K/Pro', link: '/recommend/机械革命蛟龙15KorPRO' },
 					{ text: '机械革命 蛟龙16pro', link: '/recommend/机械革命蛟龙16pro' },
@@ -56,6 +65,26 @@ export default defineConfig({
 		image: {
 			// 默认禁用图片懒加载
 			lazyLoading: true,
+		},
+		config: md => {
+			md.use(mdFootnote);
+
+			// function render_footnote_block_open(tokens, idx, options) {
+			// 	return (
+			// 		(options.xhtmlOut
+			// 			? '<hr class="footnotes-sep" />\n'
+			// 			: '<hr class="footnotes-sep">\n') +
+			// 		'<section class="footnotes">\n' +
+			// 		'<ol class="footnotes-list">\n'
+			// 	);
+			// }
+			md.renderer.rules.footnote_block_open = () => {
+				return (
+					'<h2 id="参考信息">参考信息</h2>\n' +
+					'<section class="footnotes">\n' +
+					'<ol class="footnotes-list">\n'
+				);
+			};
 		},
 	},
 	lastUpdated: true,
