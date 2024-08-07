@@ -9,6 +9,17 @@ export default defineConfig({
 	head: [
 		['link', { rel: 'icon', href: '/icon.png' }],
 		['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+		[
+			'script',
+			{},
+			`window._hmt = window._hmt || [];
+			(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
+			var s = document.getElementsByTagName("script")[0]; 
+			s.parentNode.insertBefore(hm, s);
+			})();`,
+		],
 	],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
@@ -78,8 +89,8 @@ export default defineConfig({
 			},
 		],
 		footer: {
-			message:
-				'本站总访问量<span id="busuanzi_value_site_pv"></span>次, 访客数<span id="busuanzi_value_site_uv"></span>人次',
+			
+			message: '',
 		},
 	},
 	markdown: {

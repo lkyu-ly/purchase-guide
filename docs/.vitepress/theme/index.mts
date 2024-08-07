@@ -9,6 +9,16 @@ import { useRoute } from 'vitepress';
 // google analytics
 import googleAnalytics from 'vitepress-plugin-google-analytics';
 
+// 百度统计
+DefaultTheme.enhanceApp = ({ app, router, siteData }) => {
+	router.onBeforeRouteChange = to => {
+		console.log('路由将改变为: ', to);
+		if (typeof _hmt !== 'undefined') {
+			_hmt.push(['_trackPageview', to]);
+		}
+	};
+};
+
 export default {
 	extends: DefaultTheme,
 	// ...DefaultTheme, //或者这样写也可
