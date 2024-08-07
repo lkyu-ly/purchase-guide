@@ -21,6 +21,7 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{ text: '机械革命 无界 14X/15X', link: '/recommend/机械革命无界14Xor15X' },
+					{ text: '机械革命 无界14Pro', link: '/recommend/机械革命无界14Pro' },
 					{ text: '联想 ThinkBook14+ 2023/2024', link: '/recommend/联想ThinkBook14+' },
 					{ text: '惠普 星BookPro14', link: '/recommend/惠普星BookPro14' },
 					{ text: '华硕 a豆14Air', link: '/recommend/华硕a豆14Air.md' },
