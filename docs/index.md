@@ -6,6 +6,7 @@ hero:
     name: 'MOE 购机指南'
     text: "MOE频道：2024年 \n新生购机指南"
     tagline: 写给大学新生的电脑科普&购买一体方案
+    image: /icon.png
     actions:
         - theme: brand
           text: 开始阅读
