@@ -23,8 +23,7 @@ features:
     - icon: 👥
       title: 参与人员
       details: 主笔：MOE-她说彩礼50W <a href="mailto:1209451703@qq.com" >[<u>邮箱</u>]</a><br>排版/网站：lkyu
-    - icon:
-          src: /QQ.svg
+    - icon: 🐧
       title: 我们的 QQ 群
       details: <a href="https://qm.qq.com/q/HU05k45VmK">304067847<br>点击加入</a>
 ---

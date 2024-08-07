@@ -6,7 +6,10 @@ export default defineConfig({
 	lang: 'zh-CN',
 	title: 'MOE 购机指南',
 	description: 'MOE频道2024年新生购机指南',
-	head: [['link', { rel: 'icon', href: '/icon.png' }]],
+	head: [
+		['link', { rel: 'icon', href: '/icon.png' }],
+		['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+	],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: '/icon.png',
@@ -76,7 +79,7 @@ export default defineConfig({
 		],
 		footer: {
 			message:
-				'',
+				'本站总访问量<span id="busuanzi_value_site_pv"></span>次, 访客数<span id="busuanzi_value_site_uv"></span>人次',
 		},
 	},
 	markdown: {
@@ -106,4 +109,7 @@ export default defineConfig({
 		},
 	},
 	lastUpdated: true,
+	sitemap: {
+		hostname: 'https://你的网址.com',
+	},
 });
