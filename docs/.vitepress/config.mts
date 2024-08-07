@@ -60,6 +60,7 @@ export default defineConfig({
 					{ text: '华硕 天选5pro锐龙版', link: '/recommend/华硕天选5pro锐龙版' },
 					{ text: '华硕 天选Air ', link: '/recommend/华硕天选Air' },
 					{ text: 'ROG 魔霸7plus', link: '/recommend/ROG魔霸7plus' },
+					{ text: '百亿补贴或其他优秀机型', link: '/recommend/其他' },
 				],
 			},
 		],
