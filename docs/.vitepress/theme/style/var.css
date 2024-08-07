@@ -1,11 +1,17 @@
 .vp-doc table {
 	display: table;
 	border-collapse: collapse;
-	margin: 20px auto;
+	margin: 30px auto;
 	width: 100%; /* 使表格宽度为 100% */
 	overflow: auto;
 }
 
 h1 {
 	color: #3451ad;
+}
+
+.vp-doc {
+	p {
+		text-indent: 2rem;
+	}
 }
