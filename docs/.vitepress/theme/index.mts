@@ -6,9 +6,8 @@ import mediumZoom from 'medium-zoom';
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 
-// 不蒜子
-import { inBrowser } from 'vitepress';
-import busuanzi from 'busuanzi.pure.js';
+// google analytics
+import googleAnalytics from 'vitepress-plugin-google-analytics';
 
 export default {
 	extends: DefaultTheme,
@@ -29,11 +28,9 @@ export default {
 		);
 	},
 
-	enhanceApp({ app, router }) {
-		if (inBrowser) {
-			router.onAfterRouteChanged = () => {
-				busuanzi.fetch();
-			};
-		}
+	enhanceApp: ctx => {
+		googleAnalytics({
+			id: 'G-V759BJWZQH', // Replace with your GoogleAnalytics ID, which should start with the 'G-'
+		});
 	},
 };

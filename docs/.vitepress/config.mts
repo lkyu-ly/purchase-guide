@@ -76,7 +76,7 @@ export default defineConfig({
 		],
 		footer: {
 			message:
-				'本站总访问量 <span id="busuanzi_value_site_pv" /> 次，访客数 <span id="busuanzi_value_site_uv" /> 人次',
+				'',
 		},
 	},
 	markdown: {
@@ -98,7 +98,7 @@ export default defineConfig({
 			// }
 			md.renderer.rules.footnote_block_open = () => {
 				return (
-					'<h2 id="参考信息">参考信息</h2>\n' +
+					'<h2 id="参考资料">参考资料</h2>\n' +
 					'<section class="footnotes">\n' +
 					'<ol class="footnotes-list">\n'
 				);
