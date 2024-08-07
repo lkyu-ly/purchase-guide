@@ -10,6 +10,7 @@
 		"docs:preview": "vitepress preview docs"
 	},
 	"dependencies": {
+		"busuanzi.pure.js": "^1.0.3",
 		"download": "^8.0.0",
 		"markdown-it-footnote": "^4.0.0"
 	}

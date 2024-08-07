@@ -1,9 +1,14 @@
 import DefaultTheme from 'vitepress/theme';
 import './style/index.css';
+// import './Layout.vue';
 
 import mediumZoom from 'medium-zoom';
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
+
+// 不蒜子
+import { inBrowser } from 'vitepress';
+import busuanzi from 'busuanzi.pure.js';
 
 export default {
 	extends: DefaultTheme,
@@ -22,5 +27,13 @@ export default {
 			() => route.path,
 			() => nextTick(() => initZoom())
 		);
+	},
+
+	enhanceApp({ app, router }) {
+		if (inBrowser) {
+			router.onAfterRouteChanged = () => {
+				busuanzi.fetch();
+			};
+		}
 	},
 };

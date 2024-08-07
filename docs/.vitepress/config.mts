@@ -74,6 +74,10 @@ export default defineConfig({
 				link: 'https://qm.qq.com/q/HU05k45VmK',
 			},
 		],
+		footer: {
+			message:
+				'本站总访问量 <span id="busuanzi_value_site_pv" /> 次，访客数 <span id="busuanzi_value_site_uv" /> 人次',
+		},
 	},
 	markdown: {
 		image: {
