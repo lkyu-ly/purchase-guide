@@ -35,6 +35,7 @@ export default defineConfig({
 					{ text: '显卡', link: '/evaluation/显卡' },
 					{ text: '屏幕', link: '/evaluation/屏幕' },
 					{ text: '拓展性', link: '/evaluation/拓展性' },
+					{ text: '售后服务', link: '/evaluation/售后服务' },
 				],
 			},
 			{
