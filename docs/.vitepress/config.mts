@@ -23,6 +23,7 @@ export default defineConfig({
 				items: [
 					{ text: '笔记本电脑的分类', link: '/introduction/分类' },
 					{ text: '笔记本电脑的选择', link: '/introduction/选择' },
+					{ text: '笔记本电脑的购买渠道', link: '/introduction/购买' },
 				],
 			},
 			{

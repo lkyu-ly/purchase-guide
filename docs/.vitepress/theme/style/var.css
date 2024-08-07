@@ -28,6 +28,11 @@ h1 {
 			text-indent: 0;
 		}
 	}
+	blockquote {
+		p {
+			text-indent: 0;
+		}
+	}
 }
 
 .medium-zoom-overlay {
