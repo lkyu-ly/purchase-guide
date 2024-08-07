@@ -6,9 +6,6 @@ import mediumZoom from 'medium-zoom';
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 
-// google analytics
-import googleAnalytics from 'vitepress-plugin-google-analytics';
-
 // 百度统计
 DefaultTheme.enhanceApp = ({ app, router, siteData }) => {
 	router.onBeforeRouteChange = to => {
@@ -36,11 +33,5 @@ export default {
 			() => route.path,
 			() => nextTick(() => initZoom())
 		);
-	},
-
-	enhanceApp: ctx => {
-		googleAnalytics({
-			id: 'G-V759BJWZQH', // Replace with your GoogleAnalytics ID, which should start with the 'G-'
-		});
 	},
 };

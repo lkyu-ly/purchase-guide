@@ -8,7 +8,11 @@ export default defineConfig({
 	description: 'MOE频道2024年新生购机指南',
 	head: [
 		['link', { rel: 'icon', href: '/icon.png' }],
-		['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+
+		// 不好用的不蒜子
+		// ['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+
+		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		[
 			'script',
 			{},
@@ -19,6 +23,17 @@ export default defineConfig({
 			var s = document.getElementsByTagName("script")[0]; 
 			s.parentNode.insertBefore(hm, s);
 			})();`,
+		],
+
+		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
+		['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH' }],
+		[
+			'script',
+			{},
+			`window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-V759BJWZQH');`,
 		],
 	],
 	themeConfig: {
@@ -89,7 +104,6 @@ export default defineConfig({
 			},
 		],
 		footer: {
-			
 			message: '',
 		},
 	},
