@@ -17,7 +17,7 @@
 | 供电配置 |          100W PD 充电；60Wh 锂电池           |
 | 网络配置 |                AX200 无线网卡                |
 
-[主购买链接：Ultra-5 125H 32G+2TB ￥ 4399](https://mobile.yangkeduo.com/goods.html?ps=h4QdW1tfJf)
+[主购买链接：Ultra-5 125H 32G+2TB ￥ 4399（PDD）](https://mobile.yangkeduo.com/goods.html?ps=h4QdW1tfJf)
 
 ## 总结
 
