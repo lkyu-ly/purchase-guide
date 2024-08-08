@@ -35,6 +35,14 @@ h1 {
 	}
 }
 
+.vp-doc blockquote {
+  border-radius: 5px;
+  padding: 10px 16px;
+  background-color: var(--vp-badge-tip-bg);
+  position: relative;
+  border-left: 4px solid #4eaaff;
+}
+
 .medium-zoom-overlay {
 	z-index: 30;
 }

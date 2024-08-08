@@ -92,6 +92,7 @@ export default defineConfig({
 					{ text: '百亿补贴或其他优秀机型', link: '/recommend/其他' },
 				],
 			},
+			{ text: '额外问题答疑', link: '/more' },
 		],
 
 		socialLinks: [
