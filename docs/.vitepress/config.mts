@@ -139,7 +139,7 @@ export default defineConfig({
 		],
 		footer: {
 			message:
-				'<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>',
+				'<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><br><span id="busuanzi_container_site_uv" style="opacity: 0;">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
 		},
 	},
 	markdown: {
