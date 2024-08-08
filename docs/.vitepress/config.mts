@@ -58,6 +58,9 @@ export default defineConfig({
 			})();`,
 		],
 
+		// 百度 SEO
+		['meta', { name: 'baidu-site-verification', content: 'codeva-9MsWLbeqt6' }],
+
 		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
 		['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH' }],
 		[
