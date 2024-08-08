@@ -174,6 +174,6 @@ export default defineConfig({
 
 	lastUpdated: true,
 	sitemap: {
-		hostname: 'https://你的网址.com',
+		hostname: 'https://moe.lkyu.cf',
 	},
 });
