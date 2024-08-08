@@ -17,17 +17,17 @@ export default defineConfig({
 			'script',
 			{},
 			`document.addEventListener("DOMContentLoaded", function () {
-			// const uvE = document.getElementById('busuanzi_value_site_uv');
+			const uvE = document.getElementById('busuanzi_value_site_uv');
 			const pvE = document.getElementById('busuanzi_value_site_pv');
-			// const uvObs = new MutationObserver((mutationsList) => {
-			// 	for (let mutation of mutationsList) {
-			// 		if (mutation.type === 'childList') {
-			// 			uvObs.disconnect();
-			// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 100000;
-			// 			break;
-			// 		}
-			// 	}
-			// });
+			const uvObs = new MutationObserver((mutationsList) => {
+				for (let mutation of mutationsList) {
+					if (mutation.type === 'childList') {
+						uvObs.disconnect();
+						mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 50;
+						break;
+					}
+				}
+			});
 			const pvObs = new MutationObserver((mutationsList) => {
 				for (let mutation of mutationsList) {
 					if (mutation.type === 'childList') {
@@ -40,7 +40,7 @@ export default defineConfig({
 			const config = {
 				childList: true
 			};
-			// uvObs.observe(uvE, config);
+			uvObs.observe(uvE, config);
 			pvObs.observe(pvE, config);
 		});`,
 		],
@@ -69,6 +69,7 @@ export default defineConfig({
 			gtag('config', 'G-V759BJWZQH');`,
 		],
 	],
+
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: '/icon.png',
@@ -139,7 +140,7 @@ export default defineConfig({
 		],
 		footer: {
 			message:
-				'<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><br><span id="busuanzi_container_site_uv" style="opacity: 0;">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
+				'<span id="busuanzi_container_site_pv" style="display:none">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><span id="busuanzi_container_site_uv" style="display:none">，访客数<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
 		},
 	},
 	markdown: {
@@ -150,6 +151,7 @@ export default defineConfig({
 		config: md => {
 			md.use(mdFootnote);
 
+			// 源代码
 			// function render_footnote_block_open(tokens, idx, options) {
 			// 	return (
 			// 		(options.xhtmlOut
@@ -159,6 +161,7 @@ export default defineConfig({
 			// 		'<ol class="footnotes-list">\n'
 			// 	);
 			// }
+			// 重写
 			md.renderer.rules.footnote_block_open = () => {
 				return (
 					'<h2 id="参考资料">参考资料</h2>\n' +
@@ -168,6 +171,7 @@ export default defineConfig({
 			};
 		},
 	},
+
 	lastUpdated: true,
 	sitemap: {
 		hostname: 'https://你的网址.com',
