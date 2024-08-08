@@ -10,7 +10,7 @@ export default defineConfig({
 		['link', { rel: 'icon', href: '/icon.png' }],
 
 		// 不好用的不蒜子
-		// ['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+		['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
 
 		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		[
@@ -105,7 +105,8 @@ export default defineConfig({
 			},
 		],
 		footer: {
-			message: '',
+			message:
+				'<span id="busuanzi_container_site_pv" style="opacity: 0" >本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>',
 		},
 	},
 	markdown: {
