@@ -13,7 +13,37 @@ export default defineConfig({
 		['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
 
 		// 不蒜子数据修正
-		['script', {}, `consol.log('不蒜子数据修正');`],
+		[
+			'script',
+			{},
+			`document.addEventListener("DOMContentLoaded", function () {
+			// const uvE = document.getElementById('busuanzi_value_site_uv');
+			const pvE = document.getElementById('busuanzi_value_site_pv');
+			// const uvObs = new MutationObserver((mutationsList) => {
+			// 	for (let mutation of mutationsList) {
+			// 		if (mutation.type === 'childList') {
+			// 			uvObs.disconnect();
+			// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 100000;
+			// 			break;
+			// 		}
+			// 	}
+			// });
+			const pvObs = new MutationObserver((mutationsList) => {
+				for (let mutation of mutationsList) {
+					if (mutation.type === 'childList') {
+						pvObs.disconnect();
+						mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
+						break;
+					}
+				}
+			});
+			const config = {
+				childList: true
+			};
+			// uvObs.observe(uvE, config);
+			pvObs.observe(pvE, config);
+		});`,
+		],
 
 		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		[
