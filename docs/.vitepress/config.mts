@@ -18,7 +18,7 @@ export default defineConfig({
 			{},
 			`document.addEventListener("DOMContentLoaded", function () {
 			const uvE = document.getElementById('busuanzi_value_site_uv');
-			const pvE = document.getElementById('busuanzi_value_site_pv');
+			// const pvE = document.getElementById('busuanzi_value_site_pv');
 			const uvObs = new MutationObserver((mutationsList) => {
 				for (let mutation of mutationsList) {
 					if (mutation.type === 'childList') {
@@ -28,20 +28,20 @@ export default defineConfig({
 					}
 				}
 			});
-			const pvObs = new MutationObserver((mutationsList) => {
-				for (let mutation of mutationsList) {
-					if (mutation.type === 'childList') {
-						pvObs.disconnect();
-						mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
-						break;
-					}
-				}
-			});
+			// const pvObs = new MutationObserver((mutationsList) => {
+			// 	for (let mutation of mutationsList) {
+			// 		if (mutation.type === 'childList') {
+			// 			pvObs.disconnect();
+			// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
+			// 			break;
+			// 		}
+			// 	}
+			// });
 			const config = {
 				childList: true
 			};
 			uvObs.observe(uvE, config);
-			pvObs.observe(pvE, config);
+			// pvObs.observe(pvE, config);
 		});`,
 		],
 
@@ -143,7 +143,7 @@ export default defineConfig({
 		],
 		footer: {
 			message:
-				'<span id="busuanzi_container_site_pv" style="display:none">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><span id="busuanzi_container_site_uv" style="display:none">，访客数<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
+				'<span id="busuanzi_container_site_uv" style="display:none">本站总访问量：<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
 		},
 	},
 	markdown: {
