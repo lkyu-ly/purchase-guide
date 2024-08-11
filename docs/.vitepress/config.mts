@@ -79,6 +79,7 @@ export default defineConfig({
 		nav: [
 			{ text: '主页', link: '/' },
 			{ text: '机型推荐', link: '/recommend/推荐' },
+			{ text: '常见问题解答', link: '/more' },
 		],
 
 		sidebar: [
@@ -129,7 +130,7 @@ export default defineConfig({
 					{ text: '百亿补贴或其他优秀机型', link: '/recommend/其他' },
 				],
 			},
-			{ text: '额外问题答疑', link: '/more' },
+			{ text: '<b>额外问题答疑</b>', collapsed: false, link: '/more' },
 		],
 
 		socialLinks: [

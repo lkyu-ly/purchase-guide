@@ -15,6 +15,9 @@ hero:
           text: 机型推荐
           link: /recommend/推荐
         - theme: alt
+          text: 常见问题解答
+          link: /more
+        - theme: alt
           text: PDF版下载(蓝奏云，密码：3nos)
           link: https://misaka-h.lanzouj.com/b0plwi1le?pwd=3nos
 features:
@@ -28,5 +31,3 @@ features:
       title: 我们的 QQ 群
       details: <a href="https://qm.qq.com/q/HU05k45VmK">304067847<br>点击加入</a>
 ---
-
-
