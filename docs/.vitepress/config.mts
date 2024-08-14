@@ -72,7 +72,7 @@ export default defineConfig({
 			gtag('config', 'G-V759BJWZQH');`,
 		],
 	],
-
+	cleanUrls: true,
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: '/icon.png',
