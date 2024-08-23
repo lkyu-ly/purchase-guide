@@ -18,7 +18,7 @@
 | 供电配置 | 280W DC 电源接口；100W PD 充电；90Wh 锂电池 |
 | 网络配置 |       RJ45 网口；瑞昱 8852BE 无线网卡       |
 
-[主购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 8589（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=XtjYDAfGfn)
+[主购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 8459（PDD）](https://mobile.yangkeduo.com/goods.html?ps=InHa02y2N3)
 
 [副购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 8999（JD）](https://3.cn/23-hp4fv)
 
