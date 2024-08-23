@@ -17,9 +17,9 @@
 | 供电配置 |            240W DC 电源接口；100W PD 充电；80Wh 锂电池            |
 | 网络配置 |       RJ45 网口、AX211 无线网卡;RJ45 网口、MT7922 无线网卡        |
 
-[主购买链接：翼龙 15Pro 黑色 R7-8845H+RTX4060 16G+1T ￥ 6599（PDD）](https://mobile.yangkeduo.com/goods.html?ps=rlPci4VzLp)
+[主购买链接：翼龙 15Pro 黑色 R7-8845H+RTX4060 16G+1T ￥ 6499（PDD）](https://mobile.yangkeduo.com/goods.html?ps=rlPci4VzLp)
 
-[副购买链接：耀世 15Pro 黑色 i7-13650HX+RTX4060 16G+1T ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=H2l9XuJAoA)
+[副购买链接：耀世 15Pro 黑色 i7-13650HX+RTX4060 16G+1T ￥ 6499（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=H2l9XuJAoA)
 
 ## 总结
 
