@@ -17,9 +17,9 @@
 | 供电配置 |        230W DC 电源接口;100W PD 充电;60Wh 锂电池         |
 | 网络配置 |                 RJ45 网口;AX200 无线网卡                 |
 
-[主购买链接：R7-7745HX+RTX4070 16G+1TB ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=ij3KWJ3QMG)
+[主购买链接：R7-7745HX+RTX4070 16G+1TB ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods.html?ps=WhrhOHWHL0)
 
-[副购买链接：R7-7745HX+RTX4070 32G+1TB ￥ 6999（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=kNQkdU8WkZ)
+[副购买链接：R7-7745HX+RTX4070 32G+1TB ￥ 7099（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=kNQkdU8WkZ)
 
 ## 总结
 
