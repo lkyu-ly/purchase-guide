@@ -20,7 +20,7 @@
 
 [主购买链接：蛟龙 15K R7-7435H+RTX4060 16G+512G ￥ 4899（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=zQjdtHCw3M)
 
-[副购买链接：蛟龙 15PRO R7-7435H+RTX4060 16G+512G ￥ 5499（PDD）](https://mobile.yangkeduo.com/goods.html?ps=1zjhXR2UBw)
+[副购买链接：蛟龙 15PRO R7-7435H+RTX4060 16G+512G ￥ 5198（PDD）](https://mobile.yangkeduo.com/goods.html?ps=XTdaI4gtrD)
 
 ## 总结
 
