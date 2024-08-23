@@ -19,7 +19,7 @@
 | 供电配置 |           90W PD 充电;75Wh 锂电池            |
 | 网络配置 |               MT7922 无线网卡                |
 
-[主购买链接：R7-8845H 32G+1T 粉色 ￥ 5199（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=oKu38zRNog)
+[主购买链接：R7-8845H 32G+1T 粉色 ￥ 5219（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=oKu38zRNog)
 
 [副购买链接：R7-8845H 32G+1T 青色 ￥ 5499（JD）](https://3.cn/23h-kDPL)
 
