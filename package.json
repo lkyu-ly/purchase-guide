@@ -1,12 +1,12 @@
 {
 	"devDependencies": {
 		"medium-zoom": "^1.1.0",
-		"vitepress": "^1.3.1",
-		"vue": "^3.4.36"
+		"vitepress": "^1.3.3",
+		"vue": "^3.4.38"
 	},
 	"scripts": {
 		"docs:dev": "vitepress dev docs",
-		"docs:build": "node docs/public/fetch.cjs && vitepress build docs",
+		"docs:build": "node docs/public/js/fetch.cjs && vitepress build docs",
 		"docs:preview": "vitepress preview docs"
 	},
 	"dependencies": {

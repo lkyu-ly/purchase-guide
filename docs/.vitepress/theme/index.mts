@@ -3,8 +3,8 @@ import './style/index.css';
 // import './Layout.vue';
 
 import mediumZoom from 'medium-zoom';
-import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
+import { nextTick, onMounted, watch } from 'vue';
 
 // 百度统计
 DefaultTheme.enhanceApp = ({ app, router, siteData }) => {
