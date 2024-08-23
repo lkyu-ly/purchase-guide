@@ -20,7 +20,7 @@
 | 供电配置 |          100W PD 充电、62Wh 锂电池；<br>100W PD 充电、85Wh 锂电池           |
 | 网络配置 |       RJ45 网口、MT7921 无线网卡；<br>RJ45 网口、瑞昱 8852be 无线网卡       |
 
-主购买链接：[R7-8845H 32G+1TB ￥ 4999（PDD）](https://mobile.yangkeduo.com/goods.html?ps=v7OxejcGuz)
+主购买链接：[R7-8845H 32G+1TB ￥ 5099（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=2033866bNx)/[R7-7840H 32G+1TB ￥ 4689（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=WMNcmF1z57)
 
 副购买链接：[R7-8845H 32G+1TB ￥ 5499（JD）](https://3.cn/23h-dNUG)
 
