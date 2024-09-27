@@ -17,7 +17,7 @@
 | 供电配置 |  240W DC 电源接口;100W PD 充电;60Wh 锂电池  |
 | 网络配置 |          RJ45 网口;AX201 无线网卡           |
 
-[主购买链接：i7-12800HX+RTX4070 32G+1TB ￥ 6799（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=8aFHdaFb5c)
+[主购买链接：i7-12800HX+RTX4070 32G+1TB ￥ 6799（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=2l5YYpiyCi)
 
 ## 总结
 
