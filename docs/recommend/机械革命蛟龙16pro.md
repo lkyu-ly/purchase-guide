@@ -2,20 +2,20 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/蛟龙16pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/蛟龙16pro.png" /></div>
 
 ## 配置
 
-|   项目   |                           参数                           |
-| :------: | :------------------------------------------------------: |
-| 机身参数 |                     16 英寸、2.51kg                      |
-| 核心配置 |                    R7-7745HX;RTX4070                     |
-| 存储配置 |              16G DDR5-4800MHZ;1T YMTC PC300              |
-| 屏幕配置 |             2560\*1600;100%sRGB 高色域;240Hz             |
-| USB 接口 | USB-A: 5Gbps\*2 、480Mbps\*1、10Gbps\*1；USB-C:10Gbps\*1 |
-| 影音接口 |                 HDMI 2.1；3.5mm 音频接口                 |
-| 供电配置 |        230W DC 电源接口;100W PD 充电;60Wh 锂电池         |
-| 网络配置 |                 RJ45 网口;AX200 无线网卡                 |
+|   项目   |                          参数                           |
+| :------: | :-----------------------------------------------------: |
+| 机身参数 |                     16 英寸、2.51kg                     |
+| 核心配置 |                   R7-7745HX；RTX4070                    |
+| 存储配置 |             16G DDR5-4800MHZ；1T YMTC PC300             |
+| 屏幕配置 |           2560\*1600；100%sRGB 高色域；240Hz            |
+| USB 接口 | USB-A:5Gbps\*2 、480Mbps\*1、10Gbps\*1；USB-C:10Gbps\*1 |
+| 影音接口 |                HDMI 2.1；3.5mm 音频接口                 |
+| 供电配置 |       230W DC 电源接口；100W PD 充电；60Wh 锂电池       |
+| 网络配置 |                RJ45 网口；AX200 无线网卡                |
 
 [主购买链接：R7-7745HX+RTX4070 16G+1TB ￥ 6699（PDD）](https://mobile.yangkeduo.com/goods.html?ps=WhrhOHWHL0)
 

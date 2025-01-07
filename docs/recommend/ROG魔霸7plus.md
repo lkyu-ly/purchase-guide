@@ -2,19 +2,19 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/魔霸7plus%201.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/魔霸7plus%201.png" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/魔霸7plus%202.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/魔霸7plus%202.png" /></div>
 
 ## 配置
 
 |   项目   |                    参数                     |
 | :------: | :-----------------------------------------: |
-| 机身参数 |              17.3 英寸、2.76kg              |
+| 机身参数 |              17.3 英寸；2.76kg              |
 | 核心配置 |              R9-7940HX;RTX4060              |
 | 存储配置 |       16G DDR5-4800MHZ、1T 西数 SN560       |
 | 屏幕配置 |    2560\*1600、100%DCI-P3 广色域、240Hz     |
-| USB 接口 |      USB-A: 5Gbps\*2 ；USB-C:10Gbps\*2      |
+| USB 接口 |       USB-A:5Gbps\*2；USB-C:10Gbps\*2       |
 | 影音接口 |          HDMI 2.1；3.5mm 音频接口           |
 | 供电配置 | 280W DC 电源接口、100W PD 充电、90Wh 锂电池 |
 | 网络配置 |         RJ45 网口、MT7922 无线网卡          |

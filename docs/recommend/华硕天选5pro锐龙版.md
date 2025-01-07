@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/天选5pro.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选5pro.png" /></div>
 
 ## 配置
 
@@ -12,7 +12,7 @@
 | 核心配置 |             R9-7940HX；RTX4070              |
 | 存储配置 |       16G DDR5-5200MHZ；1T 西数 SN560       |
 | 屏幕配置 |     2560\*1600；100%sRGB 高色域；165Hz      |
-| USB 接口 |      USB-A: 5Gbps\*2 ；USB-C:10Gbps\*2      |
+| USB 接口 |       USB-A:5Gbps\*2；USB-C:10Gbps\*2       |
 | 影音接口 |          HDMI 2.1；3.5mm 音频接口           |
 | 其它接口 |               Micro SD 读卡器               |
 | 供电配置 | 280W DC 电源接口；100W PD 充电；90Wh 锂电池 |

@@ -5,3 +5,6 @@ docs/.vitepress/dist
 pnpm-lock.yaml
 
 docs/public/mas.cmd
+
+package-lock.json
+yarn.lock

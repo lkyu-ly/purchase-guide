@@ -2,20 +2,20 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/极光X.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/极光X.png" /></div>
 
 ## 配置
 
 |   项目   |                    参数                     |
 | :------: | :-----------------------------------------: |
 | 机身参数 |               16 英寸、2.34kg               |
-| 核心配置 |             i7-12800HX;RTX4070              |
-| 存储配置 |       16G DDR5-4800MHZ;1T YMTC PC411        |
-| 屏幕配置 |      2560\*1600;100%sRGB 高色域;165Hz       |
-| USB 接口 | USB-A: 5Gbps\*3 ；USB-C:10Gbps\*1、5Gbps\*1 |
-| 影音接口 |      HDMI 2.1；Mini DP;3.5mm 音频接口       |
-| 供电配置 |  240W DC 电源接口;100W PD 充电;60Wh 锂电池  |
-| 网络配置 |          RJ45 网口;AX201 无线网卡           |
+| 核心配置 |             i7-12800HX；RTX4070             |
+| 存储配置 |       16G DDR5-4800MHZ；1T YMTC PC411       |
+| 屏幕配置 |     2560\*1600；100%sRGB 高色域；165Hz      |
+| USB 接口 |  USB-A:5Gbps\*3；USB-C:10Gbps\*1、5Gbps\*1  |
+| 影音接口 |      HDMI 2.1；Mini DP；3.5mm 音频接口      |
+| 供电配置 | 240W DC 电源接口；100W PD 充电；60Wh 锂电池 |
+| 网络配置 |          RJ45 网口；AX201 无线网卡          |
 
 [主购买链接：i7-12800HX+RTX4070 32G+1TB ￥ 6799（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=2l5YYpiyCi)
 

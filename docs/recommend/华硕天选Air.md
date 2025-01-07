@@ -2,22 +2,22 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/天选air%201.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%201.png" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/天选air%202.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%202.png" /></div>
 
 ## 配置
 
-|   项目   |                     参数                      |
-| :------: | :-------------------------------------------: |
-| 机身参数 |                14 英寸；1.45kg                |
-| 核心配置 |             AI 9 HX 370；RTX4060              |
-| 存储配置 |       16G LPDDR5-7500MHZ；1T 西数 SN560       |
-| 屏幕配置 |      2560\*1600；100%sRGB 高色域；165Hz       |
-| USB 接口 | USB-A: 10Gbps\*2 ；USB-C:10Gbps\*1、40Gbps\*1 |
-| 影音接口 |           HDMI 2.1；3.5mm 音频接口            |
-| 供电配置 |  200W DC 电源接口；100W PD 充电；73Wh 锂电池  |
-| 网络配置 |                MT7922 无线网卡                |
+|   项目   |                    参数                     |
+| :------: | :-----------------------------------------: |
+| 机身参数 |               14 英寸；1.45kg               |
+| 核心配置 |            AI 9 HX 370；RTX4060             |
+| 存储配置 |      16G LPDDR5-7500MHZ；1T 西数 SN560      |
+| 屏幕配置 |     2560\*1600；100%sRGB 高色域；165Hz      |
+| USB 接口 | USB-A:10Gbps\*2；USB-C:10Gbps\*1、40Gbps\*1 |
+| 影音接口 |          HDMI 2.1；3.5mm 音频接口           |
+| 供电配置 | 200W DC 电源接口；100W PD 充电；73Wh 锂电池 |
+| 网络配置 |               MT7922 无线网卡               |
 
 [主购买链接：AI 9 HX 370+RTX4060 32G+1TB ￥ 9999 (JD)](https://3.cn/23hp-wDA)
 

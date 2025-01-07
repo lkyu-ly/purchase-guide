@@ -2,20 +2,20 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/机械革命无界14Pro.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/机械革命无界14Pro.png" /></div>
 
 ## 配置
 
-|   项目   |                     参数                     |
-| :------: | :------------------------------------------: |
-| 机身参数 |                14 寸、1.49kg                 |
-| 核心配置 |                 Utral 5 125H                 |
-| 存储配置 |       32G DDR5-5600MHZ、2T YMTC PC411        |
-| 屏幕配置 |      2880\*1800；100%sRGB 高色域；120Hz      |
-| USB 接口 | USB-A: 5Gbps\*2 ；USB-C:40Gbps\*1、10Gbps\*1 |
-| 影音接口 |           HDMI 2.0；3.5mm 音频接口           |
-| 供电配置 |          100W PD 充电；60Wh 锂电池           |
-| 网络配置 |                AX200 无线网卡                |
+|   项目   |                    参数                    |
+| :------: | :----------------------------------------: |
+| 机身参数 |               14 寸、1.49kg                |
+| 核心配置 |                Utral 5 125H                |
+| 存储配置 |      32G DDR5-5600MHZ、2T YMTC PC411       |
+| 屏幕配置 |     2880\*1800；100%sRGB 高色域；120Hz     |
+| USB 接口 | USB-A:5Gbps\*2；USB-C:40Gbps\*1、10Gbps\*1 |
+| 影音接口 |          HDMI 2.0；3.5mm 音频接口          |
+| 供电配置 |         100W PD 充电；60Wh 锂电池          |
+| 网络配置 |               AX200 无线网卡               |
 
 [主购买链接：Ultra-5 125H 32G+2TB ￥ 4399（PDD）](https://mobile.yangkeduo.com/goods.html?ps=h4QdW1tfJf)
 

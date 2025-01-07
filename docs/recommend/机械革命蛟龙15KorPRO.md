@@ -2,21 +2,21 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/蛟龙15pro.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/蛟龙15pro.png" /></div>
 
 ## 配置
 
-|   项目   |                                   参数                                    |
-| :------: | :-----------------------------------------------------------------------: |
-| 机身参数 |                     16 英寸、2.23kg；16 英寸、2.19kg                      |
-| 核心配置 |                             R7-7435H;RTX4060                              |
-| 存储配置 |   16G DDR5-4800MHZ、1T YMTC PC300;<br>16G LPDDR5-4800MHZ、1T YMTC PC411   |
-| 屏幕配置 | 1920\*1080、100%sRGB 高色域、165Hz;<br>2560\*1440、100%sRGB 高色域、165Hz |
-| USB 接口 |               USB-A: 5Gbps\*2 、480Mbps\*1；USB-C:10Gbps\*1               |
-| 影音接口 |                     HDMI 2.1；Mini DP;3.5mm 音频接口                      |
-| 其它接口 |                              Micro SD 读卡器                              |
-| 供电配置 |                       230W DC 电源接口;62Wh 锂电池                        |
-| 网络配置 |                         RJ45 网口;AX200 无线网卡                          |
+|   项目   |                                    参数                                    |
+| :------: | :------------------------------------------------------------------------: |
+| 机身参数 |                      16 英寸、2.23kg；16 英寸、2.19kg                      |
+| 核心配置 |                             R7-7435H；RTX4060                              |
+| 存储配置 |   16G DDR5-4800MHZ、1T YMTC PC300；<br>16G LPDDR5-4800MHZ、1T YMTC PC411   |
+| 屏幕配置 | 1920\*1080、100%sRGB 高色域、165Hz；<br>2560\*1440、100%sRGB 高色域、165Hz |
+| USB 接口 |                USB-A:5Gbps\*2 、480Mbps\*1；USB-C:10Gbps\*1                |
+| 影音接口 |                     HDMI 2.1；Mini DP；3.5mm 音频接口                      |
+| 其它接口 |                              Micro SD 读卡器                               |
+| 供电配置 |                       230W DC 电源接口；62Wh 锂电池                        |
+| 网络配置 |                         RJ45 网口；AX200 无线网卡                          |
 
 [主购买链接：蛟龙 15K R7-7435H+RTX4060 16G+512G ￥ 4899（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=zQjdtHCw3M)
 

@@ -2,9 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/tb14+.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/tb14+.png" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/tb14+ 1.jpg" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/tb14+ 1.png" /></div>
 
 ## 配置
 
@@ -14,7 +14,7 @@
 | 核心配置 |                                  R7-7840H；R7-8845H                                   |
 | 存储配置 | 32G LPDDR5X-6400MHZ、1T 亿联 AM6A1；<br>32G LPDDR5X-7500MHZ、1T 亿联 AM6B1/三星 PM9C1 |
 | 屏幕配置 |      2880\*1800、100%sRGB 高色域、90Hz；<br>3072\*1920、100%DCI-P3 广色域、120Hz      |
-| USB 接口 |               USB-A: 5Gbps\*1 、10Gbps\*2 ；USB-C:10Gbps\*1 、40Gbps\*1               |
+| USB 接口 |                 USB-A:5Gbps\*1、10Gbps\*2；USB-C:10Gbps\*1、40Gbps\*1                 |
 | 影音接口 |                               HDMI 2.1；3.5mm 音频接口                                |
 | 其它接口 |                                    Micro SD 读卡器                                    |
 | 供电配置 |               100W PD 充电、62Wh 锂电池；<br>100W PD 充电、85Wh 锂电池                |

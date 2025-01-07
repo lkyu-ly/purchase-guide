@@ -2,20 +2,20 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/redmibookpro%2016%202024.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/redmibookpro%2016%202024.png" /></div>
 
 ## 配置
 
-|   项目   |                     参数                      |
-| :------: | :-------------------------------------------: |
-| 机身参数 |               16 英寸；1.89kg；               |
-| 核心配置 |                 Ultra 7 155H                  |
-| 存储配置 |      32G LPDDR5X-7467MHZ；1T YMTC PC300       |
-| 屏幕配置 |     3072\*1920；100%DCI-P3 广色域；165Hz      |
-| USB 接口 | USB-A: 5Gbps\*2 ；USB-C:10Gbps\*1 、40Gbps\*1 |
-| 影音接口 |           HDMI 2.1；3.5mm 音频接口            |
-| 供电配置 |           140W PD 充电；99Wh 锂电池           |
-| 网络配置 |                AX211 无线网卡                 |
+|   项目   |                    参数                    |
+| :------: | :----------------------------------------: |
+| 机身参数 |              16 英寸；1.89kg               |
+| 核心配置 |                Ultra 7 155H                |
+| 存储配置 |     32G LPDDR5X-7467MHZ；1T YMTC PC300     |
+| 屏幕配置 |    3072\*1920；100%DCI-P3 广色域；165Hz    |
+| USB 接口 | USB-A:5Gbps\*2；USB-C:10Gbps\*1、40Gbps\*1 |
+| 影音接口 |          HDMI 2.1；3.5mm 音频接口          |
+| 供电配置 |         140W PD 充电；99Wh 锂电池          |
+| 网络配置 |               AX211 无线网卡               |
 
 [主购买链接：16 寸 Ultra7 155H 32G+1TB ￥ 6299（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=O4QMnKn1rH)
 

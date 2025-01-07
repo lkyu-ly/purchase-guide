@@ -2,20 +2,20 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/星bookpro14%201.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/星bookpro14%201.png" /></div>
 
 ## 配置
 
-|   项目   |                     参数                      |
-| :------: | :-------------------------------------------: |
-| 机身参数 |                 14 寸；1.45kg                 |
-| 核心配置 |              R7-7840H；R7-8845H               |
-| 存储配置 |         32G LPDDR5X-6400MHZ;1T PM9B1          |
-| 屏幕配置 |   2880\*1800 OLED;100%DCI-P3 广色域；120Hz    |
-| USB 接口 | USB-A: 5Gbps\*1 、10Gbps\*1 ；USB-C:10Gbps\*2 |
-| 影音接口 |           HDMI 2.1；3.5mm 音频接口            |
-| 供电配置 |           100W PD 充电；68Wh 锂电池           |
-| 网络配置 |                MT7922 无线网卡                |
+|   项目   |                    参数                     |
+| :------: | :-----------------------------------------: |
+| 机身参数 |                14 寸；1.45kg                |
+| 核心配置 |             R7-7840H；R7-8845H              |
+| 存储配置 |        32G LPDDR5X-6400MHZ；1T PM9B1        |
+| 屏幕配置 |  2880\*1800 OLED；100%DCI-P3 广色域；120Hz  |
+| USB 接口 | USB-A:5Gbps\*1 、10Gbps\*1；USB-C:10Gbps\*2 |
+| 影音接口 |          HDMI 2.1；3.5mm 音频接口           |
+| 供电配置 |          100W PD 充电；68Wh 锂电池          |
+| 网络配置 |               MT7922 无线网卡               |
 
 [主购买链接：R7-8845H 32G+1TB 银色 ￥ 5299 (JD)](https://3.cn/2-3heUC5)
 
@@ -29,6 +29,6 @@
 
 ## 其他角度外观
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/星bookpro14%202.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%202.png" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 50%"><img src="./assets/星bookpro14%203.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%203.png" /></div>
