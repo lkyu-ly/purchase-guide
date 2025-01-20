@@ -14,12 +14,12 @@
 | 屏幕配置 |               2560\*1600；100%sRGB 高色域；240Hz               |
 | USB 接口 | USB-A:10Gbps\*2、5Gbps\*1；USB-C:10Gbps\*1（40Gbps）、5Gbps\*1 |
 | 影音接口 |               HDMI 2.1；3.5mm 音频接口；Mini DP                |
-| 供电配置 |          240W DC 电源接口；100W PD 充电；80Wh 锂电池           |
+| 供电配置 |          240W DC 电源接口；100W PD 充电；99Wh 锂电池           |
 | 网络配置 |     RJ45 网口、AX211 无线网卡；RJ45 网口、MT7922 无线网卡      |
 
-[主购买链接：翼龙 15Pro 黑色 R7-8845H+RTX4060 16G+1T ￥ 6499（PDD）](https://mobile.yangkeduo.com/goods.html?ps=rlPci4VzLp)
+[主购买链接：翼龙 15Pro 白色 R7-8845H+RTX4060 24G+1T ￥ 5899（PDD）](https://mobile.yangkeduo.com/goods.html?ps=1WtIB7NYMe)
 
-[副购买链接：耀世 15Pro 黑色 i7-13650HX+RTX4060 16G+1T ￥ 6499（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=H2l9XuJAoA)
+[副购买链接：翼龙 15Pro 灰色 R7-8845H+RTX4070 16G+1T ￥ 6399.2（JD国补）](https://3.cn/2b2-cUV3)
 
 ## 总结
 
