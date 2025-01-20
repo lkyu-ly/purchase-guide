@@ -13,14 +13,14 @@
 | 存储配置 |       16G DDR5-5200MHZ；1T 西数 SN560       |
 | 屏幕配置 |     2560\*1600；100%sRGB 高色域；165Hz      |
 | USB 接口 |       USB-A:5Gbps\*2；USB-C:10Gbps\*2       |
-| 影音接口 |          HDMI 2.1；3.5mm 音频接口           |
+| 影音接口 |    HDMI 2.1；3.5mm 音频接口；DP 1.4（独显）  |
 | 其它接口 |               Micro SD 读卡器               |
 | 供电配置 | 280W DC 电源接口；100W PD 充电；90Wh 锂电池 |
 | 网络配置 |       RJ45 网口；瑞昱 8852BE 无线网卡       |
 
-[主购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 8459（PDD）](https://mobile.yangkeduo.com/goods.html?ps=InHa02y2N3)
+[主购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 7439.2（JD国补）](https://3.cn/2b2gF-Tv)
 
-[副购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 8999（JD）](https://3.cn/23-hp4fv)
+[副购买链接：R9-7940HX+RTX4060 16G+1TB 灰色 ￥ 6445（JD）](https://mobile.yangkeduo.com/goods2.html?ps=9mviX2Yqrp)
 
 ## 总结
 
