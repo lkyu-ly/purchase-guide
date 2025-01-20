@@ -18,9 +18,9 @@
 | 供电配置 |                       230W DC 电源接口；62Wh 锂电池                        |
 | 网络配置 |                         RJ45 网口；AX200 无线网卡                          |
 
-[主购买链接：蛟龙 15K R7-7435H+RTX4060 16G+512G ￥ 4899（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=zQjdtHCw3M)
+[主购买链接：蛟龙 15Pro R7-7435H+RTX4060 16G+512G ￥ 4694.85（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=5FYgNVuzJb)
 
-[副购买链接：蛟龙 15PRO R7-7435H+RTX4060 16G+512G ￥ 5198（PDD）](https://mobile.yangkeduo.com/goods.html?ps=XTdaI4gtrD)
+[副购买链接：蛟龙 15K R7-7435H+RTX4050 16G+512G ￥ 3999（PDD）](https://mobile.yangkeduo.com/goods.html?ps=jAJOgPxBkB)
 
 ## 总结
 
