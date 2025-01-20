@@ -14,14 +14,13 @@
 | 存储配置 |  32G LPDDR5X-7500MHZ；1T 西数 SN560/PM9C1  |
 | 屏幕配置 | 2880\*1800 OLED；100%DCI-P3 广色域；120Hz  |
 | USB 接口 | USB-A:5Gbps\*2；USB-C:5Gbps\*1 、40Gbps\*1 |
-| 影音接口 |          HDMI 2.1；3.5mm 音频接口          |
+| 影音接口 |          HDMI 2.1；3.5mm 音频接口；DP 1.4   |
 | 其它接口 |              Micro SD 读卡器               |
 | 供电配置 |          90W PD 充电；75Wh 锂电池          |
 | 网络配置 |              MT7922 无线网卡               |
 
-[主购买链接：R7-8845H 32G+1T 粉色 ￥ 5219（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=oKu38zRNog)
+[主购买链接：R7-8845H 32G+1T 青色 ￥ 4799（JD国补）](https://3.cn/-2b26WeH)
 
-[副购买链接：R7-8845H 32G+1T 青色 ￥ 5499（JD）](https://3.cn/23h-kDPL)
 
 ## 总结
 
