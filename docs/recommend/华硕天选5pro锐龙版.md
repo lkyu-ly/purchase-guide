@@ -20,7 +20,7 @@
 
 [主购买链接：R9-7940HX+RTX4070 16G+1TB 青色 ￥ 7439.2（JD国补）](https://3.cn/2b2gF-Tv)
 
-[副购买链接：R9-7940HX+RTX4060 16G+1TB 灰色 ￥ 6445（JD）](https://mobile.yangkeduo.com/goods2.html?ps=9mviX2Yqrp)
+[副购买链接：R9-7940HX+RTX4060 16G+1TB 灰色 ￥ 6445（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=9mviX2Yqrp)
 
 ## 总结
 
