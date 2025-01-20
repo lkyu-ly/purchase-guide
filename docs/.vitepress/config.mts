@@ -1,5 +1,5 @@
-import { defineConfig } from "vitepress";
 import mdFootnote from "markdown-it-footnote";
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -109,25 +109,28 @@ export default defineConfig({
 				text: "机型推荐",
 				collapsed: false,
 				items: [
-					{ text: "机械革命 无界 14X/15X", link: "/recommend/机械革命无界14Xor15X" },
-					// { text: "机械革命 无界14Pro", link: "/recommend/机械革命无界14Pro" },
-					{ text: "联想 ThinkBook14+ 2023/2024", link: "/recommend/联想ThinkBook14plus" }, // + 号导致直接访问页面 404, 改为 plus
-					{ text: "惠普 星BookPro14", link: "/recommend/惠普星BookPro14" },
 					{ text: "华硕 a豆14Air", link: "/recommend/华硕a豆14Air" },
-					// { text: "红米 RedmiBook Pro 16 2024", link: "/recommend/RedmiBookPro16" },
+					{ text: "华硕 天选5锐龙版", link: "/recommend/华硕天选5锐龙版" },
+					{ text: "华硕 天选5pro锐龙版", link: "/recommend/华硕天选5pro锐龙版" },
+					{ text: "华硕 天选Air ", link: "/recommend/华硕天选Air" },
+					{ text: "惠普 星BookPro14", link: "/recommend/惠普星BookPro14" },
+					{ text: "联想 ThinkBook14+ 2023/2024", link: "/recommend/联想ThinkBook14plus" }, // + 号导致直接访问页面 404, 改为 plus
+					{ text: "机械革命 无界 14X/15X", link: "/recommend/机械革命无界14Xor15X" },
 					{ text: "机械革命 蛟龙15K/Pro", link: "/recommend/机械革命蛟龙15KorPRO" },
 					{ text: "机械革命 蛟龙16pro", link: "/recommend/机械革命蛟龙16pro" },
-					// { text: "七彩虹 隐星P15 TA ", link: "/recommend/p15ta" },
-					// { text: "机械革命 极光X", link: "/recommend/机械革命极光X" },
 					{
 						text: "机械革命 耀世/翼龙15Pro",
 						link: "/recommend/机械革命耀世or翼龙15Pro",
 					},
-					{ text: "华硕 天选5锐龙版", link: "/recommend/华硕天选5锐龙版" },
-					{ text: "华硕 天选5pro锐龙版", link: "/recommend/华硕天选5pro锐龙版" },
-					{ text: "华硕 天选Air ", link: "/recommend/华硕天选Air" },
-					// { text: "ROG 魔霸7plus", link: "/recommend/ROG魔霸7plus" },
+					{ text: "机械革命 极光X", link: "/recommend/机械革命极光X" },
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
+
+					// 2025年1月20日删除
+					// { text: "机械革命 无界14Pro", link: "/recommend/机械革命无界14Pro" },
+					// { text: "红米 RedmiBook Pro 16 2024", link: "/recommend/RedmiBookPro16" },
+					// { text: "七彩虹 隐星P15 TA ", link: "/recommend/p15ta" },
+
+					// { text: "ROG 魔霸7plus", link: "/recommend/ROG魔霸7plus" },
 				],
 			},
 			{ text: "<b>额外问题答疑</b>", collapsed: false, link: "/more" },

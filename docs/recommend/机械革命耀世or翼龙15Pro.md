@@ -19,7 +19,7 @@
 
 [主购买链接：翼龙 15Pro 白色 R7-8845H+RTX4060 24G+1T ￥ 5899（PDD）](https://mobile.yangkeduo.com/goods.html?ps=1WtIB7NYMe)
 
-[副购买链接：翼龙 15Pro 灰色 R7-8845H+RTX4070 16G+1T ￥ 6399.2（JD国补）](https://3.cn/2b2-cUV3)
+[副购买链接：翼龙 15Pro 灰色 R7-8845H+RTX4070 16G+1T ￥ 6399.2（JD 国补）](https://3.cn/2b2-cUV3)
 
 ## 总结
 
