@@ -15,14 +15,14 @@
 | 存储配置 | 32G LPDDR5X-6400MHZ、1T 亿联 AM6A1；<br>32G LPDDR5X-7500MHZ、1T 亿联 AM6B1/三星 PM9C1 |
 | 屏幕配置 |      2880\*1800、100%sRGB 高色域、90Hz；<br>3072\*1920、100%DCI-P3 广色域、120Hz      |
 | USB 接口 |                 USB-A:5Gbps\*1、10Gbps\*2；USB-C:10Gbps\*1、40Gbps\*1                 |
-| 影音接口 |                               HDMI 2.1；3.5mm 音频接口                                |
+| 影音接口 |                               HDMI 2.1；3.5mm 音频接口；DP 1.4                         |
 | 其它接口 |                                    Micro SD 读卡器                                    |
 | 供电配置 |               100W PD 充电、62Wh 锂电池；<br>100W PD 充电、85Wh 锂电池                |
 | 网络配置 |            RJ45 网口、MT7921 无线网卡；<br>RJ45 网口、瑞昱 8852be 无线网卡            |
 
-主购买链接：[R7-8845H 32G+1TB ￥ 5099（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=2033866bNx)/[R7-7840H 32G+1TB ￥ 4689（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=WMNcmF1z57)
+主购买链接：[R7-8845H 32G+1TB ￥ 4499（PDD）](https://mobile.yangkeduo.com/goods2.html?ps=cPdxfZlmsQ)
 
-副购买链接：[R7-8845H 32G+1TB ￥ 5499（JD）](https://3.cn/23h-dNUG)
+副购买链接：[R7-8845H 32G+1TB ￥ 4800（JD国补）](https://3.cn/2b-259z0)
 
 ## 总结
 
