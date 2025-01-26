@@ -8,3 +8,7 @@ docs/public/mas.cmd
 
 package-lock.json
 yarn.lock
+
+test.txt
+
+**.Identifier

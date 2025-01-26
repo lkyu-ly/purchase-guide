@@ -10,7 +10,13 @@ export default defineConfig({
 		["link", { rel: "icon", href: "/icon.png" }],
 
 		// 不好用的不蒜子
-		["script", { async: "", src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" }],
+		[
+			"script",
+			{
+				async: "",
+				src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
+			},
+		],
 
 		// 不蒜子数据修正
 		[
@@ -59,10 +65,19 @@ export default defineConfig({
 		],
 
 		// 百度 SEO
-		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
+		[
+			"meta",
+			{ name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" },
+		],
 
 		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
-		["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH" }],
+		[
+			"script",
+			{
+				async: "",
+				src: "https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH",
+			},
+		],
 		[
 			"script",
 			{},
@@ -90,7 +105,10 @@ export default defineConfig({
 				items: [
 					{ text: "笔记本电脑的分类", link: "/introduction/分类" },
 					{ text: "笔记本电脑的选择", link: "/introduction/选择" },
-					{ text: "笔记本电脑的购买渠道", link: "/introduction/购买" },
+					{
+						text: "笔记本电脑的购买渠道",
+						link: "/introduction/购买",
+					},
 				],
 			},
 			{
@@ -109,35 +127,99 @@ export default defineConfig({
 				text: "机型推荐",
 				collapsed: false,
 				items: [
-					{ text: "华硕 a豆14Air", link: "/recommend/华硕a豆14Air" },
-					{ text: "华硕 天选5锐龙版", link: "/recommend/华硕天选5锐龙版" },
-					{ text: "华硕 天选5pro锐龙版", link: "/recommend/华硕天选5pro锐龙版" },
-					{ text: "华硕 天选Air ", link: "/recommend/华硕天选Air" },
-					{ text: "惠普 星BookPro14", link: "/recommend/惠普星BookPro14" },
-					{ text: "联想 ThinkBook14+ 2023/2024", link: "/recommend/联想ThinkBook14plus" }, // + 号导致直接访问页面 404, 改为 plus
-					{ text: "机械革命 无界 14X/15X", link: "/recommend/机械革命无界14Xor15X" },
-					{ text: "机械革命 蛟龙15K/Pro", link: "/recommend/机械革命蛟龙15KorPRO" },
-					{ text: "机械革命 蛟龙16pro", link: "/recommend/机械革命蛟龙16pro" },
 					{
-						text: "机械革命 耀世/翼龙15Pro",
+						text: "华硕 a豆 14Air",
+						link: "/recommend/华硕a豆14Air",
+					},
+					{
+						text: "华硕 灵耀 14Air",
+						link: "/recommend/华硕灵耀14Air",
+					},
+					{
+						text: "华硕 天选 5 锐龙版",
+						link: "/recommend/华硕天选5锐龙版",
+					},
+					{
+						text: "华硕 天选 5Pro 锐龙版",
+						link: "/recommend/华硕天选5pro锐龙版",
+					},
+					{ text: "华硕 天选 Air ", link: "/recommend/华硕天选Air" },
+					{
+						text: "惠普 星 Book Pro13",
+						link: "/recommend/惠普星BookPro13",
+					},
+					{
+						text: "惠普 星 Book Pro14",
+						link: "/recommend/惠普星BookPro14",
+					},
+					{
+						text: "火影 焕 16Air",
+						link: "/recommend/火影焕16Air",
+					},
+					{
+						text: "联想 ThinkBook14+ 2023/2024",
+						link: "/recommend/联想ThinkBook14plus",
+					}, // + 号导致直接访问页面 404, 改为 plus
+					{
+						text: "联想 ThinkBook 16P 2024",
+						link: "/recommend/联想ThinkBook16P2024",
+					},
+					{
+						text: "联想拯救者 R9000P 2024",
+						link: "/recommend/联想拯救者R9000P2024",
+					},
+					{
+						text: "机械革命 无界 14X/15X",
+						link: "/recommend/机械革命无界14Xor15X",
+					},
+					{
+						text: "机械革命 蛟龙 15K/Pro",
+						link: "/recommend/机械革命蛟龙15KorPRO",
+					},
+					{
+						text: "机械革命 蛟龙 16Pro",
+						link: "/recommend/机械革命蛟龙16pro",
+					},
+					{
+						text: "机械革命 耀世/翼龙 15Pro",
 						link: "/recommend/机械革命耀世or翼龙15Pro",
 					},
-					{ text: "机械革命 极光X", link: "/recommend/机械革命极光X" },
+					{
+						text: "机械革命 极光 X",
+						link: "/recommend/机械革命极光X",
+					},
+					{
+						text: "七彩虹 橘宝 R16",
+						link: "/recommend/七彩虹橘宝R16",
+					},
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 
 					// 2025年1月20日删除
 					// { text: "机械革命 无界14Pro", link: "/recommend/机械革命无界14Pro" },
 					// { text: "红米 RedmiBook Pro 16 2024", link: "/recommend/RedmiBookPro16" },
 					// { text: "七彩虹 隐星P15 TA ", link: "/recommend/p15ta" },
-
 					// { text: "ROG 魔霸7plus", link: "/recommend/ROG魔霸7plus" },
 				],
 			},
-			{ text: "<b>额外问题答疑</b>", collapsed: false, link: "/more" },
+			{
+				text: "额外问题答疑",
+				collapsed: false,
+				link: "/more",
+				items: [],
+			},
+			{
+				text: "更新日志",
+				collapsed: false,
+				link: "/changelog",
+				items: [],
+			},
 		],
 
 		socialLinks: [
-			{ icon: "github", link: "https://github.com/lkyu-ly/purchase-guide" },
+			{
+				icon: "github",
+				link: "https://github.com/lkyu-ly/purchase-guide",
+			},
 			{
 				icon: {
 					svg: '<svg t="1722964922512" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1448" data-darkreader-inline-fill="" width="200" height="200"><path d="M824.8 613.2c-16-51.4-34.4-94.6-62.7-165.3C766.5 262.2 689.3 112 511.5 112 331.7 112 256.2 265.2 261 447.9c-28.4 70.8-46.7 113.7-62.7 165.3-34 109.5-23 154.8-14.6 155.8 18 2.2 70.1-82.4 70.1-82.4 0 49 25.2 112.9 79.8 159-26.4 8.1-85.7 29.9-71.6 53.8 11.4 19.3 196.2 12.3 249.5 6.3 53.3 6 238.1 13 249.5-6.3 14.1-23.8-45.3-45.7-71.6-53.8 54.6-46.2 79.8-110.1 79.8-159 0 0 52.1 84.6 70.1 82.4 8.5-1.1 19.5-46.4-14.5-155.8z" p-id="1449"></path></svg>',
@@ -168,6 +250,7 @@ export default defineConfig({
 			// 		'<ol class="footnotes-list">\n'
 			// 	);
 			// }
+
 			// 重写
 			md.renderer.rules.footnote_block_open = () => {
 				return (
