@@ -98,7 +98,7 @@ export default defineConfig({
 		],
 
 		sidebar: [
-			{ text: "写在前面", items: [{ text: "前言", link: "/前言" }] },
+			{ text: "写在前面", collapsed: false, items: [], link: "/前言" },
 			{
 				text: "笔记本电脑选购须知",
 				collapsed: false,
