@@ -6,10 +6,6 @@
 	overflow: auto;
 }
 
-h1 {
-	color: #3451ad;
-}
-
 .vp-doc {
 	p {
 		text-indent: 2rem;
@@ -32,6 +28,15 @@ h1 {
 		p {
 			text-indent: 0;
 		}
+	}
+	h1 {
+		color: #3451ad;
+	}
+	h2 {
+		margin: 24px 0 16px;
+	}
+	h3 {
+		margin: 16px 0 0;
 	}
 }
 
@@ -60,6 +65,6 @@ h1 {
 	padding: 128px 64px 48px ;
 }  */
 
-.VPSidebarItem.level-0.collapsible{
+.VPSidebarItem.level-0.collapsible {
 	padding-bottom: 12px;
 }
