@@ -2,9 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/魔霸7plus%201.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="../assets/魔霸7plus%201.png" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/魔霸7plus%202.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="../assets/魔霸7plus%202.png" /></div>
 
 ## 配置
 
