@@ -1,17 +1,18 @@
 {
 	"devDependencies": {
 		"medium-zoom": "^1.1.0",
-		"vitepress": "^1.5.0",
+		"vitepress": "^1.6.0",
 		"vue": "^3.5.13"
 	},
 	"scripts": {
 		"docs:dev": "vitepress dev docs",
 		"docs:build": "node docs/public/js/fetch.cjs && vitepress build docs",
+		"docsonly:build": "vitepress build docs",
 		"docs:preview": "vitepress preview docs"
 	},
 	"dependencies": {
 		"download": "^8.0.0",
 		"markdown-it-footnote": "^4.0.0"
 	},
-	"packageManager": "pnpm@9.2.0+sha512.98a80fd11c2e7096747762304106432b3ddc67dcf54b5a8c01c93f68a2cd5e05e6821849522a06fb76284d41a2660d5e334f2ee3bbf29183bf2e739b1dafa771"
+	"packageManager": "pnpm@9.15.4"
 }

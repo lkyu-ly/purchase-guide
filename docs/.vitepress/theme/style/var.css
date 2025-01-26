@@ -6,10 +6,6 @@
 	overflow: auto;
 }
 
-h1 {
-	color: #3451ad;
-}
-
 .vp-doc {
 	p {
 		text-indent: 2rem;
@@ -33,8 +29,18 @@ h1 {
 			text-indent: 0;
 		}
 	}
+	h1 {
+		color: #3451ad;
+	}
+	h2 {
+		margin: 24px 0 16px;
+	}
+	h3 {
+		margin: 16px 0 0;
+	}
 }
 
+/* 引用样式 */
 .vp-doc blockquote {
 	border-radius: 5px;
 	padding: 10px 16px;
@@ -53,4 +59,12 @@ h1 {
 
 .image-container {
 	top: 10%;
+}
+
+/* .VPHero.has-image.VPHomeHero{
+	padding: 128px 64px 48px ;
+}  */
+
+.VPSidebarItem.level-0.collapsible {
+	padding-bottom: 12px;
 }
