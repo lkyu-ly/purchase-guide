@@ -35,6 +35,7 @@ h1 {
 	}
 }
 
+/* 引用样式 */
 .vp-doc blockquote {
 	border-radius: 5px;
 	padding: 10px 16px;
@@ -58,3 +59,7 @@ h1 {
 /* .VPHero.has-image.VPHomeHero{
 	padding: 128px 64px 48px ;
 }  */
+
+.VPSidebarItem.level-0.collapsible{
+	padding-bottom: 12px;
+}
