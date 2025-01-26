@@ -128,12 +128,52 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{
+						text: "机械革命 无界 14X/15X",
+						link: "/recommend/机械革命无界14Xor15X",
+					},
+					{
+						text: "联想 ThinkBook14+ 2023/2024",
+						link: "/recommend/联想ThinkBook14plus",
+					}, // + 号导致直接访问页面 404, 改为 plus
+					{
+						text: "惠普 星 Book Pro14",
+						link: "/recommend/惠普星BookPro14",
+					},
+					{
 						text: "华硕 a豆 14Air",
 						link: "/recommend/华硕a豆14Air",
 					},
 					{
+						text: "惠普 星 Book Pro13",
+						link: "/recommend/惠普星BookPro13",
+					},
+					{
 						text: "华硕 灵耀 14Air",
 						link: "/recommend/华硕灵耀14Air",
+					},
+					{
+						text: "机械革命 蛟龙 15K/Pro",
+						link: "/recommend/机械革命蛟龙15KorPRO",
+					},
+					{
+						text: "机械革命 极光 X",
+						link: "/recommend/机械革命极光X",
+					},
+					{
+						text: "机械革命 蛟龙 16Pro",
+						link: "/recommend/机械革命蛟龙16pro",
+					},
+					{
+						text: "七彩虹 橘宝 R16",
+						link: "/recommend/七彩虹橘宝R16",
+					},
+					{
+						text: "火影 焕 16Air",
+						link: "/recommend/火影焕16Air",
+					},
+					{
+						text: "机械革命 耀世/翼龙 15Pro",
+						link: "/recommend/机械革命耀世or翼龙15Pro",
 					},
 					{
 						text: "华硕 天选 5 锐龙版",
@@ -143,55 +183,15 @@ export default defineConfig({
 						text: "华硕 天选 5Pro 锐龙版",
 						link: "/recommend/华硕天选5pro锐龙版",
 					},
-					{ text: "华硕 天选 Air ", link: "/recommend/华硕天选Air" },
 					{
-						text: "惠普 星 Book Pro13",
-						link: "/recommend/惠普星BookPro13",
+						text: "联想 拯救者 R9000P 2024",
+						link: "/recommend/联想拯救者R9000P2024",
 					},
-					{
-						text: "惠普 星 Book Pro14",
-						link: "/recommend/惠普星BookPro14",
-					},
-					{
-						text: "火影 焕 16Air",
-						link: "/recommend/火影焕16Air",
-					},
-					{
-						text: "联想 ThinkBook14+ 2023/2024",
-						link: "/recommend/联想ThinkBook14plus",
-					}, // + 号导致直接访问页面 404, 改为 plus
 					{
 						text: "联想 ThinkBook 16P 2024",
 						link: "/recommend/联想ThinkBook16P2024",
 					},
-					{
-						text: "联想拯救者 R9000P 2024",
-						link: "/recommend/联想拯救者R9000P2024",
-					},
-					{
-						text: "机械革命 无界 14X/15X",
-						link: "/recommend/机械革命无界14Xor15X",
-					},
-					{
-						text: "机械革命 蛟龙 15K/Pro",
-						link: "/recommend/机械革命蛟龙15KorPRO",
-					},
-					{
-						text: "机械革命 蛟龙 16Pro",
-						link: "/recommend/机械革命蛟龙16pro",
-					},
-					{
-						text: "机械革命 耀世/翼龙 15Pro",
-						link: "/recommend/机械革命耀世or翼龙15Pro",
-					},
-					{
-						text: "机械革命 极光 X",
-						link: "/recommend/机械革命极光X",
-					},
-					{
-						text: "七彩虹 橘宝 R16",
-						link: "/recommend/七彩虹橘宝R16",
-					},
+					{ text: "华硕 天选 Air ", link: "/recommend/华硕天选Air" },
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 
 					// 2025年1月20日删除
