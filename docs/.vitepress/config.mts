@@ -200,6 +200,7 @@ export default defineConfig({
 					// { text: "七彩虹 隐星P15 TA ", link: "/recommend/p15ta" },
 					// { text: "ROG 魔霸7plus", link: "/recommend/ROG魔霸7plus" },
 				],
+				link: "/recommend/推荐",
 			},
 			{
 				text: "额外问题答疑",
