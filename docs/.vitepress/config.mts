@@ -1,11 +1,12 @@
 import mdFootnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
+import markdownItVideo from "@vrcd-community/markdown-it-video";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
-	description: "MOE频道2024年新生购机指南",
+	description: "MOE 频道 2025 年新生购机指南",
 	head: [
 		["link", { rel: "icon", href: "/icon.png" }],
 
@@ -54,7 +55,7 @@ export default defineConfig({
 		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		[
 			"script",
-			{},
+			{ async: true, defer: true },
 			`window._hmt = window._hmt || [];
 			(function() {
 			var hm = document.createElement("script");
@@ -260,6 +261,16 @@ export default defineConfig({
 					'<ol class="footnotes-list">\n'
 				);
 			};
+
+			// 引入视频解析播放插件
+			md.use(markdownItVideo, {
+				youtube: { width: "100%", height: "387px" },
+				bilibili: {
+					width: "100%",
+					height: "387px",
+					parameters: {},
+				},
+			});
 		},
 	},
 
