@@ -60,16 +60,13 @@ export default defineConfig({
 			(function() {
 			var hm = document.createElement("script");
 			hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
-			var s = document.getElementsByTagName("script")[0]; 
+			var s = document.getElementsByTagName("script")[0];
 			s.parentNode.insertBefore(hm, s);
 			})();`,
 		],
 
 		// 百度 SEO
-		[
-			"meta",
-			{ name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" },
-		],
+		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
 
 		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
 		[
@@ -264,11 +261,15 @@ export default defineConfig({
 
 			// 引入视频解析播放插件
 			md.use(markdownItVideo, {
-				youtube: { width: "100%", height: "387px" },
 				bilibili: {
 					width: "100%",
 					height: "387px",
-					parameters: {},
+					parameters: {
+						autoplay: false, // 自动播放
+						poster: true, // 封面预览
+						// danmaku:true // 弹幕开关
+						muted: true, // 静音播放
+					},
 				},
 			});
 		},
@@ -279,3 +280,4 @@ export default defineConfig({
 		hostname: "https://moe.lkyu.cf",
 	},
 });
+
