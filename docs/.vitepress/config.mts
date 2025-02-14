@@ -1,11 +1,12 @@
 import mdFootnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
+import markdownItVideo from "@vrcd-community/markdown-it-video";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
-	description: "MOE频道2024年新生购机指南",
+	description: "MOE 频道 2025 年新生购机指南",
 	head: [
 		["link", { rel: "icon", href: "/icon.png" }],
 
@@ -54,21 +55,18 @@ export default defineConfig({
 		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		[
 			"script",
-			{},
+			{ async: true, defer: true },
 			`window._hmt = window._hmt || [];
 			(function() {
 			var hm = document.createElement("script");
 			hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
-			var s = document.getElementsByTagName("script")[0]; 
+			var s = document.getElementsByTagName("script")[0];
 			s.parentNode.insertBefore(hm, s);
 			})();`,
 		],
 
 		// 百度 SEO
-		[
-			"meta",
-			{ name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" },
-		],
+		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
 
 		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
 		[
@@ -260,6 +258,20 @@ export default defineConfig({
 					'<ol class="footnotes-list">\n'
 				);
 			};
+
+			// 引入视频解析播放插件
+			md.use(markdownItVideo, {
+				bilibili: {
+					width: "100%",
+					height: "387px",
+					parameters: {
+						autoplay: false, // 自动播放
+						poster: true, // 封面预览
+						// danmaku:true // 弹幕开关
+						muted: true, // 静音播放
+					},
+				},
+			});
 		},
 	},
 
@@ -268,3 +280,4 @@ export default defineConfig({
 		hostname: "https://moe.lkyu.cf",
 	},
 });
+

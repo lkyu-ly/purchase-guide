@@ -48,7 +48,9 @@
 	position: relative;
 	border-left: 4px solid #4eaaff;
 }
-
+.vp-doc ol li p {
+	text-indent: 0;
+}
 .medium-zoom-overlay {
 	z-index: 30;
 }

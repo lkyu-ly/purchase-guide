@@ -4,8 +4,8 @@ layout: home
 
 hero:
     name: "MOE 购机指南"
-    text: "MOE频道：2024年 \n新生购机指南"
-    tagline: 写给大学新生的电脑科普&购买一体方案
+    text: "MOE 频道：2025年 \n笔记本购机指南"
+    tagline: 写给大学生的电脑科普&购买一体方案
     image: /icon.png
     actions:
         - theme: brand
@@ -18,7 +18,7 @@ hero:
           text: 常见问题解答
           link: /more
         - theme: alt
-          text: PDF版下载(蓝奏云，密码：3nos)
+          text: PDF版下载（目前仅 2024 版，蓝奏云，密码：3nos）
           link: https://misaka-h.lanzouj.com/b0plwi1le?pwd=3nos
 features:
     - icon: 🎣
@@ -26,7 +26,7 @@ features:
       details: 不仅推荐良心型号，更科普硬件知识。
     - icon: 👥
       title: 参与人员
-      details: 主笔：MOE-她说彩礼50W <a href="mailto:1209451703@qq.com" >[<u>邮箱</u>]</a><br/>排版/网站：lkyu<br/>通讯作者：A客服小莫
+      details: 主笔：<b>MOE-她说彩礼50W</b> <a href="mailto:1209451703@qq.com" >[<u>邮箱</u>]</a><br/>排版/网站：<b>lkyu</b><br/>通讯作者：<b>A客服小莫</b>
     - icon: 🐧
       title: 我们的 QQ 群
       details: <a href="https://qm.qq.com/q/HU05k45VmK">304067847<br>点击加入</a>
