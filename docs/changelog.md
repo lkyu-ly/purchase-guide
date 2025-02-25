@@ -1,5 +1,10 @@
 # 更新日志 Changelog
 
+## VER 1.1.2 (2025-02-23)
+
+- 部分文本勘误；
+- 同步更新发布 PDF 版（试阅，勘误后上传首页蓝奏云）。
+
 ## VER 1.1.1 (2025-01-27)
 
 - 审核所有文本，提高严谨性；
@@ -26,7 +31,7 @@
 ## VER 1.0.3 (2025-01-20)
 
 - 全面使用透明底图片，便于夜间模式观看；<br/>
-    抠图模型：[BRIA-RMBG-2.0](https://huggingface.co/spaces/briaai/BRIA-RMBG-2.0)
+  抠图模型：[BRIA-RMBG-2.0](https://huggingface.co/spaces/briaai/BRIA-RMBG-2.0)
 - 删除一批旧机型，开始准备新版本编写。
 
 ## VER 1.0.2 (2024-08-23)

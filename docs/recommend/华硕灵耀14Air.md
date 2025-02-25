@@ -14,6 +14,7 @@
         <source src="./assets/华硕灵耀14Air.mp4" type="video/mp4">
     </video>
 </div>
+<p style="text-align: center;">视频来自<a href='https://www.asus.com.cn/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/'>官方产品展示页</a></p>
 
 <div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
 
