@@ -207,6 +207,16 @@ export default defineConfig({
 				items: [],
 			},
 			{
+				text: "其他文章",
+				collapsed: false,
+				items: [
+					{
+						text: "Dive Deeper, Seek Further<br/>一种高效、稳定的 DeepSeek 系列模型调度方案",
+						link: "/misc/DeepSeek-guide",
+					},
+				],
+			},
+			{
 				text: "更新日志",
 				collapsed: false,
 				link: "/changelog",
@@ -280,4 +290,3 @@ export default defineConfig({
 		hostname: "https://moe.lkyu.cf",
 	},
 });
-
