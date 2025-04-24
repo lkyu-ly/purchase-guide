@@ -1,6 +1,6 @@
+import markdownItVideo from "@vrcd-community/markdown-it-video";
 import mdFootnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
-import markdownItVideo from "@vrcd-community/markdown-it-video";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
