@@ -2,8 +2,8 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="../assets/p15ta.png" /></div>
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="../assets/p15ta 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/p15ta.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/p15ta 1.png" /></div>
 
 ## 配置
 

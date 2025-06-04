@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="../assets/机械革命无界14Pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/机械革命无界14Pro.png" /></div>
 
 ## 配置
 

@@ -2,7 +2,7 @@
 	"devDependencies": {
 		"medium-zoom": "^1.1.0",
 		"vitepress": "^1.6.3",
-		"vue": "^3.5.13"
+		"vue": "^3.5.16"
 	},
 	"scripts": {
 		"docs:dev": "vitepress dev docs",
@@ -15,5 +15,5 @@
 		"download": "^8.0.0",
 		"markdown-it-footnote": "^4.0.0"
 	},
-	"packageManager": "pnpm@9.15.4"
+	"packageManager": "pnpm@10.11.1"
 }
