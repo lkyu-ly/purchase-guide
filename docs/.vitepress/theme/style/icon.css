@@ -1,0 +1,14 @@
+.fa-solid,
+.fa-regular,
+.fa-brands {
+	width: 1.2em;
+	vertical-align: middle;
+	text-align: center;
+}
+
+svg:where(.iconify) {
+	display: inline-block;
+	flex-shrink: 0;
+	font-size: 1.2em;
+	vertical-align: sub;
+}

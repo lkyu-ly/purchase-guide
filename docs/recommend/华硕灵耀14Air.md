@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
+
 <div style="
     width: 70%;
     max-width: 800px;
@@ -16,8 +18,6 @@
 </div>
 <p style="text-align: center;">视频来自<a href='https://www.asus.com.cn/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/'>官方产品展示页</a></p>
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
-
 ## 配置
 
 |   项目   |                  参数                  |
@@ -31,7 +31,19 @@
 | 供电配置 |        65W PD 充电；72Wh 锂电池        |
 | 网络配置 |             BE201 无线网卡             |
 
-[主购买链接：Ultra7 258V 32G+1TB ￥ 7519（JD 国补）](https://3.cn/2b-2iKlu)
+主购买链接：[Ultra-7 258V 32G+1TB ￥ 7199.2（JD 国补）](https://3.cn/2i8H0-5T)
+
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+
+|              优点              |              缺点              |
+| :----------------------------: | :----------------------------: |
+| 游戏性能不错，重量轻薄便于携带 |  内部拓展性较差，硬盘水平一般  |
+|          续航能力极强          | 机身满载噪音较大，发热相对严重 |
+|       外观设计与做工较好       |                                |
+
+## 适合人群
+
+对预算不那么敏感，对做工与品牌有着较高的需求，需要一台续航极强同时质量较轻，便携性好的办公本，有着较高的出行需求。
 
 ## 总结
 

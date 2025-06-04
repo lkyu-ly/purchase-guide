@@ -1,19 +1,23 @@
 {
-	"devDependencies": {
-		"medium-zoom": "^1.1.0",
-		"vitepress": "^1.6.3",
-		"vue": "^3.5.13"
-	},
 	"scripts": {
 		"docs:dev": "vitepress dev docs",
 		"docs:build": "node docs/public/js/fetch.cjs && vitepress build docs",
 		"docsonly:build": "vitepress build docs",
-		"docs:preview": "vitepress preview docs"
+		"docs:preview": "vitepress preview docs",
+		"clean": "rm -rf docs/.vitepress/dist docs/.vitepress/cache"
 	},
 	"dependencies": {
+		"@iconify/vue": "^5.0.0",
+		"@theojs/lumen": "^5.6.0",
 		"@vrcd-community/markdown-it-video": "^1.1.1",
+		"busuanzi.pure.js": "^1.0.3",
 		"download": "^8.0.0",
-		"markdown-it-footnote": "^4.0.0"
+		"markdown-it-footnote": "^4.0.0",
+		"medium-zoom": "^1.1.0",
+		"nprogress-v2": "^1.1.10",
+		"recaptcha-v3": "^1.11.3",
+		"vitepress": "^1.6.3",
+		"vue": "^3.5.16"
 	},
-	"packageManager": "pnpm@9.15.4"
+	"packageManager": "pnpm@10.11.1"
 }

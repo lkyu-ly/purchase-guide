@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="../assets/redmibookpro%2016%202024.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/redmibookpro%2016%202024.png" /></div>
 
 ## 配置
 

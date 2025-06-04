@@ -1,5 +1,38 @@
 # 更新日志 Changelog
 
+<!-- 由于全局使用`text-indent: 2rem`，即默认段落缩进两个字符，本页面列表较多，普通文本若显示不美观请用`<p style="text-indent: 0"></p>`包裹 -->
+
+## VER 2.0.2.20250607_beta
+
+<p style="text-indent: 0">汇总 6 月 4 日到 7 日的更新内容：</p>
+
+<p style="text-indent: 0">内容部分</p>
+
+- 添加两张 GPU 相关的图片资源
+- 继续更新 2025 年推荐机型，目前更新到[联想 ThinkBook 16P 2025](/recommend/联想ThinkBook16P2025)，已有推荐机型部分勘误
+- 部分综述性内容更新，见[笔记本电脑的分类](/introduction/分类)和[笔记本电脑的选择](/introduction/选择)
+- 延长通知停驻时间至 20s，调整通知展示效果使其更美观显眼
+- 针对本次机型推荐新增的“优缺点”部分作出[统一说明](/recommend/推荐#优缺点)
+
+<p style="text-indent: 0">技术部分</p>
+
+- 引入`@theojs/lumen`库，引入封装好的百度统计和 Google Analytics 功能，同时删除二者的手动实现
+- 实现路由转换时加载指示器（进度条）、实现首页大标题和 logo 的 RGB 渐变效果、引入`iconify`组件库以实现图标显示功能
+- 在 Vite 优化中包含 `recaptcha-v3` 以修复本地开发热更新问题
+- 更新依赖项并将一些开发依赖项移至生产环境，因为这并不是用于分发的 npm 包，详情请参见[此文章](https://blog.csdn.net/zz_jesse/article/details/139348751)
+- 调整首页 QQ 群链接为新建空白页，防止顶掉当前页面
+- 调整自定义 markdown 渲染的部分 css 代码
+- 其他细节改动
+
+## VER 2.0.1.20250604_beta
+
+- 删去旧机型，在此列出：惠普 星 Book Pro14、华硕 a 豆 14Air、惠普 星 Book Pro13、机械革命 蛟龙 15K/Pro、七彩虹 橘宝 R16、火影 焕 16Air、机械革命 耀世/翼龙 15Pro、华硕 天选 5 锐龙版、华硕 天选 5Pro 锐龙版、联想 拯救者 R9000P 2024、联想 ThinkBook 16P 2024、华硕 天选 Air
+- 移除过时的图像资源并更新为新版本的引用
+- 添加处理旧图像的维护说明，将它们移动到 `asset/old` 文件夹
+- 修复图片迁移导致的文档文件中的图像路径引用错误
+- 部分依赖包版本更新
+- 为 ThinkBook 16P 添加遗漏的产品图像
+
 ## VER 2.0.0.20250418_base
 
 - 更新第二版前言
@@ -9,7 +42,7 @@
 ## VER 1.1.3.20250225_release
 
 - 添加了新的文章集合
-- 发布了新文章：《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》
+- 发布了新文章：[《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》](misc/DeepSeek-Guide)
 
 ## VER 1.1.2.20250223_release
 
@@ -26,7 +59,7 @@
 
 ## VER 1.1.0.20250126_beta
 
-- 新增`惠普 星 Book Pro13`、`华硕灵耀 14Air`、`火影 焕 16Air` 等近期新上市的机器，删除了`无界 14Pro`、`隐星 P15 TA` 等缺货或产品力不足的机器。
+- 新增近期新上市的机器，在下方列出：
   - 惠普 星 Book Pro 13
   - 华硕灵耀 14Air
   - 火影 焕 16Air
@@ -43,7 +76,8 @@
 
 - 全面使用透明底图片，便于夜间模式观看；<br/>
   抠图模型：[BRIA-RMBG-2.0](https://huggingface.co/spaces/briaai/BRIA-RMBG-2.0)
-- 删除一批旧机型，开始准备新版本编写。
+- 删除一批旧机型，开始准备新版本编写
+  - 机械革命 无界 14Pro、红米 RedmiBook Pro 16 2024、七彩虹 隐星 P15 TA 、ROG 魔霸 7plus
 
 ## VER 1.0.2.20240823_release
 
@@ -60,4 +94,4 @@
 
 ## VER 1.0.0.20240807_beta
 
-首次发布。
+<p style="text-indent: 0">首次发布。</p>
