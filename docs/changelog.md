@@ -1,6 +1,6 @@
 # 更新日志 Changelog
 
-## VER 2.0.1.20250604_dev
+## VER 2.0.1.20250604_beta
 
 - 移除过时的图像资源并更新为新版本的引用
 - 添加处理旧图像的维护说明，将它们移动到 `asset/old` 文件夹
@@ -17,7 +17,7 @@
 ## VER 1.1.3.20250225_release
 
 - 添加了新的文章集合
-- 发布了新文章：《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》
+- 发布了新文章：[《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》](misc/DeepSeek-Guide)
 
 ## VER 1.1.2.20250223_release
 
