@@ -10,7 +10,7 @@
 | 核心配置 |                 锐龙 7 H 255                 |
 | 存储配置 |       32G DDR5-5600MT/s、1T YMTC PC300       |
 | 屏幕配置 | 2880\*1800；100% sRGB 高色域；120Hz；400nits |
-| USB 接口 | USB-A:5Gbps\*3 ；USB-C:40Gbps\*1、10Gbps\*1  |
+| USB 接口 |  USB-A:5Gbps\*3；USB-C:40Gbps\*1、10Gbps\*1  |
 | 影音接口 |       HDMI 2.1；3.5mm 音频接口；DP 1.4       |
 | 其它接口 |         Micro SD 读卡器；TGX OCuLink         |
 | 供电配置 |          100W PD 充电；80Wh 锂电池           |

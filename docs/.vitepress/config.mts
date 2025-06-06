@@ -129,23 +129,48 @@ export default defineConfig({
 						text: "机械革命 无界 14X/15X",
 						link: "/recommend/机械革命无界14Xor15X",
 					},
-					{
-						text: "华硕 灵耀 14Air",
-						link: "/recommend/华硕灵耀14Air",
-					},
+
 					{
 						text: "联想来酷 Pro 14",
 						link: "/recommend/联想来酷Pro14",
 					},
 					{
-						text: "机械革命 无界15X Pro",
+						text: "机械革命 无界 15XPro",
 						link: "/recommend/机械革命无界15XPro",
 					},
+					{
+						text: "机械革命 星耀 14",
+						link: "/recommend/机械革命星耀14",
+					},
+					{
+						text: "荣耀 MagicBook Pro 14",
+						link: "/recommend/荣耀MagicBookPro14",
+					},
+					{
+						text: "联想 ThinkBook14+ 2025",
+						link: "/recommend/联想ThinkBook14plus",
+					}, // + 号导致直接访问页面 404, 改为 plus
+					{
+						text: "华硕 灵耀 14Air",
+						link: "/recommend/华硕灵耀14Air",
+					},
+					{
+						text: "机械革命 极光 X/XPRO",
+						link: "/recommend/机械革命极光X(PRO)",
+					},
+					{
+						text: "机械革命 蛟龙 16Pro 2025",
+						link: "/recommend/机械革命蛟龙16pro",
+					},
+					{
+						text: "华硕天选 6 Pro 锐龙版",
+						link: "/recommend/华硕天选6Pro锐龙版",
+					},
+					{
+						text: "华硕天选Air",
+						link: "/recommend/华硕天选Air",
+					},
 					// 2025年6月5日删除
-					// {
-					// 	text: "联想 ThinkBook14+ 2023/2024",
-					// 	link: "/recommend/联想ThinkBook14plus",
-					// }, // + 号导致直接访问页面 404, 改为 plus
 					// {
 					// 	text: "惠普 星 Book Pro14",
 					// 	link: "/recommend/惠普星BookPro14",
@@ -161,14 +186,6 @@ export default defineConfig({
 					// {
 					// 	text: "机械革命 蛟龙 15K/Pro",
 					// 	link: "/recommend/机械革命蛟龙15KorPRO",
-					// },
-					// {
-					// 	text: "机械革命 极光 X",
-					// 	link: "/recommend/机械革命极光X",
-					// },
-					// {
-					// 	text: "机械革命 蛟龙 16Pro",
-					// 	link: "/recommend/机械革命蛟龙16pro",
 					// },
 					// {
 					// 	text: "七彩虹 橘宝 R16",
@@ -200,6 +217,7 @@ export default defineConfig({
 					// },
 					// { text: "华硕 天选 Air ", link: "/recommend/华硕天选Air" },
 					// { text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
+
 					// 2025年1月20日删除
 					// { text: "机械革命 无界14Pro", link: "/recommend/机械革命无界14Pro" },
 					// { text: "红米 RedmiBook Pro 16 2024", link: "/recommend/RedmiBookPro16" },
