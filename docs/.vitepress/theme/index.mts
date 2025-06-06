@@ -8,7 +8,7 @@ import { nextTick, onMounted, watch, h } from "vue";
 import { NProgress } from "nprogress-v2/dist/index.js"; // 进度条组件
 import { inBrowser } from "vitepress";
 import "nprogress-v2/dist/index.css"; // 进度条样式
-import update from "./components/update.vue";
+
 import notice from "./components/notice.vue";
 // // 百度统计
 // // 2025-02-01: 将路由统计时机从 `onBeforeRouteChange` 改为 `onAfterRouteChange`，并增加 `_hmt` 未定义的检查
@@ -24,10 +24,13 @@ import notice from "./components/notice.vue";
 // 	};
 // };
 
+// 彩虹背景动画样式
+let homePageStyle: HTMLStyleElement | undefined;
+
 export default {
 	extends: DefaultTheme,
 	// ...DefaultTheme, //或者这样写也可
-	enhanceApp: ({ app, router, }) => {
+	enhanceApp: ({ app, router }) => {
 		// 谷歌统计
 		googleAnalytics({ id: "G-V759BJWZQH" });
 
@@ -36,8 +39,6 @@ export default {
 		if (typeof window !== "undefined") {
 			trackPageview("c897c23eafd0a95ee950211d63d82054", window.location.href);
 		}
-		// 标题下添加时间
-		app.component("update", update);
 
 		if (inBrowser) {
 			NProgress.configure({ showSpinner: false });
@@ -47,6 +48,15 @@ export default {
 			router.onAfterRouteChanged = () => {
 				NProgress.done(); // 停止进度条
 			};
+		}
+
+		// 彩虹背景动画样式
+		if (typeof window !== "undefined") {
+			watch(
+				() => router.route.data.relativePath,
+				() => updateHomePageStyle(location.pathname === "/"),
+				{ immediate: true }
+			);
 		}
 	},
 
@@ -71,3 +81,22 @@ export default {
 		});
 	},
 };
+
+// 彩虹背景动画样式
+function updateHomePageStyle(value: boolean) {
+  if (value) {
+    if (homePageStyle) return
+
+    homePageStyle = document.createElement('style')
+    homePageStyle.innerHTML = `
+    :root {
+      animation: rainbow 12s linear infinite;
+    }`
+    document.body.appendChild(homePageStyle)
+  } else {
+    if (!homePageStyle) return
+
+    homePageStyle.remove()
+    homePageStyle = undefined
+  }
+}

@@ -8,7 +8,7 @@ function closeBulletin() {
 
 setTimeout(function () {
 	visible.value = false;
-}, 5000); // 消失时间在这里
+}, 10000); // 消失时间在这里
 </script>
 
 <template>
