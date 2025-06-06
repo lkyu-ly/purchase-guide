@@ -52,38 +52,38 @@ export default defineConfig({
 		});`,
 		],
 
-		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
-		[
-			"script",
-			{ async: true, defer: true },
-			`window._hmt = window._hmt || [];
-			(function() {
-			var hm = document.createElement("script");
-			hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
-			var s = document.getElementsByTagName("script")[0];
-			s.parentNode.insertBefore(hm, s);
-			})();`,
-		],
+		// // 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
+		// [
+		// 	"script",
+		// 	{ async: true, defer: true },
+		// 	`window._hmt = window._hmt || [];
+		// 	(function() {
+		// 	var hm = document.createElement("script");
+		// 	hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
+		// 	var s = document.getElementsByTagName("script")[0];
+		// 	s.parentNode.insertBefore(hm, s);
+		// 	})();`,
+		// ],
 
 		// 百度 SEO
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
 
-		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
-		[
-			"script",
-			{
-				async: "",
-				src: "https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH",
-			},
-		],
-		[
-			"script",
-			{},
-			`window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'G-V759BJWZQH');`,
-		],
+		// // 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
+		// [
+		// 	"script",
+		// 	{
+		// 		async: "",
+		// 		src: "https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH",
+		// 	},
+		// ],
+		// [
+		// 	"script",
+		// 	{},
+		// 	`window.dataLayer = window.dataLayer || [];
+		// 	function gtag(){dataLayer.push(arguments);}
+		// 	gtag('js', new Date());
+		// 	gtag('config', 'G-V759BJWZQH');`,
+		// ],
 	],
 	cleanUrls: true,
 	themeConfig: {
@@ -314,5 +314,10 @@ export default defineConfig({
 	lastUpdated: true,
 	sitemap: {
 		hostname: "https://moe.lkyu.cf",
+	},
+	vite: {
+		optimizeDeps: {
+			include: ["recaptcha-v3"],
+		},
 	},
 });

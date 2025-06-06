@@ -34,3 +34,5 @@ features:
     title: 最新文章
     details: <a href="/misc/DeepSeek-Guide"><strong>《Dive Deeper, Seek Further<br/>一种高效、稳定的 DeepSeek 系列模型调度方案》</strong></a>
 ---
+
+<update />
