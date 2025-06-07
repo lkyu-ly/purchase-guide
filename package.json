@@ -7,7 +7,8 @@
 		"clean": "rm -rf docs/.vitepress/dist docs/.vitepress/cache"
 	},
 	"dependencies": {
-		"@theojs/lumen": "^5.5.0",
+		"@iconify/vue": "^5.0.0",
+		"@theojs/lumen": "^5.6.0",
 		"@vrcd-community/markdown-it-video": "^1.1.1",
 		"download": "^8.0.0",
 		"markdown-it-footnote": "^4.0.0",

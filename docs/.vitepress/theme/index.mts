@@ -10,6 +10,8 @@ import { inBrowser } from "vitepress";
 import "nprogress-v2/dist/index.css"; // 进度条样式
 
 import notice from "./components/notice.vue";
+import { Icon } from "@iconify/vue";
+
 // // 百度统计
 // // 2025-02-01: 将路由统计时机从 `onBeforeRouteChange` 改为 `onAfterRouteChange`，并增加 `_hmt` 未定义的检查
 // DefaultTheme.enhanceApp = ({ app, router, siteData }) => {
@@ -31,6 +33,9 @@ export default {
 	extends: DefaultTheme,
 	// ...DefaultTheme, //或者这样写也可
 	enhanceApp: ({ app, router }) => {
+		// 图标组件
+		app.component("Icon", Icon);
+
 		// 谷歌统计
 		googleAnalytics({ id: "G-V759BJWZQH" });
 
@@ -84,19 +89,19 @@ export default {
 
 // 彩虹背景动画样式
 function updateHomePageStyle(value: boolean) {
-  if (value) {
-    if (homePageStyle) return
+	if (value) {
+		if (homePageStyle) return;
 
-    homePageStyle = document.createElement('style')
-    homePageStyle.innerHTML = `
+		homePageStyle = document.createElement("style");
+		homePageStyle.innerHTML = `
     :root {
       animation: rainbow 12s linear infinite;
-    }`
-    document.body.appendChild(homePageStyle)
-  } else {
-    if (!homePageStyle) return
+    }`;
+		document.body.appendChild(homePageStyle);
+	} else {
+		if (!homePageStyle) return;
 
-    homePageStyle.remove()
-    homePageStyle = undefined
-  }
+		homePageStyle.remove();
+		homePageStyle = undefined;
+	}
 }

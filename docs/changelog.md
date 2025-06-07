@@ -1,5 +1,27 @@
 # 更新日志 Changelog
 
+## VER 2.0.2.20250608_beta
+
+<p style="text-indent: 0">汇总 6 月 4 日到 8 日的更新内容：</p>
+
+<p style="text-indent: 0">内容部分</p>
+
+- 添加两张 GPU 相关的图片资源
+- 继续更新 2025 年推荐机型，目前更新到[联想 ThinkBook 16P 2025](/recommend/联想ThinkBook16P2025)，已有推荐机型部分勘误
+- 部分综述性内容更新，见[笔记本电脑的分类](/introduction/分类)和[笔记本电脑的选择](/introduction/选择)
+- 延长通知停驻时间至 20s，调整通知展示效果使其更美观显眼
+- 针对本次机型推荐新增的“优缺点”部分作出[统一说明](/recommend/推荐#优缺点)
+
+<p style="text-indent: 0">技术部分</p>
+
+- 引入`@theojs/lumen`库，引入封装好的百度统计和 Google Analytics 功能，同时删除二者的手动实现
+- 实现路由转换时加载指示器（进度条）、实现首页大标题和 logo 的 RGB 渐变效果、引入`iconify`组件库以实现图标显示功能
+- 在 Vite 优化中包含 `recaptcha-v3` 以修复本地开发热更新问题
+- 更新依赖项并将一些开发依赖项移至生产环境，因为这并不是用于分发的 npm 包，详情请参见[此文章](https://blog.csdn.net/zz_jesse/article/details/139348751)
+- 调整首页 QQ 群链接为新建空白页，防止顶掉当前页面
+- 调整自定义 markdown 渲染的部分 css 代码
+- 其他细节改动
+
 ## VER 2.0.1.20250604_beta
 
 - 移除过时的图像资源并更新为新版本的引用

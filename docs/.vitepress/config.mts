@@ -170,6 +170,22 @@ export default defineConfig({
 						text: "华硕天选Air",
 						link: "/recommend/华硕天选Air",
 					},
+					{
+						text: "ROG 魔霸新锐",
+						link: "/recommend/ROG魔霸新锐",
+					},
+					{
+						text: "联想拯救者 R7000P 2025",
+						link: "/recommend/联想拯救者R7000P2025",
+					},
+					{
+						text: "联想拯救者 R9000P 2025",
+						link: "/recommend/联想拯救者R9000P2025",
+					},
+					{
+						text: "联想 ThinkBook 16P 2025",
+						link: "/recommend/联想ThinkBook16P2025",
+					},
 					// 2025年6月5日删除
 					// {
 					// 	text: "惠普 星 Book Pro14",
@@ -275,7 +291,7 @@ export default defineConfig({
 		config: (md) => {
 			md.use(mdFootnote);
 
-			// 源代码
+			// 脚注源代码
 			// function render_footnote_block_open(tokens, idx, options) {
 			// 	return (
 			// 		(options.xhtmlOut

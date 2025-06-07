@@ -7,14 +7,23 @@
 }
 
 .vp-doc {
+	/* 缩进项 */
 	p {
 		text-indent: 2rem;
 	}
+	/* 带.的是类选择器，不带.的是标签选择器 */
 	.footnote-item {
 		p {
 			text-indent: 0;
 		}
 	}
+	ul li,
+	ol li {
+		p {
+			text-indent: 0;
+		}
+	}
+
 	.info,
 	.tip,
 	.warning,
@@ -24,17 +33,21 @@
 			text-indent: 0;
 		}
 	}
+
 	blockquote {
 		p {
 			text-indent: 0;
 		}
 	}
+
 	h1 {
 		color: #3451ad;
 	}
+
 	h2 {
 		margin: 24px 0 16px;
 	}
+
 	h3 {
 		margin: 16px 0 0;
 	}
@@ -48,9 +61,7 @@
 	position: relative;
 	border-left: 4px solid #4eaaff;
 }
-.vp-doc ol li p {
-	text-indent: 0;
-}
+
 .medium-zoom-overlay {
 	z-index: 30;
 }
