@@ -81,3 +81,8 @@
 .VPSidebarItem.level-0.collapsible {
 	padding-bottom: 12px;
 }
+
+/* 首页链接卡片底部空白过大 */
+.VPHome.VPHome {
+	margin-bottom: 10px;
+}

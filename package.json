@@ -10,6 +10,7 @@
 		"@iconify/vue": "^5.0.0",
 		"@theojs/lumen": "^5.6.0",
 		"@vrcd-community/markdown-it-video": "^1.1.1",
+		"busuanzi.pure.js": "^1.0.3",
 		"download": "^8.0.0",
 		"markdown-it-footnote": "^4.0.0",
 		"medium-zoom": "^1.1.0",

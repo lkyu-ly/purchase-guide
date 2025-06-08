@@ -6,51 +6,51 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
-	description: "MOE 频道 2025 年新生购机指南",
+	description: "MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
 	head: [
 		["link", { rel: "icon", href: "/icon.png" }],
 
-		// 不好用的不蒜子
-		[
-			"script",
-			{
-				async: "",
-				src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
-			},
-		],
+		// // 不好用的不蒜子
+		// [
+		// 	"script",
+		// 	{
+		// 		async: "",
+		// 		src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
+		// 	},
+		// ],
 
-		// 不蒜子数据修正
-		[
-			"script",
-			{},
-			`document.addEventListener("DOMContentLoaded", function () {
-			const uvE = document.getElementById('busuanzi_value_site_uv');
-			// const pvE = document.getElementById('busuanzi_value_site_pv');
-			const uvObs = new MutationObserver((mutationsList) => {
-				for (let mutation of mutationsList) {
-					if (mutation.type === 'childList') {
-						uvObs.disconnect();
-						mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 50;
-						break;
-					}
-				}
-			});
-			// const pvObs = new MutationObserver((mutationsList) => {
-			// 	for (let mutation of mutationsList) {
-			// 		if (mutation.type === 'childList') {
-			// 			pvObs.disconnect();
-			// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
-			// 			break;
-			// 		}
-			// 	}
-			// });
-			const config = {
-				childList: true
-			};
-			uvObs.observe(uvE, config);
-			// pvObs.observe(pvE, config);
-		});`,
-		],
+		// // 不蒜子数据修正
+		// [
+		// 	"script",
+		// 	{},
+		// 	`document.addEventListener("DOMContentLoaded", function () {
+		// 	const uvE = document.getElementById('busuanzi_value_site_uv');
+		// 	// const pvE = document.getElementById('busuanzi_value_site_pv');
+		// 	const uvObs = new MutationObserver((mutationsList) => {
+		// 		for (let mutation of mutationsList) {
+		// 			if (mutation.type === 'childList') {
+		// 				uvObs.disconnect();
+		// 				mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 50;
+		// 				break;
+		// 			}
+		// 		}
+		// 	});
+		// 	// const pvObs = new MutationObserver((mutationsList) => {
+		// 	// 	for (let mutation of mutationsList) {
+		// 	// 		if (mutation.type === 'childList') {
+		// 	// 			pvObs.disconnect();
+		// 	// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
+		// 	// 			break;
+		// 	// 		}
+		// 	// 	}
+		// 	// });
+		// 	const config = {
+		// 		childList: true
+		// 	};
+		// 	uvObs.observe(uvE, config);
+		// 	// pvObs.observe(pvE, config);
+		// });`,
+		// ],
 
 		// // 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
 		// [
@@ -279,13 +279,18 @@ export default defineConfig({
 			},
 		],
 		footer: {
-			message:
-				'<span id="busuanzi_container_site_uv" style="display:none">本站总访问量：<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
+			message: `
+			<div class="busuanzi-footer">
+			本站访客数 <span id="busuanzi_value_site_uv"></span> 人次 | 
+			本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+			</div>
+			Copyright © 2024 MOE Channel
+      		`,
 		},
 	},
 	markdown: {
 		image: {
-			// 默认禁用图片懒加载
+			// 图片懒加载，默认禁用
 			lazyLoading: true,
 		},
 		config: (md) => {

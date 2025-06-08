@@ -1,16 +1,23 @@
 import DefaultTheme from "vitepress/theme";
 import "./style/index.css";
-import { googleAnalytics, baiduAnalytics, trackPageview, Announcement } from "@theojs/lumen";
 
+import { googleAnalytics, baiduAnalytics, trackPageview, Announcement } from "@theojs/lumen";
 import mediumZoom from "medium-zoom";
-import { useRoute } from "vitepress";
+import { useRoute, inBrowser } from "vitepress";
 import { nextTick, onMounted, watch, h } from "vue";
+
+// 路由切换进度条
 import { NProgress } from "nprogress-v2/dist/index.js"; // 进度条组件
-import { inBrowser } from "vitepress";
 import "nprogress-v2/dist/index.css"; // 进度条样式
 
+// 通知
 import notice from "./components/notice.vue";
+
+// iconify 图标
 import { Icon } from "@iconify/vue";
+
+// 不蒜子
+import busuanzi from "busuanzi.pure.js";
 
 // // 百度统计
 // // 2025-02-01: 将路由统计时机从 `onBeforeRouteChange` 改为 `onAfterRouteChange`，并增加 `_hmt` 未定义的检查
@@ -45,6 +52,25 @@ export default {
 			trackPageview("c897c23eafd0a95ee950211d63d82054", window.location.href);
 		}
 
+		// // 不蒜子统计
+		// if (inBrowser) {
+		// 	router.onAfterRouteChanged = () => {
+		// 		busuanzi.fetch();
+		// 		console.log("busuanzi0");
+		// 	};
+		// }
+		// if (typeof window !== "undefined") {
+		// 	// 监听路由变化，重新获取统计信息
+		// 	router.onAfterRouteChanged = () => {
+		// 		// 添加类型声明
+		// 		const busuanzi = (window as any).busuanzi;
+		// 		busuanzi?.fetch();
+		// 		console.log("busuanzi");
+		// 	};
+		// }
+
+		// 路由切换时的操作：处理进度条、更新不蒜子
+		// VuePress 的 router.onAfterRouteChanged 等是一个单次赋值属性，第二次赋值会完全覆盖第一次，所以需要合并事件处理函数。
 		if (inBrowser) {
 			NProgress.configure({ showSpinner: false });
 			router.onBeforeRouteChange = () => {
@@ -52,6 +78,8 @@ export default {
 			};
 			router.onAfterRouteChanged = () => {
 				NProgress.done(); // 停止进度条
+				busuanzi.fetch();
+				console.log("busuanzi", busuanzi);
 			};
 		}
 
@@ -80,9 +108,10 @@ export default {
 		);
 	},
 
+	// 注入布局插槽
 	Layout() {
 		return h(DefaultTheme.Layout, null, {
-			"layout-top": () => h(notice), // 使用layout-top插槽
+			"layout-top": () => h(notice), // 通知layout-top插槽
 		});
 	},
 };
@@ -94,9 +123,9 @@ function updateHomePageStyle(value: boolean) {
 
 		homePageStyle = document.createElement("style");
 		homePageStyle.innerHTML = `
-    :root {
-      animation: rainbow 12s linear infinite;
-    }`;
+			:root {
+			animation: rainbow 12s linear infinite;
+			}`;
 		document.body.appendChild(homePageStyle);
 	} else {
 		if (!homePageStyle) return;

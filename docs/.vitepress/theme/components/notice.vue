@@ -65,7 +65,7 @@ setTimeout(function () {
         如果您所在的地区不支持国补，那我们<b style="color: #d90429">不推荐</b>您买任何笔记本电脑，直至购机价格与其他有国补的地区保持一致。
       </p>
       <div class="btn-group">
-        <a class="btn" href="/introduction/购买#国补">查看国补详情</a>
+        <a class="btn" href="/introduction/购买#国补">查看详情</a>
       </div>
     </div>
   </div>
