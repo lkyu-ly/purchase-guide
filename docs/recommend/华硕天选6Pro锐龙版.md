@@ -1,6 +1,8 @@
-# 华硕天选 6 Pro 锐龙版
+# 华硕 天选 6 Pro 锐龙版
 
 ## 外观
+
+<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/tx6pro.png" /></div>
 
 ## 配置
 
@@ -17,7 +19,7 @@
 
 主购买链接：[R9-8940HX+RTX5070 16G+1TB 灰色 ￥ 7599.2（JD 国补）](https://3.cn/2i9gy-Gq)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |           优点           |                   缺点                   |
 | :----------------------: | :--------------------------------------: |

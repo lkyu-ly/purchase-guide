@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 1.png" /></div>
+
 ## 配置
 
 |   项目   |                    参数                     |
@@ -19,7 +21,7 @@
 
 副购买链接：[Ultra-5 225H 32G+1TB 白色触屏 ￥ 5199（JD 国补）](https://3.cn/2eZUy9-N)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |        优点        |                缺点                 |
 | :----------------: | :---------------------------------: |
@@ -29,4 +31,8 @@
 
 ## 适合人群
 
-预算在5千元左右，需要一台续航极强，质量轻易携带的轻薄本，同时对品牌与外观质感有一定追求，使用荣耀手机（华为部分机型可能不支持）。
+预算在 5 千元左右，需要一台续航极强，质量轻易携带的轻薄本，同时对品牌与外观质感有一定追求，使用荣耀手机（华为部分机型可能不支持）。
+
+## 其他外观
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 3.png" /></div>

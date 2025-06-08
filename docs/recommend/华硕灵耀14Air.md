@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
+
 <div style="
     width: 70%;
     max-width: 800px;
@@ -15,8 +17,6 @@
     </video>
 </div>
 <p style="text-align: center;">视频来自<a href='https://www.asus.com.cn/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/'>官方产品展示页</a></p>
-
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
 
 ## 配置
 

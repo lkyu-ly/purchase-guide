@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 1.png" /></div>
+
 ## 配置
 
 |   项目   |                     参数                     |
@@ -19,7 +21,7 @@
 
 副购买链接：[R9-8940HX+RTX5070Ti 16G+1TB ￥ 10999 （JD 国补）](https://3.cn/2i-9BigW)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |            优点            |             缺点             |
 | :------------------------: | :--------------------------: |
@@ -29,4 +31,10 @@
 
 ## 适合人群
 
-对预算不那么敏感，对品牌与外观有着较高的需求，喜欢RGB外观，接受品牌溢价，后期打算外接显示器，需要一台游戏性能尚可，生产力强劲的肌肉本。
+对预算不那么敏感，对品牌与外观有着较高的需求，喜欢 RGB 外观，接受品牌溢价，后期打算外接显示器，需要一台游戏性能尚可，生产力强劲的肌肉本。
+
+## 其他外观
+
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/moba 3.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 2.png" /></div>

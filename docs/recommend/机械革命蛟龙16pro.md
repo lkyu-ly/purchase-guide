@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/蛟龙16pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/jiaolong16pro.png" /></div>
 
 ## 配置
 
@@ -23,7 +23,7 @@
 
 副购买链接：[R9-8945HX+RTX5070Ti 32G+1TB ￥ 7999.2 （JD 国补）](https://3.cn/2i8-RGrI)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |           优点           |          缺点          |
 | :----------------------: | :--------------------: |

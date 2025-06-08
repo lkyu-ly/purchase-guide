@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 4.png" /></div>
+
 ## 配置
 
 |   项目   |                    参数                     |
@@ -18,7 +20,7 @@
 
 主购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 7440（JD 国补）](https://3.cn/2-i9Fvbe)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |                  优点                  |           缺点           |
 | :------------------------------------: | :----------------------: |
@@ -29,3 +31,9 @@
 ## 适合人群
 
 对预算不那么敏感，对做工与品牌售后有着极高的需求，需要一台外观做工精致，重量控制优秀，售后服务极佳，性能释放良好的偏商务的 5060 性能本。
+
+## 其他外观
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/thinkbook16p 1.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 2.png" /></div>

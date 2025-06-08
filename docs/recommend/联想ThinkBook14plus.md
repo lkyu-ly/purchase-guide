@@ -2,9 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/tb14+.png" /></div>
-
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/tb14+ 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/thinkbook14+ 2.png" /></div>
 
 ## 配置
 
@@ -24,7 +22,7 @@
 
 副购买链接：[R7 H 260 32G+1TB ￥ 4389（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=MtMm6QvpMP)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |                  优点                  |          缺点          |
 | :------------------------------------: | :--------------------: |
@@ -39,3 +37,9 @@
 ## 适合人群
 
 预算在 5 千元左右，需要一台续航较强，拓展性拉满且图形性能尚可的轻薄本，同时对品牌与售后有较高追求，有轻度游戏需求，对重量没有那么敏感，未来可能需要外接独立显卡。
+
+## 其他外观
+
+<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/thinkbook14+ 1.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/thinkbook14+ 3.png" /></div>

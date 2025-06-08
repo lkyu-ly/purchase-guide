@@ -59,7 +59,7 @@ export default defineConfig({
 					},
 
 					{
-						text: "联想来酷 Pro 14",
+						text: "联想 来酷 Pro 14",
 						link: "/recommend/联想来酷Pro14",
 					},
 					{
@@ -91,11 +91,11 @@ export default defineConfig({
 						link: "/recommend/机械革命蛟龙16pro",
 					},
 					{
-						text: "华硕天选 6 Pro 锐龙版",
+						text: "华硕 天选 6 Pro 锐龙版",
 						link: "/recommend/华硕天选6Pro锐龙版",
 					},
 					{
-						text: "华硕天选Air",
+						text: "华硕 天选 Air",
 						link: "/recommend/华硕天选Air",
 					},
 					{
@@ -103,11 +103,11 @@ export default defineConfig({
 						link: "/recommend/ROG魔霸新锐",
 					},
 					{
-						text: "联想拯救者 R7000P 2025",
+						text: "联想 拯救者 R7000P 2025",
 						link: "/recommend/联想拯救者R7000P2025",
 					},
 					{
-						text: "联想拯救者 R9000P 2025",
+						text: "联想 拯救者 R9000P 2025",
 						link: "/recommend/联想拯救者R9000P2025",
 					},
 					{
@@ -115,14 +115,14 @@ export default defineConfig({
 						link: "/recommend/联想ThinkBook16P2025",
 					},
 					{
-						text: "联想拯救者 Y9000P 至尊版",
+						text: "联想 拯救者 Y9000P 至尊版",
 						link: "/recommend/联想拯救者Y9000P至尊版",
 					},
 					{
 						text: "机械革命 苍龙16Ultra 2025",
 						link: "/recommend/机械革命苍龙16Ultra2025",
 					},
-					
+
 					// 2025年6月5日删除
 					// { text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 				],

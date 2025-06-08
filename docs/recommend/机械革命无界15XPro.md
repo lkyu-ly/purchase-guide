@@ -2,6 +2,8 @@
 
 ## 外观
 
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/无界15xpro.png" /></div>
+
 ## 配置
 
 |   项目   |                    参数                     |
@@ -17,7 +19,7 @@
 
 主购买链接：[AI 9 H 365 32G+1TB ￥ 4239.2（JD 国补）](https://3.cn/2i-8fitv)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |                 优点                 |         缺点         |
 | :----------------------------------: | :------------------: |

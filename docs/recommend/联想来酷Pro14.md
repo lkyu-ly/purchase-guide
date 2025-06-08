@@ -1,6 +1,8 @@
-# 联想来酷 Pro 14
+# 联想 来酷 Pro 14
 
 ## 外观
+
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/lecoo pro14.png" /></div>
 
 ## 配置
 
@@ -18,7 +20,7 @@
 
 主购买链接：[R7 H 255 32G+1TB ￥ 3360（JD 国补）](https://3.cn/2i87-3QE)
 
-## 优缺点
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
 |          优点          |         缺点         |
 | :--------------------: | :------------------: |
