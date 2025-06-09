@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/lecoo pro14.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/lecoo pro14 1.png" /></div>
 
 ## 配置
 
@@ -31,3 +31,9 @@
 ## 适合人群
 
 预算在 3 千元左右，需要一台价格低廉，性能释放不错的水桶轻薄本，同时能够忍受一些做工的小毛病，对售后有着极高的要求。
+
+## 其他外观
+
+<div style="margin: 0 auto; text-align: center; width: 65%"><img src="./assets/lecoo pro14 2.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/lecoo pro14 3.png" /></div>
