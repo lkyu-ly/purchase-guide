@@ -38,7 +38,7 @@
 		width: 100%; /* 使表格宽度为 100% */
 		overflow: auto;
 	}
-	
+
 	/* 引用样式 */
 	blockquote {
 		border-radius: 5px;
