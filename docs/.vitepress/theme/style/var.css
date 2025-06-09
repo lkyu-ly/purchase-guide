@@ -1,34 +1,25 @@
-.vp-doc table {
-	display: table;
-	border-collapse: collapse;
-	margin: 30px auto;
-	width: 100%; /* 使表格宽度为 100% */
-	overflow: auto;
-}
-
 .vp-doc {
+	/* 带.的是类选择器，不带.的是标签选择器 */
+
+	/* 统一段落缩进 */
 	p {
 		text-indent: 2rem;
 	}
-	.footnote-item {
-		p {
-			text-indent: 0;
-		}
+
+	/* 重置特定元素的缩进 */
+	.footnote-item p,
+	ul li p,
+	ol li p,
+	.info p,
+	.tip p,
+	.warning p,
+	.danger p,
+	.datails p,
+	blockquote p {
+		text-indent: 0;
 	}
-	.info,
-	.tip,
-	.warning,
-	.danger,
-	.datails {
-		p {
-			text-indent: 0;
-		}
-	}
-	blockquote {
-		p {
-			text-indent: 0;
-		}
-	}
+
+	/* 标题样式 */
 	h1 {
 		color: #3451ad;
 	}
@@ -38,35 +29,43 @@
 	h3 {
 		margin: 16px 0 0;
 	}
+
+	/* 表格样式 */
+	table {
+		display: table;
+		border-collapse: collapse;
+		margin: 30px auto;
+		width: 100%; /* 使表格宽度为 100% */
+		overflow: auto;
+	}
+
+	/* 引用样式 */
+	blockquote {
+		border-radius: 5px;
+		padding: 10px 16px;
+		background-color: var(--vp-badge-tip-bg);
+		position: relative;
+		border-left: 4px solid #4eaaff;
+	}
 }
 
-/* 引用样式 */
-.vp-doc blockquote {
-	border-radius: 5px;
-	padding: 10px 16px;
-	background-color: var(--vp-badge-tip-bg);
-	position: relative;
-	border-left: 4px solid #4eaaff;
-}
-.vp-doc ol li p {
-	text-indent: 0;
-}
+/* 图片放大样式 */
 .medium-zoom-overlay {
 	z-index: 30;
 }
-
 .medium-zoom-image {
 	z-index: 9999 !important; /* 给的值是21，但是实测盖不住，直接999 */
 }
 
+/* 布局组件样式 */
+
 .image-container {
 	top: 10%;
 }
-
-/* .VPHero.has-image.VPHomeHero{
-	padding: 128px 64px 48px ;
-}  */
-
 .VPSidebarItem.level-0.collapsible {
 	padding-bottom: 12px;
+}
+/* 首页链接卡片底部空白过大 */
+.VPHome.VPHome {
+	margin-bottom: 24px;
 }

@@ -1,89 +1,17 @@
+import markdownItVideo from "@vrcd-community/markdown-it-video";
 import mdFootnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
-import markdownItVideo from "@vrcd-community/markdown-it-video";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
-	description: "MOE 频道 2025 年新生购机指南",
+	description: "MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
 	head: [
 		["link", { rel: "icon", href: "/icon.png" }],
 
-		// 不好用的不蒜子
-		[
-			"script",
-			{
-				async: "",
-				src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
-			},
-		],
-
-		// 不蒜子数据修正
-		[
-			"script",
-			{},
-			`document.addEventListener("DOMContentLoaded", function () {
-			const uvE = document.getElementById('busuanzi_value_site_uv');
-			// const pvE = document.getElementById('busuanzi_value_site_pv');
-			const uvObs = new MutationObserver((mutationsList) => {
-				for (let mutation of mutationsList) {
-					if (mutation.type === 'childList') {
-						uvObs.disconnect();
-						mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 50;
-						break;
-					}
-				}
-			});
-			// const pvObs = new MutationObserver((mutationsList) => {
-			// 	for (let mutation of mutationsList) {
-			// 		if (mutation.type === 'childList') {
-			// 			pvObs.disconnect();
-			// 			mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 1800;
-			// 			break;
-			// 		}
-			// 	}
-			// });
-			const config = {
-				childList: true
-			};
-			uvObs.observe(uvE, config);
-			// pvObs.observe(pvE, config);
-		});`,
-		],
-
-		// 百度统计 https://blog.csdn.net/hjingfeng/article/details/135763120
-		[
-			"script",
-			{ async: true, defer: true },
-			`window._hmt = window._hmt || [];
-			(function() {
-			var hm = document.createElement("script");
-			hm.src = "https://hm.baidu.com/hm.js?c897c23eafd0a95ee950211d63d82054";
-			var s = document.getElementsByTagName("script")[0];
-			s.parentNode.insertBefore(hm, s);
-			})();`,
-		],
-
 		// 百度 SEO
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
-
-		// 谷歌分析 https://vitepress.dev/zh/reference/site-config#example-using-google-analytics
-		[
-			"script",
-			{
-				async: "",
-				src: "https://www.googletagmanager.com/gtag/js?id=G-V759BJWZQH",
-			},
-		],
-		[
-			"script",
-			{},
-			`window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'G-V759BJWZQH');`,
-		],
 	],
 	cleanUrls: true,
 	themeConfig: {
@@ -129,74 +57,72 @@ export default defineConfig({
 						text: "机械革命 无界 14X/15X",
 						link: "/recommend/机械革命无界14Xor15X",
 					},
+
 					{
-						text: "联想 ThinkBook14+ 2023/2024",
+						text: "联想 来酷 Pro 14",
+						link: "/recommend/联想来酷Pro14",
+					},
+					{
+						text: "机械革命 无界 15XPro",
+						link: "/recommend/机械革命无界15XPro",
+					},
+					{
+						text: "机械革命 星耀 14",
+						link: "/recommend/机械革命星耀14",
+					},
+					{
+						text: "荣耀 MagicBook Pro 14",
+						link: "/recommend/荣耀MagicBookPro14",
+					},
+					{
+						text: "联想 ThinkBook14+ 2025",
 						link: "/recommend/联想ThinkBook14plus",
 					}, // + 号导致直接访问页面 404, 改为 plus
-					{
-						text: "惠普 星 Book Pro14",
-						link: "/recommend/惠普星BookPro14",
-					},
-					{
-						text: "华硕 a豆 14Air",
-						link: "/recommend/华硕a豆14Air",
-					},
-					{
-						text: "惠普 星 Book Pro13",
-						link: "/recommend/惠普星BookPro13",
-					},
 					{
 						text: "华硕 灵耀 14Air",
 						link: "/recommend/华硕灵耀14Air",
 					},
 					{
-						text: "机械革命 蛟龙 15K/Pro",
-						link: "/recommend/机械革命蛟龙15KorPRO",
+						text: "机械革命 极光 X/XPRO",
+						link: "/recommend/机械革命极光X(PRO)",
 					},
 					{
-						text: "机械革命 极光 X",
-						link: "/recommend/机械革命极光X",
-					},
-					{
-						text: "机械革命 蛟龙 16Pro",
+						text: "机械革命 蛟龙 16Pro 2025",
 						link: "/recommend/机械革命蛟龙16pro",
 					},
 					{
-						text: "七彩虹 橘宝 R16",
-						link: "/recommend/七彩虹橘宝R16",
+						text: "华硕 天选 6 Pro 锐龙版",
+						link: "/recommend/华硕天选6Pro锐龙版",
 					},
 					{
-						text: "火影 焕 16Air",
-						link: "/recommend/火影焕16Air",
+						text: "华硕 天选 Air",
+						link: "/recommend/华硕天选Air",
 					},
 					{
-						text: "机械革命 耀世/翼龙 15Pro",
-						link: "/recommend/机械革命耀世or翼龙15Pro",
+						text: "ROG 魔霸新锐",
+						link: "/recommend/ROG魔霸新锐",
 					},
 					{
-						text: "华硕 天选 5 锐龙版",
-						link: "/recommend/华硕天选5锐龙版",
+						text: "联想 拯救者 R7000P 2025",
+						link: "/recommend/联想拯救者R7000P2025",
 					},
 					{
-						text: "华硕 天选 5Pro 锐龙版",
-						link: "/recommend/华硕天选5pro锐龙版",
+						text: "联想 拯救者 R9000P 2025",
+						link: "/recommend/联想拯救者R9000P2025",
 					},
 					{
-						text: "联想 拯救者 R9000P 2024",
-						link: "/recommend/联想拯救者R9000P2024",
+						text: "联想 ThinkBook 16P 2025",
+						link: "/recommend/联想ThinkBook16P2025",
 					},
 					{
-						text: "联想 ThinkBook 16P 2024",
-						link: "/recommend/联想ThinkBook16P2024",
+						text: "联想 拯救者 Y9000P 至尊版",
+						link: "/recommend/联想拯救者Y9000P至尊版",
 					},
-					{ text: "华硕 天选 Air ", link: "/recommend/华硕天选Air" },
+					{
+						text: "机械革命 苍龙16Ultra 2025",
+						link: "/recommend/机械革命苍龙16Ultra2025",
+					},
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
-
-					// 2025年1月20日删除
-					// { text: "机械革命 无界14Pro", link: "/recommend/机械革命无界14Pro" },
-					// { text: "红米 RedmiBook Pro 16 2024", link: "/recommend/RedmiBookPro16" },
-					// { text: "七彩虹 隐星P15 TA ", link: "/recommend/p15ta" },
-					// { text: "ROG 魔霸7plus", link: "/recommend/ROG魔霸7plus" },
 				],
 				link: "/recommend/推荐",
 			},
@@ -236,20 +162,30 @@ export default defineConfig({
 				link: "https://qm.qq.com/q/HU05k45VmK",
 			},
 		],
+
+		//本地搜索 //
+		search: {
+			provider: "local",
+		},
+
 		footer: {
-			message:
-				'<span id="busuanzi_container_site_uv" style="display:none">本站总访问量：<span id="busuanzi_value_site_uv"></span>人次</span><br>Copyright © 2024 MOE Channel',
+			message: `<span id="busuanzi_container_site_uv" style="display:none">
+				本站访客数 <span id="busuanzi_value_site_uv"></span> 人次 | 
+				总访问量 <span id="busuanzi_value_site_pv"></span> 次
+				</span> <br>
+				本指南采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" rel="nofollow">CC BY-NC-SA 4.0</a> 协议授权。未经许可，禁止用于商业用途。`,
+			copyright: `Copyright © 2024-${new Date().getFullYear()} MOE Channel`,
 		},
 	},
 	markdown: {
 		image: {
-			// 默认禁用图片懒加载
+			// 图片懒加载，默认禁用
 			lazyLoading: true,
 		},
 		config: (md) => {
 			md.use(mdFootnote);
 
-			// 源代码
+			// 脚注源代码
 			// function render_footnote_block_open(tokens, idx, options) {
 			// 	return (
 			// 		(options.xhtmlOut
@@ -288,5 +224,10 @@ export default defineConfig({
 	lastUpdated: true,
 	sitemap: {
 		hostname: "https://moe.lkyu.cf",
+	},
+	vite: {
+		optimizeDeps: {
+			include: ["recaptcha-v3"],
+		},
 	},
 });
