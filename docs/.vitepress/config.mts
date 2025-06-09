@@ -122,9 +122,7 @@ export default defineConfig({
 						text: "机械革命 苍龙16Ultra 2025",
 						link: "/recommend/机械革命苍龙16Ultra2025",
 					},
-
-					// 2025年6月5日删除
-					// { text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
+					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 				],
 				link: "/recommend/推荐",
 			},
