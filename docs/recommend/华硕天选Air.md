@@ -2,7 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75"><img src="" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%201.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%202.png" /></div>
 
 ## 配置
 
