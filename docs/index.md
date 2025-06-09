@@ -32,5 +32,5 @@ features:
     details: <a href="https://qm.qq.com/q/HU05k45VmK" target="_blank">点击加入：304067847</a>
   - icon: 📚
     title: 最新文章
-    details: <a href="/misc/DeepSeek-Guide"><strong>《Dive Deeper, Seek Further<br/>一种高效、稳定的 DeepSeek 系列模型调度方案》</strong></a>
+    details: 正值升学季：所有文章全部更新！欢迎阅读！
 ---
