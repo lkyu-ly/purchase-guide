@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75"><img src="" /></div>
 
 ## 配置
 
