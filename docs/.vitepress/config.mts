@@ -103,6 +103,10 @@ export default defineConfig({
 						link: "/recommend/ROG魔霸新锐",
 					},
 					{
+						text: "联想 来酷 斗战者 战 7000",
+						link: "/recommend/联想来酷斗战者战7000",
+					},
+					{
 						text: "联想 拯救者 R7000P 2025",
 						link: "/recommend/联想拯救者R7000P2025",
 					},
