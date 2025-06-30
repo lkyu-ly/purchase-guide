@@ -26,7 +26,7 @@ features:
     details: 不仅推荐良心型号，更科普硬件知识。
   - icon: 👥
     title: 参与人员
-    details: 主笔：<b>MOE-她说彩礼50W</b> <a href="mailto:1209451703@qq.com" >[<u>邮箱</u>]</a><br/>排版/网站：<b>lkyu</b><br/>通讯作者：<b>A客服小莫</b>
+    details: 主笔：<b>s0med1ey0ung</b><br/>排版/网站：<b>lkyu</b><br/>通讯作者：<b>A客服小莫</b>
   - icon: 🐧
     title: 我们的 QQ 群
     details: <a href="https://qm.qq.com/q/HU05k45VmK" target="_blank">点击加入：304067847</a>
