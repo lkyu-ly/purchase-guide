@@ -18,8 +18,12 @@ hero:
       text: 常见问题解答
       link: /more
     - theme: alt
-      text: PDF版下载（蓝奏云，密码：3nos）
-      link: https://misaka-h.lanzouj.com/b0plwi1le?pwd=3nos
+      text: PDF版本站下载
+      link: /MOE频道：2025年笔记本购机指南v25.2.0.pdf
+    - theme: alt
+      text: PDF蓝奏云盘下载（密码：3nos）
+      link: https://misaka-h.lanzouu.com/b0plwi1le?pwd=3nos
+
 features:
   - icon: 🎣
     title: 授人以渔
