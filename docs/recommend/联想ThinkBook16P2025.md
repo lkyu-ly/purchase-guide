@@ -18,7 +18,9 @@
 | 供电配置 | 300W DC 电源接口；170W PD 充电；85Wh 锂电池 |
 | 网络配置 |               BE200 无线网卡                |
 
-主购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 7440（JD 国补）](https://3.cn/2-i9Fvbe)
+主购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 7199.2（JD 国补）](https://3.cn/2ozt-KAa?jkl=@Q1TMz7g5Vf@)
+
+副购买链接：[i7-14650HX+RTX4060 16G+1TB ￥ 6559.2（PDD 国补）](https://mobile.yangkeduo.com/goods.html?ps=fmNrm4uyNc)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
