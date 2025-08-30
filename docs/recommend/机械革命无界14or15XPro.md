@@ -12,7 +12,7 @@
 | 核心配置 |                                          AI 9 H 365                                           |
 | 存储配置 |          32G DDR5-8000MT/s、1T 金士顿 NV2；<br/>32G DDR5-5600MT/s、1T 英睿达 P3 Plus          |
 | 屏幕配置 | 2880\*1800、100%sRGB 高色域、120Hz、500nits；<br/>2560\*1600、100%sRGB 高色域、120Hz、400nits |
-| USB 接口 |           USB-A: 480Mbps\*1，5Gbps\*2 、USB-A:5Gbps\*3；USB-C:40Gbps\*1、10Gbps\*1            |
+| USB 接口 |            USB-A:480Mbps\*1，5Gbps\*2 、USB-A:5Gbps\*3；USB-C:40Gbps\*1、10Gbps\*1            |
 | 影音接口 |                               HDMI 2.1；3.5mm 音频接口；DP 1.4                                |
 | 供电配置 |                           120W DC 充电、140W PD 充电；99.9Wh 锂电池                           |
 | 网络配置 |                                  RJ45 网口；MT7922 无线网卡                                   |

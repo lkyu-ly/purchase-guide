@@ -99,16 +99,8 @@ export default defineConfig({
 						link: "/recommend/机械革命耀世16Ultra",
 					},
 					{
-						text: "华硕 天选 6 Pro 锐龙版",
-						link: "/recommend/华硕天选6Pro锐龙版",
-					},
-					{
 						text: "华硕 天选 Air",
 						link: "/recommend/华硕天选Air",
-					},
-					{
-						text: "ROG 魔霸新锐",
-						link: "/recommend/ROG魔霸新锐",
 					},
 					{
 						text: "联想 来酷 斗战者 战 7000",

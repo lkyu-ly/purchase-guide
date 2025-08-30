@@ -1,6 +1,7 @@
 # 更新日志 Changelog
 
 <!-- 由于全局使用`text-indent: 2rem`，即默认段落缩进两个字符，本页面列表较多，普通文本若显示不美观请用`<p style="text-indent: 0"></p>`包裹 -->
+
 ## VER 2.0.0.20250831_release
 
 - 更新机型：机械革命 翼龙 16Pro、机械革命 耀世 16 Ultra、机械师 曙光 16Pro
