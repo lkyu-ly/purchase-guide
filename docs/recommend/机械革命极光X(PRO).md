@@ -17,11 +17,11 @@
 | 供电配置 |   250/280W DC 电源接口；140W PD 充电；80Wh 锂电池    |
 | 网络配置 |              RJ45 网口；AX201 无线网卡               |
 
-主购买链接：[极光 X i7-13700HX+RTX5060 16G+1TB ￥ 5359.2 （JD 国补）](https://3.cn/2i8-MIGW)
+主购买链接：[极光 X i7-13700HX+RTX5060 16G+1TB ￥ 5439.2 （JD 国补）](https://3.cn/2ozqHS-j?jkl=@Q2WymDsL6B@)
 
-主购买链接：[极光 X Pro i7-14650HX+RTX5070Ti 32G+1TB ￥ 7999.2 （JD 国补）](https://3.cn/2-i8NFWd)
+主购买链接：[极光 X Pro i7-14650HX+RTX5070Ti 32G+1TB ￥ 7999.2 （JD 国补）](https://3.cn/2-ozqvVn?jkl=@Y3GxS2172a@)
 
-副购买链接：[极光 X i7-13700HX+RTX5070 16G+1TB ￥ 6399.2 （JD 国补）](https://3.cn/2i-8NI9Z)
+副购买链接：[极光 X i7-13700HX+RTX5070 16G+1TB ￥ 6399.2 （JD 国补）](https://3.cn/2o-zqdvo?jkl=@O3Iy50enV9@)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
