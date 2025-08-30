@@ -18,9 +18,9 @@
 | 供电配置 |                           100W PD 充电、85Wh 锂电池                           |
 | 网络配置 |             RJ45 网口、MT7925 无线网卡；RJ45 网口、BE200 无线网卡             |
 
-主购买链接：[Ultra-5 225H 32G+1TB ￥ 5040（JD 国补）](https://3.cn/2i8-mIur)
+主购买链接：[Ultra-5 225H 32G+1TB ￥ 4799.2（JD 国补）](https://3.cn/2ozt-8LQ?jkl=@X06CaAbEmM@)
 
-副购买链接：[R7 H 260 32G+1TB ￥ 4389（PDD）](https://mobile.yangkeduo.com/goods1.html?ps=MtMm6QvpMP)
+副购买链接：[R7 H 255 24G+512GB ￥ 4199（PDD）](https://mobile.yangkeduo.com/goods.html?ps=Jv2GpEz1NJ)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
