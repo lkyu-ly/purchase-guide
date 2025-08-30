@@ -18,6 +18,7 @@
 | 网络配置 |         RJ45 网口；MT7922 无线网卡          |
 
 主购买链接：[14X Pro AI 9 H 365 32G+1TB ￥4215.2（JD 国补）](https://3.cn/2-ozflrE?jkl=@K2BpZ2x1vF@)
+
 副购买链接：[15X Pro AI 9 H 365 32G+1TB ￥4239.2（JD 国补）](https://3.cn/-2ozfJgs?jkl=@T5HTq86Nst@)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
