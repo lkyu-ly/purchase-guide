@@ -31,7 +31,7 @@
 | 供电配置 |        65W PD 充电；72Wh 锂电池        |
 | 网络配置 |             BE201 无线网卡             |
 
-主购买链接：[Ultra-7 258V 32G+1TB ￥ 7175.2（JD 国补）](https://3.cn/2ozoQ-Ue?jkl=@C1CQI4mJIW@ )
+主购买链接：[Ultra-7 258V 32G+1TB ￥ 7175.2（JD 国补）](https://3.cn/2ozoQ-Ue?jkl=@C1CQI4mJIW@)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 

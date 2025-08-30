@@ -1,6 +1,5 @@
 import re  # 导入正则表达式模块
 
-
 def parse_line(line_content, prefix):
     """
     解析单行文本（例如："优点：1.项目A 2.项目B"）并提取项目列表。

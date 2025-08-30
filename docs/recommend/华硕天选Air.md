@@ -20,7 +20,7 @@
 | 供电配置 | 200W DC 电源接口；100W PD 充电；73Wh 锂电池  |
 | 网络配置 |               MT7922 无线网卡                |
 
-主购买链接：[AI7 H 350+RTX5060 黑色 32G+1TB ￥ 7759.2 （JD 国补）](https://3.cn/2o-zobcB?jkl=@M0OAK81uCC@ )
+主购买链接：[AI7 H 350+RTX5060 黑色 32G+1TB ￥ 7759.2 （JD 国补）](https://3.cn/2o-zobcB?jkl=@M0OAK81uCC@)
 
 副购买链接：[R7 H 260+RTX5060 白色 32G+1TB ￥ 7599.2 （JD 国补）](https://3.cn/2ozop-EN?jkl=@B6QZ0EcUtm@)
 

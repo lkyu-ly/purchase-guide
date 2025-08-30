@@ -63,8 +63,8 @@ export default defineConfig({
 						link: "/recommend/联想来酷Pro14",
 					},
 					{
-						text: "机械革命 无界 15XPro",
-						link: "/recommend/机械革命无界15XPro",
+						text: "机械革命 无界 14/15XPro",
+						link: "/recommend/机械革命无界14or15XPro",
 					},
 					{
 						text: "机械革命 星耀 14",

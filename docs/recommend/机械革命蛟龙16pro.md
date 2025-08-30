@@ -17,7 +17,7 @@
 | 供电配置 |              250/280W DC 电源接口；140W PD 充电；80Wh 锂电池              |
 | 网络配置 |                        RJ45 网口；MT7922 无线网卡                         |
 
-主购买链接：[R9-7845HX+RTX5060 16G+512GB ￥ 5279.2 （JD 国补）](https://3.cn/2ozrP-Z8?jkl=@A3yhBDjdAl@ )
+主购买链接：[R9-7845HX+RTX5060 16G+512GB ￥ 5279.2 （JD 国补）](https://3.cn/2ozrP-Z8?jkl=@A3yhBDjdAl@)
 
 副购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 5999.2 （JD 国补）](https://3.cn/2ozs-t8v?jkl=@MFEEJ6awvs@)
 
