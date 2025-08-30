@@ -17,9 +17,9 @@
 | 供电配置 |          100W PD 充电；92Wh 锂电池          |
 | 网络配置 |               AX201 无线网卡                |
 
-主购买链接：[Ultra-5 225H 32G+1TB 灰色 ￥ 4879（JD 国补）](https://3.cn/2eZ-UtTe)
+主购买链接：[Ultra-5 225H 32G+1TB 灰色 ￥ 4479.2（JD 国补）](https://3.cn/2oz-yOjZ?jkl=@O8EPx9ozta@ )
 
-副购买链接：[Ultra-5 225H 32G+1TB 白色触屏 ￥ 5199（JD 国补）](https://3.cn/2eZUy9-N)
+副购买链接：[Ultra-5 225H 32G+1TB 白色触屏 ￥ 4799.2（JD 国补）](https://3.cn/2ozze-PA?jkl=@LEeoWCxhUZ@)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
