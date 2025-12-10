@@ -19,20 +19,6 @@ import { Icon } from "@iconify/vue";
 // 不蒜子
 import busuanzi from "busuanzi.pure.js";
 
-// // 百度统计
-// // 2025-02-01: 将路由统计时机从 `onBeforeRouteChange` 改为 `onAfterRouteChange`，并增加 `_hmt` 未定义的检查
-// DefaultTheme.enhanceApp = ({ app, router, siteData }) => {
-// 	router.onAfterRouteChange = (to) => {
-// 		console.log("路由已改变为: ", to);
-// 		if (typeof _hmt !== "undefined") {
-// 			_hmt.push(["_trackPageview", to]);
-// 			console.log("百度统计已记录: ", to);
-// 		} else {
-// 			console.error("百度统计未加载，请检查脚本是否正确引入。");
-// 		}
-// 	};
-// };
-
 // 彩虹背景动画样式
 let homePageStyle: HTMLStyleElement | undefined;
 
@@ -51,23 +37,6 @@ export default {
 		if (typeof window !== "undefined") {
 			trackPageview("c897c23eafd0a95ee950211d63d82054", window.location.href);
 		}
-
-		// // 不蒜子统计
-		// if (inBrowser) {
-		// 	router.onAfterRouteChanged = () => {
-		// 		busuanzi.fetch();
-		// 		console.log("busuanzi0");
-		// 	};
-		// }
-		// if (typeof window !== "undefined") {
-		// 	// 监听路由变化，重新获取统计信息
-		// 	router.onAfterRouteChanged = () => {
-		// 		// 添加类型声明
-		// 		const busuanzi = (window as any).busuanzi;
-		// 		busuanzi?.fetch();
-		// 		console.log("busuanzi");
-		// 	};
-		// }
 
 		// 路由切换时的操作：处理进度条、更新不蒜子
 		// VuePress 的 router.onAfterRouteChanged 等是一个单次赋值属性，第二次赋值会完全覆盖第一次，所以需要合并事件处理函数。
