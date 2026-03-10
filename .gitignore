@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 
 docs/.vitepress/cache
 docs/.vitepress/dist
@@ -14,3 +14,6 @@ test.txt
 **.Identifier
 
 /assets
+
+.spec-workflow/
+CLAUDE.md

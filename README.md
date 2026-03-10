@@ -36,7 +36,15 @@
 
 **维护提示：**
 
-- 换下来的旧图移至该文件夹`asset`下的`old`中
+- 换下来的旧图移至该文件夹`asset`下的`old`中。
+- 若图片为**透明底黑字**，在暗色模式下文字会不可见。
+  为 `<img>` 标签加上 `class="dark-invert"` 即可自动在暗色模式下反色显示：
+
+  ```html
+  <img src="./assets/XXX.svg" class="dark-invert" />
+  ```
+
+  该 class 定义于 `docs/.vitepress/theme/style/var.css`。
 
 ## 版权声明
 

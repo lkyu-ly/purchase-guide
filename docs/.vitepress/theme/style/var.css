@@ -69,3 +69,8 @@
 .VPHome.VPHome {
 	margin-bottom: 24px;
 }
+
+/* 暗色模式图片反色：适用于透明底黑字的图片（如规格表格截图）*/
+html.dark .dark-invert {
+	filter: invert(1);
+}
