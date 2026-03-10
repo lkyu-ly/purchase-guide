@@ -39,7 +39,7 @@ npx zcf
 
 不过，笔者其实更推荐有大量编码需求的开发者使用 WSL（Windows Subsystem for Linux）来替代 Git Bash。WSL 是 Windows 上运行的原生 Linux 内核，它在完整提供几乎纯血的 Linux 功能的同时，与 Windows 系统的各项功能以及市面上流行的开发工具（如 VS Code、PyCharm 等）有极佳的兼容性和良好的集成性。基于以上优点，WSL 能够为开发者提供更加流畅和高效的 Windows 开发体验。
 
-如果你想体验一下 WSL，可以参考笔者的另一篇文章：[在如今最好的 Linux 发行版上使用 Linux——WSL 使用 Q&A](/posts/WSLQA)，进行配置，WSL 完整支持本文介绍的所有工具。
+如果你想体验一下 WSL，可以参考网站作者的另一篇文章：[在如今最好的 Linux 发行版上使用 Linux——WSL 使用 Q&A](https://blog.lkyu.cf/posts/WSLQA)，进行配置，WSL 完整支持本文介绍的所有工具。
 
 如果你打算使用 Git Bash 进行开发，建议访问其官网下载最新版本的安装包。
 
