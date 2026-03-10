@@ -1,14 +1,14 @@
 import DefaultTheme from "vitepress/theme";
 import "./style/index.css";
 
-import { googleAnalytics, baiduAnalytics, trackPageview, Announcement } from "@theojs/lumen";
+import { baiduAnalytics, googleAnalytics, trackPageview } from "@theojs/lumen";
 import mediumZoom from "medium-zoom";
-import { useRoute, inBrowser } from "vitepress";
-import { nextTick, onMounted, watch, h } from "vue";
+import { inBrowser, useRoute } from "vitepress";
+import { h, nextTick, onMounted, watch } from "vue";
 
 // 路由切换进度条
-import { NProgress } from "nprogress-v2/dist/index.js"; // 进度条组件
 import "nprogress-v2/dist/index.css"; // 进度条样式
+import { NProgress } from "nprogress-v2/dist/index.js"; // 进度条组件
 
 // 通知
 import notice from "./components/notice.vue";

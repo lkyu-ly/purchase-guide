@@ -2,7 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%201.png" /></div>
+
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选air%202.png" /></div>
 
 ## 配置
 
@@ -24,11 +26,11 @@
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
-|              优点              |       缺点       |
-| :----------------------------: | :--------------: |
-| 游戏性能不错，重量轻薄便于携带 |   机身做工一般   |
-|          续航能力较强          | 屏幕色准表现不佳 |
-|     外观设计与噪音控制较好     |                  |
+|              优点              |        缺点        |
+| :----------------------------: | :----------------: |
+| 游戏性能不错，重量轻薄便于携带 |    机身做工一般    |
+|     续航能力在游戏本中较强     |  屏幕色准表现不佳  |
+|     外观设计与噪音控制较好     | 网卡与硬盘性能一般 |
 
 ## 适合人群
 
