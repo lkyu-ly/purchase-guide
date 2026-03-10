@@ -76,7 +76,7 @@ export default defineConfig({
 						link: "/recommend/荣耀MagicBookPro14",
 					},
 					{
-						text: "联想 ThinkBook14+ 2025",
+						text: "联想 ThinkBook14+ 2026",
 						link: "/recommend/联想ThinkBook14plus",
 					}, // + 号导致直接访问页面 404, 改为 plus
 					{
