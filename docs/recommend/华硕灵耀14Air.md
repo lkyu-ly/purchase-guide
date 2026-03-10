@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/华硕灵耀14Air正.webp" /></div>
 
 <div style="
     width: 70%;
@@ -57,6 +57,6 @@
 
 ## 其他角度外观
 
-<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/华硕灵耀14Air.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/华硕灵耀14Air.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/华硕灵耀14Air侧.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/华硕灵耀14Air侧.webp" /></div>

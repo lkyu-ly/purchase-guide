@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选5pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/天选5pro.webp" /></div>
 
 ## 配置
 

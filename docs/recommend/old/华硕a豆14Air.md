@@ -2,8 +2,8 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/a豆14%201.png" /></div>
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/a豆14%202.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/a豆14%201.webp" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/a豆14%202.webp" /></div>
 
 ## 配置
 

@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/星bookpro14%201.png" /><br/>官网宣传图片与惠普 星 Book Pro14 几乎无二致</div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/星bookpro14%201.webp" /><br/>官网宣传图片与惠普 星 Book Pro14 几乎无二致</div>
 
 ## 配置
 
@@ -31,6 +31,6 @@
 
 ## 其他角度外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%202.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%202.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%203.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%203.webp" /></div>

@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 1.webp" /></div>
 
 ## 配置
 
@@ -35,4 +35,4 @@
 
 ## 其他外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 3.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/magicpro14 3.webp" /></div>

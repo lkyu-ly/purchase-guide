@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 4.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 4.webp" /></div>
 
 ## 配置
 
@@ -40,6 +40,6 @@
 
 ## 其他外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/thinkbook16p 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/thinkbook16p 1.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 2.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/thinkbook16p 2.webp" /></div>

@@ -2,9 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/ThinkBook14 Plus 2026 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/ThinkBook14 Plus 2026 1.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/ThinkBook14 Plus 2026 3.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/ThinkBook14 Plus 2026 3.webp" /></div>
 
 ## 配置
 
@@ -46,4 +46,4 @@
 
 ## 其他外观
 
-<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/ThinkBook14 Plus 2026 2.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/ThinkBook14 Plus 2026 2.webp" /></div>

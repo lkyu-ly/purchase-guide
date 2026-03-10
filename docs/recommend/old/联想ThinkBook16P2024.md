@@ -2,9 +2,9 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/联想ThinkBook 16P 2024.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/联想ThinkBook 16P 2024.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/联想ThinkBook 16P 2024平.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/联想ThinkBook 16P 2024平.webp" /></div>
 
 ## 配置
 
@@ -38,4 +38,4 @@
 
 ## 其他角度外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/联想ThinkBook%2016P%202024侧.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/联想ThinkBook%2016P%202024侧.webp" /></div>
