@@ -18,7 +18,7 @@
 | 供电配置 |          100W PD 充电；80Wh 锂电池           |
 | 网络配置 |       RJ45 网口；瑞昱 8852BE 无线网卡        |
 
-主购买链接：[R7 H 255 32G+1TB ￥ 3360（JD 国补）](https://3.cn/2i87-3QE)
+主购买链接：[R7 H 255 32G+1TB ￥ 3199.2（JD 国补）](https://3.cn/2ozxw-mT?jkl=@K9lPP0t6Ws@)
 
 ## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
 
