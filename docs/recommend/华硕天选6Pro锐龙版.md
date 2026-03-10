@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/tx6pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 60%"><img src="./assets/tx6pro.webp" /></div>
 
 ## 配置
 

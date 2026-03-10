@@ -8,7 +8,7 @@
 
 ## 一、背景介绍
 
-自 2025 年 1 月 20 日 DeepSeek-R1 系列模型发布以来，其卓越的推理能力不仅震撼了业内研究人员，更在全球范围内掀起了前所未有的体验热潮。然而，面对空前高涨的用户访问量，DeepSeek 官方服务稳定性大幅下降，多次因流量过载而 "爆红" 宕机。与此同时，尽管众多第三方调度方案如雨后春笋般涌现，但市场却陷入了鱼龙混杂的局面：一些平台或机构滥用所所谓 "满血版" 的招牌招摇过市，实则**挂羊头卖狗肉**，所提供的模型性能参差不齐，**甚至暗藏安全隐患**[^1]，让用户苦不堪言。
+自 2025 年 1 月 20 日 DeepSeek-R1 系列模型发布以来，其卓越的推理能力不仅震撼了业内研究人员，更在全球范围内掀起了前所未有的体验热潮。然而，面对空前高涨的用户访问量，DeepSeek 官方服务稳定性大幅下降，多次因流量过载而 "爆红" 宕机。与此同时，尽管众多第三方调度方案如雨后春笋般涌现，但市场却陷入了鱼龙混杂的局面：一些平台或机构滥用所所谓 "满血版" 的招牌招摇过市，实则**挂羊头卖狗肉**，所提供的模型性能参差不齐，**甚至暗藏安全隐患** [^1]，让用户苦不堪言。
 
 [^1]: [公安机关提醒！仿冒 DeepSeek 的手机木马病毒被捕获 - 腾讯网 - 人民日报](https://news.qq.com/rain/a/20250301A02YWJ00)
 
@@ -20,7 +20,7 @@
 
 Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。该客户端不仅支持多样化的模型供应商，还预置了 300 多种智能助手模板，更集成了搜索增强生成和网页搜索功能，能够为用户提供更加便捷、智能的使用体验。
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/figure1.png" alt="Cherry Studio官网页面" />
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/deepseek1.webp" alt="Cherry Studio 官网页面" />
   <a href="https://cherry-ai.com"> Cherry Studio 官网页面链接：https://cherry-ai.com </a>
 </div>
 
@@ -28,7 +28,7 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 
 火山引擎是国内领先的云计算服务平台，提供计算、存储、数据库、大数据和人工智能等多样化云服务。该平台拥有丰富的计算资源，是国内调度 Doubao 以及 DeepSeek 系列模型的最佳选择，在响应延迟、输出速率、应用功能和使用成本等方面均表现卓越。
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/figure2.png" alt="火山引擎平台页面" />
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/deepseek2.webp" alt="火山引擎平台页面" />
   <a href="https://www.volcengine.com/"> 火山引擎平台页面链接：https://www.volcengine.com/</a>
 </div>
 
@@ -36,11 +36,11 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 
 ### Step 2.3：创建火山方舟平台 API Key 和模型推理点 {#step2-3}
 
-<!-- 链接片段使用.会报错 -->
+<!-- 链接片段使用。会报错 -->
 
 完成 [**Step 2.2**](#step2-2) 后，前往火山方舟一站式大模型服务平台的 "系统管理 > API Key 管理" 页面，点击 "创建 API Key"。请注意，API Key 是您请求火山方舟大模型服务的重要凭证，务必妥善保管，避免泄露给他人，以防造成不必要的损失。
 
-<div style="margin: 0 auto; text-align: center; width: 85%"><img src="./assets/figure3.png" alt="火山方舟平台API Key管理页面" />
+<div style="margin: 0 auto; text-align: center; width: 85%"><img src="./assets/deepseek3.webp" alt="火山方舟平台 API Key 管理页面" />
   <a href="https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey/"> 火山方舟平台 API Key 管理页面链接：https://console.volcengine.com/ark/region: ark+cn-beijing/apiKey </a>
 </div>
 
@@ -51,7 +51,7 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 - **模型选择**：选择需要使用的模型，例如 `DeepSeek > DeepSeek-R1 > 260120`
 - **开通模型**：首次创建模型推理接入点时，系统会提示 "该模型未开通，开通后可创建推理接入点"，点击 "立即开通" 即可
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/figure4.png" alt="火山方舟平台在线推理页面" />
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/deepseek4.webp" alt="火山方舟平台在线推理页面" />
   <a href="https://console.volcengine.com/ark/region:ark+cn-beijing/endpoint/"> 火山方舟平台在线推理页面链接：https://console.volcengine.com/ark/region: ark+cn-beijing/endpoint/</a>
 </div>
 
@@ -69,12 +69,12 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 - **模型名称**：建议与接入点名称保持一致，例如 `DeepSeek-R1`
 - **分组名称**：建议与模型系列保持一致，例如 `DeepSeek`
 
-<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/figure5.png" alt="Cherry Studio客户端页面1" />
+<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/deepseek5.webp" alt="Cherry Studio 客户端页面 1" />
 </div>
 
 点击 "添加模型" 完成配置。使用时，请留意对话页面上方的模型标识，在本教程中会显示为 `DeepSeek-R1 | 火山引擎`。
 
-<div style="margin: 0 auto; text-align: center; width: 100%"><img src="./assets/figure6.png" alt="Cherry Studio客户端页面2" />
+<div style="margin: 0 auto; text-align: center; width: 100%"><img src="./assets/deepseek6.webp" alt="Cherry Studio 客户端页面 2" />
 </div>
 
 ## 三、进阶设置：联网搜索功能
@@ -85,7 +85,7 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 
 前往火山方舟一站式大模型服务平台的 "应用实验室 > 组件库" 页面，点击 "开通联网内容插件"。
 
-<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/figure7.png" alt="火山方舟平台组件库页面" />
+<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/deepseek7.webp" alt="火山方舟平台组件库页面" />
   <a href="https://console.volcengine.com/ark/region:ark+cn-beijing/components/"> 火山方舟平台组件库页面链接：https://console.volcengine.com/ark/region: ark+cn-beijing/components/</a>
 </div>
 
@@ -93,7 +93,7 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 
 完成 [**Step 3.1**](#step3-1) 后，前往 "应用实验室 > 我的应用" 页面，点击 "创建应用"。
 
-<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/figure8.png" alt="火山方舟平台我的应用页面" />
+<div style="margin: 0 auto; text-align: center; width: 80%"><img src="./assets/deepseek8.webp" alt="火山方舟平台我的应用页面" />
   <a href="https://console.volcengine.com/ark/region:ark+cn-beijing/assistant/"> 火山方舟平台我的应用页面链接：https://console.volcengine.com/ark/region: ark+cn-beijing/assistant/</a>
 </div>
 
@@ -120,7 +120,7 @@ Cherry Studio 是一款功能强大的开源跨平台大模型调度客户端。
 - **模型名称**：建议与应用名称保持一致，例如 `DeepSeek-R1-Pro`
 - **分组名称**：建议与模型系列保持一致，例如 `DeepSeek`
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/figure10.png" alt="Cherry Studio客户端页面3" />
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/deepseek10.webp" alt="Cherry Studio 客户端页面 3" />
 </div>
 
 点击 "添加模型" 完成联网模型的配置。

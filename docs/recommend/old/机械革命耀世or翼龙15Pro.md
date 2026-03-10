@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/耀世15PRO.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/耀世15PRO.webp" /></div>
 
 ## 配置
 

@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/jiguang x pro.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/jiguang x pro.webp" /></div>
 
 ## 配置
 
@@ -37,4 +37,4 @@
 
 ## 其他外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/jiguang.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/jiguang.webp" /></div>

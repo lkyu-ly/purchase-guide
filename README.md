@@ -6,7 +6,7 @@
 
 ## 本地开发
 
-本项目使用 [VitePress](https://vitepress.vuejs.org/)框架进行开发，项目为构建前的源码，可通过如下步骤在本地进行开发和构建:
+本项目使用 [VitePress](https://vitepress.vuejs.org/) 框架进行开发，项目为构建前的源码，可通过如下步骤在本地进行开发和构建：
 
 1. 安装部署 Node.js 和 pnpm 环境
 
@@ -36,7 +36,20 @@
 
 **维护提示：**
 
-- 换下来的旧图移至该文件夹`asset`下的`old`中。
+- 换下来的旧图文移至该文件夹下的`old`中，图片照原结构存放。
+- 使用 `tools/convert2webp.py` 可以清理废弃图片并将 PNG/JPG 批量转换为 WebP（需 `pip install Pillow`）：
+
+  ```bash
+  # 第一步：扫描预览（只读，不修改任何文件）
+  python tools/convert2webp.py
+
+  # 第二步：确认报告无误后，执行实际转换
+  python tools/convert2webp.py --confirm
+  ```
+
+  脚本会自动：将 PNG/JPG 转为 WebP 并更新 `.md` 引用；将原始图片和未被引用的废弃图片归档；任一步骤失败则完整回滚。
+  - [ ] TODO: 取消输入输出路径硬编码，支持全仓库 markdown 扫描而不是预定义路径
+
 - 若图片为**透明底黑字**，在暗色模式下文字会不可见。
   为 `<img>` 标签加上 `class="dark-invert"` 即可自动在暗色模式下反色显示：
 

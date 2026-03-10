@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 1.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 1.webp" /></div>
 
 ## 配置
 
@@ -35,6 +35,6 @@
 
 ## 其他外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/moba 3.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/moba 3.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 2.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/moba 2.webp" /></div>

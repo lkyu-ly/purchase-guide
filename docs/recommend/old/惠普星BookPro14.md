@@ -2,7 +2,7 @@
 
 ## 外观
 
-<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/星bookpro14%201.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 70%"><img src="./assets/星bookpro14%201.webp" /></div>
 
 ## 配置
 
@@ -29,6 +29,6 @@
 
 ## 其他角度外观
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%202.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%202.webp" /></div>
 
-<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%203.png" /></div>
+<div style="margin: 0 auto; text-align: center; width: 75%"><img src="./assets/星bookpro14%203.webp" /></div>
