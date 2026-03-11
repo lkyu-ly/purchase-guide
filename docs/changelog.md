@@ -17,7 +17,7 @@
 <p style="text-indent: 0">项目</p>
 
 - 升级依赖版本
-- 规定了多图页面需要使用文件夹形式来组织，见：[README#维护规范](../README.md#维护规范)
+- 规定了多图页面需要使用文件夹形式来组织，见：[README#维护规范](/README.md#维护规范)
 - 完整扫描整个项目图片引用，去除不再引用的图片资源
 - 项目所有二进制图片资源均使用 webp 格式无损压缩，至高减少 50% 体积
 - 部分文件位置迁移
@@ -33,7 +33,7 @@
 
 <p style="text-indent: 0">项目</p>
 
-- 为透明底文字内容的图片引入自动反色，见[README#维护规范](../README.md#维护规范)
+- 为透明底文字内容的图片引入自动反色，见 [README#维护规范](/README.md#维护规范)
 
 ## VER 2.2.0.20250831_release
 
@@ -66,7 +66,7 @@
 - 添加两张 GPU 相关的图片资源，更新 USB 协议的新图片
 - 完成现阶段所有 2025 年推荐机型的更新，已有文案勘误
 - 为所有机型增加图片资源
-- 部分综述性内容更新，见 [笔记本电脑的分类](/introduction/分类）和 [笔记本电脑的选择](/introduction/选择)
+- 部分综述性内容更新，见 [笔记本电脑的分类](/introduction/分类) 和 [笔记本电脑的选择](/introduction/选择)
 - 针对本次机型推荐新增的“优缺点”部分作出 [统一说明](/recommend/recommend_overview#优缺点)
 - 选取 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 协议作为本站协议。并添加在首页页脚
 

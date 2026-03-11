@@ -169,9 +169,16 @@ export default defineConfig({
 			},
 		],
 
-		//本地搜索 //
+		// 多环境搜索配置：本地开发用 local，Vercel 环境用 Algolia
 		search: {
-			provider: "local",
+			provider: process.env.ALGOLIA_APP_ID ? "algolia" : "local",
+			options: process.env.ALGOLIA_APP_ID
+				? {
+						appId: process.env.ALGOLIA_APP_ID,
+						apiKey: process.env.ALGOLIA_API_KEY,
+						indexName: process.env.ALGOLIA_INDEX_NAME,
+					}
+				: undefined,
 		},
 
 		footer: {
