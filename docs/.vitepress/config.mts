@@ -7,7 +7,7 @@ export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
 	description:
-		"MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
+		"MOE 频道 2026 年笔记本购机指南：写给大学生的电脑科普&购买一体方案",
 	head: [
 		["link", { rel: "icon", href: "/icon.webp" }],
 
@@ -27,7 +27,7 @@ export default defineConfig({
 		sidebar: [
 			{ text: "写在前面", collapsed: false, items: [], link: "/前言" },
 			{
-				text: "笔记本电脑选购须知",	
+				text: "笔记本电脑选购须知",
 				collapsed: false,
 				items: [
 					{ text: "笔记本电脑的分类", link: "/introduction/分类" },
@@ -52,6 +52,7 @@ export default defineConfig({
 			},
 			{
 				text: "机型推荐",
+				link: "/recommend/recommend_overview",
 				collapsed: false,
 				items: [
 					{
@@ -133,7 +134,6 @@ export default defineConfig({
 					},
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 				],
-				link: "/recommend/推荐",
 			},
 			{
 				text: "额外问题答疑",
@@ -150,7 +150,7 @@ export default defineConfig({
 						link: "/misc/tutorials_for_claude_code",
 					},
 					{
-						text: "Dive Deeper, Seek Further<br/>一种高效、稳定的 DeepSeek 系列模型调度方案",
+						text: "Dive Deeper, Seek Further——一种高效、稳定的 DeepSeek 系列模型调度方案",
 						link: "/misc/DeepSeek-Guide",
 					},
 				],
