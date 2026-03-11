@@ -12,7 +12,7 @@ importers:
         specifier: ^5.0.0
         version: 5.0.0(vue@3.5.30(typescript@5.9.3))
       '@theojs/lumen':
-        specifier: ^6.3.2
+        specifier: ^6.4.5
         version: 6.4.5(vue@3.5.30(typescript@5.9.3))
       '@vrcd-community/markdown-it-video':
         specifier: ^1.1.1

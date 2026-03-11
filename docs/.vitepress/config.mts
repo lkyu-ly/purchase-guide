@@ -140,11 +140,11 @@ export default defineConfig({
 				items: [
 					{
 						text: "<b style='color:red'>[NEW!!!]</b> 基于 Zero-Config Code Flow 的 Claude Code 配置教程",
-						link: "/misc/tutorials_for_claude_code",
+						link: "/misc/tutorials_for_claude_code/",
 					},
 					{
 						text: "Dive Deeper, Seek Further——一种高效、稳定的 DeepSeek 系列模型调度方案",
-						link: "/misc/DeepSeek-Guide",
+						link: "/misc/DeepSeek-Guide/",
 					},
 				],
 			},
