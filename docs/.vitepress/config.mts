@@ -1,6 +1,6 @@
 import markdownItVideo from "@vrcd-community/markdown-it-video";
 import mdFootnote from "markdown-it-footnote";
-import { defineConfig } from "vitepress";
+import { defineConfig, type HeadConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -13,6 +13,11 @@ export default defineConfig({
 
 		// 百度 SEO
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
+
+		// Algolia 搜索性能优化：根据环境变量动态预建立连接
+		...(process.env.ALGOLIA_APP_ID
+			? ([["link", { rel: "preconnect", href: `https://${process.env.ALGOLIA_APP_ID}-dsn.algolia.net`, crossorigin: "" }]] as HeadConfig[])
+			: []),
 	],
 	cleanUrls: true,
 	ignoreDeadLinks: [/CLAUDE/],

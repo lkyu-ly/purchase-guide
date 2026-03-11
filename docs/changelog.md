@@ -6,6 +6,11 @@
 
 - 其他细节微调
 
+<p style="text-indent: 0">项目</p>
+
+- 新功能：Algolia 驱动的全站搜索
+- 通过 Vercel Environments 实现了生产和预览环境自动切换 Algolia 搜索索引配置
+
 ## VER 3.0.0.20260311_beta
 
 <p style="text-indent: 0">文案</p>
