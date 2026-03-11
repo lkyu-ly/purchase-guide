@@ -11,12 +11,31 @@ export default defineConfig({
 	head: [
 		["link", { rel: "icon", href: "/icon.webp" }],
 
+		// 关键词，提升 SEO
+		[
+			"meta",
+			{
+				name: "keywords",
+				content:
+					"笔记本,购机指南,购买指南,大学生,电脑,科普,硬件,推荐,选购指南,笔记本选购,大学生笔记本,电脑选购,购机推荐,MOE",
+			},
+		],
+
 		// 百度 SEO
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
 
 		// Algolia 搜索性能优化：根据环境变量动态预建立连接
 		...(process.env.ALGOLIA_APP_ID
-			? ([["link", { rel: "preconnect", href: `https://${process.env.ALGOLIA_APP_ID}-dsn.algolia.net`, crossorigin: "" }]] as HeadConfig[])
+			? ([
+					[
+						"link",
+						{
+							rel: "preconnect",
+							href: `https://${process.env.ALGOLIA_APP_ID}-dsn.algolia.net`,
+							crossorigin: "",
+						},
+					],
+				] as HeadConfig[])
 			: []),
 	],
 	cleanUrls: true,

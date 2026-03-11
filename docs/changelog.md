@@ -4,7 +4,9 @@
 
 ## VER 3.0.0.20260312_beta
 
-- 其他细节微调
+<p style="text-indent: 0">文案</p>
+
+- 更新耀世15 Pro，对部分文字进行修改
 
 <p style="text-indent: 0">项目</p>
 
