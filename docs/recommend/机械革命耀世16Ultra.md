@@ -19,7 +19,7 @@
 
 主购买链接：[Ultra 7-255HX+RTX5060 16G+1TB ￥ 7708.65 （JD 国补）](https://3.cn/2G-Rnkub?jkl=@XDM8s4D3hl@)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |             优点             |         缺点         |
 | :--------------------------: | :------------------: |

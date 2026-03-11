@@ -21,7 +21,7 @@
 
 副购买链接：[R9-8940HX+RTX5070Ti 16G+1TB ￥ 10999 （JD 国补）](https://3.cn/2i-9BigW)
 
-## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |         优点         |             缺点             |
 | :------------------: | :--------------------------: |

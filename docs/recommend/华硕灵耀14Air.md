@@ -35,7 +35,7 @@
 
 副购买链接：[Ultra-7 258V 山岚灰 32G+1TB ￥ 7099（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods1.html?ps=LE7P1Q5NfV)
 
-## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |              优点              |              缺点              |
 | :----------------------------: | :----------------------------: |

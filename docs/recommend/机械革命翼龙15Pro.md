@@ -19,7 +19,7 @@
 
 主购买链接：[R7 H 255+RTX5060 32G+1TB 灰色 ￥ 7198.65（JD 国补）](https://3.cn/2GRmxT-p?jkl=@I465aDi3HE)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |              优点              |                缺点                 |
 | :----------------------------: | :---------------------------------: |

@@ -42,7 +42,7 @@
 - 完成现阶段所有 2025 年推荐机型的更新，已有文案勘误
 - 为所有机型增加图片资源
 - 部分综述性内容更新，见[笔记本电脑的分类](/introduction/分类)和[笔记本电脑的选择](/introduction/选择)
-- 针对本次机型推荐新增的“优缺点”部分作出[统一说明](/recommend/推荐#优缺点)
+- 针对本次机型推荐新增的“优缺点”部分作出[统一说明](/recommend/recommend_overview#优缺点)
 - 选取 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 协议作为本站协议。并添加在首页页脚
 
 <p style="text-indent: 0">技术部分</p>
@@ -78,7 +78,7 @@
 ## VER 1.1.3.20250225_release
 
 - 添加了新的文章集合
-- 发布了新文章：[《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》](misc/DeepSeek-Guide)
+- 发布了新文章：[《Dive Deeper, Seek Further 一种高效、稳定的 DeepSeek 系列模型调度方案》](misc/DeepSeek-Guide/)
 
 ## VER 1.1.2.20250223_release
 

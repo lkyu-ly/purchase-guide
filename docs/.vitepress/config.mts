@@ -15,12 +15,13 @@ export default defineConfig({
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
 	],
 	cleanUrls: true,
+	ignoreDeadLinks: [/CLAUDE/],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: "/icon.webp",
 		nav: [
 			{ text: "主页", link: "/" },
-			{ text: "机型推荐", link: "/recommend/推荐" },
+			{ text: "机型推荐", link: "/recommend/recommend_overview" },
 			{ text: "常见问题解答", link: "/more" },
 		],
 

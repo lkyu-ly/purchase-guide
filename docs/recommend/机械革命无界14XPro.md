@@ -21,7 +21,7 @@
 
 副购买链接：[AI 9 H 365 32G+1TB ￥ 4799（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=u9Zb2avird)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |           优点           |         缺点         |
 | :----------------------: | :------------------: |

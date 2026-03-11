@@ -21,7 +21,7 @@
 
 主购买链接：[R9-7945HX+RTX5080 32G+1TB ￥ 11999（JD 国补）](https://3.cn/2ozgD1-Q?jkl=@I04CgEY7DN@)
 
-## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |               优点               |             缺点             |
 | :------------------------------: | :--------------------------: |

@@ -22,7 +22,7 @@
 
 副购买链接：[U7-255HX+RTX5060 32G+1TB ￥ 9199（JD 国补）](https://3.cn/2GRt-viJ?jkl=@FBMeV5vDZq@)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |                  优点                  |       AMD 版本缺点       |
 | :------------------------------------: | :----------------------: |

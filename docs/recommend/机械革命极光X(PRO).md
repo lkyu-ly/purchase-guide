@@ -21,7 +21,7 @@
 
 副购买链接：[极光 X Pro i7-14650HX+RTX5060 16G+1TB ￥ 6698 （PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=CHPs1zHSle)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |           优点           |          缺点          |
 | :----------------------: | :--------------------: |

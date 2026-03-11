@@ -20,7 +20,7 @@
 
 主购买链接：[Ultra 5 125H 32G+1TB ￥ 4250（JD 国补）](https://3.cn/-2GR4yG9?jkl=@J0Yy27UjJa@)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |          优点          |         缺点         |
 | :--------------------: | :------------------: |

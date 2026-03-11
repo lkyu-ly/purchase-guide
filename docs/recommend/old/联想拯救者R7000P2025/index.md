@@ -23,7 +23,7 @@
 
 副购买链接：[R9-8945HX+RTX5070 16G+1TB ￥ 7519.2（PDD 国补）](https://mobile.yangkeduo.com/goods.html?ps=mi9DFgYSwr)
 
-## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |            优点            |       缺点       |
 | :------------------------: | :--------------: |

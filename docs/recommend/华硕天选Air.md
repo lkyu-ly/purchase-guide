@@ -24,7 +24,7 @@
 
 副购买链接：[AI Max+ 392 黑色 32G+1TB ￥ 9999 （JD 国补）](https://3.cn/2G-RqeIT?jkl=@Q4IpA9aOW8@)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |              优点              |        缺点        |
 | :----------------------------: | :----------------: |

@@ -23,7 +23,7 @@
 
 副购买链接：[R9-8940HX+RTX5070 16G+1TB ￥ 7299 （PDD 百亿补贴）](https://mobile.yangkeduo.com/goods1.html?ps=ZC1b557Ti9)
 
-## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |           优点           |          缺点          |
 | :----------------------: | :--------------------: |

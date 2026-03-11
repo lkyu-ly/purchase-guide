@@ -21,7 +21,7 @@
 
 副购买链接：[Ultra-5 225H 32G+1TB 白色触屏 ￥ 5549（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=pHY47zq4JK)
 
-## 优缺点[<Icon icon="clarity:info-line" />](/recommend/推荐#优缺点)
+## 优缺点[<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
 |        优点        |                缺点                 |
 | :----------------: | :---------------------------------: |
