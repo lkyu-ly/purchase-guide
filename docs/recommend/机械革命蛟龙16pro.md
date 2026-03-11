@@ -9,8 +9,8 @@
 |   项目   |                       参数                        |
 | :------: | :-----------------------------------------------: |
 | 机身参数 |                  16 英寸、2.28kg                  |
-| 核心配置 |  AMD R7-8840HX、RTX5060；AMD R9-8940HX、RTX5070   |
-| 存储配置 | 16G DDR5-5200MT/s；512G YMTC PC41Q、1T YMTC PC41Q |
+| 核心配置 | AMD R7-8840HX、RTX5060；<br/>AMD R9-8940HX、RTX5070 |
+| 存储配置 | 16G DDR5-5200MT/s；<br/>512G YMTC PC41Q、1T YMTC PC41Q |
 | 屏幕配置 |  2560\*1600；100%sRGB 高色域；180/300Hz；500nits  |
 | USB 接口 |          USB-A:5Gbps\*3；USB-C:10Gbps\*2          |
 | 影音接口 |       HDMI 2.1；3.5mm 音频接口；Mini DP 2.1       |
