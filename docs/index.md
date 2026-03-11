@@ -6,7 +6,7 @@ hero:
   name: "MOE 购机指南"
   text: "MOE 频道：2025年 \n笔记本购机指南"
   tagline: 写给大学生的电脑科普&购买一体方案
-  image: /icon.png
+  image: /icon.webp
   actions:
     - theme: brand
       text: 开始阅读

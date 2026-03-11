@@ -9,7 +9,7 @@ export default defineConfig({
 	description:
 		"MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
 	head: [
-		["link", { rel: "icon", href: "/icon.png" }],
+		["link", { rel: "icon", href: "/icon.webp" }],
 
 		// 百度 SEO
 		["meta", { name: "baidu-site-verification", content: "codeva-9MsWLbeqt6" }],
@@ -17,7 +17,7 @@ export default defineConfig({
 	cleanUrls: true,
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		logo: "/icon.png",
+		logo: "/icon.webp",
 		nav: [
 			{ text: "主页", link: "/" },
 			{ text: "机型推荐", link: "/recommend/推荐" },
@@ -27,7 +27,7 @@ export default defineConfig({
 		sidebar: [
 			{ text: "写在前面", collapsed: false, items: [], link: "/前言" },
 			{
-				text: "笔记本电脑选购须知",
+				text: "笔记本电脑选购须知",	
 				collapsed: false,
 				items: [
 					{ text: "笔记本电脑的分类", link: "/introduction/分类" },
@@ -42,12 +42,12 @@ export default defineConfig({
 				text: "笔记本电脑的评价体系",
 				collapsed: false,
 				items: [
-					{ text: "处理器", link: "/evaluation/处理器" },
-					{ text: "内存", link: "/evaluation/内存" },
-					{ text: "显卡", link: "/evaluation/显卡" },
-					{ text: "屏幕", link: "/evaluation/屏幕" },
-					{ text: "拓展性", link: "/evaluation/拓展性" },
-					{ text: "售后服务", link: "/evaluation/售后服务" },
+					{ text: "处理器", link: "/evaluation/processer/" },
+					{ text: "内存", link: "/evaluation/memory/" },
+					{ text: "显卡", link: "/evaluation/graphic/" },
+					{ text: "屏幕", link: "/evaluation/display" },
+					{ text: "拓展性", link: "/evaluation/expandability" },
+					{ text: "售后服务", link: "/evaluation/after-sales" },
 				],
 			},
 			{

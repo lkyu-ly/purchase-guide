@@ -34,10 +34,31 @@
    pnpm run doc:dev # 其他命令详见 package.json
    ```
 
-**维护提示：**
+## 维护规范
+
+- 任何引用图片超过一张的markdown文章都推荐使用独立文件夹形式目录结构组织，这是为了便于更新图片和标识图片位置。例如：
+
+  ```text
+  docs/moduleA
+        └─ postA          # 源目录
+           ├─ assets      # 图片目录
+           └─ index.md    # 文章主文件（文件名需为index.md）
+  ```
+
+  这样，就可以通过 `/moduleA/postA` 访问文章。更多详细讲解请参见 [vitepress基于文件的路由](https://vitepress.dev/zh/guide/routing)。
+
+  同时，为了保证页面尾部的“上一篇/下一篇”能正常显示正确的上/下文，在config.mts的侧边栏配置中，需要保证：
+  - 单文件markdown形式的页面，以文件以其文件基名（basename，即拓展名前的部分）作为结尾。
+    例如：`{ text: "常见问题解答", link: "/more" },`
+  - 文件夹形式的页面，须以`/`结尾
+    例如：`{ text: "处理器", link: "/evaluation/processer/" },`
+
+  否则会导致该篇文章不显示其上篇，而下一篇为sidebar中的第一篇文章。
+  - [ ] TODO: 目前正在向上述组织结构逐步迁移，如果添加新文章请参考上述结构组织。
 
 - 换下来的旧图文移至该文件夹下的`old`中，图片照原结构存放。
-- 使用 `tools/convert2webp.py` 可以清理废弃图片并将 PNG/JPG 批量转换为 WebP（需 `pip install Pillow`）：
+
+- 使用 `tools/convert2webp.py` 可以清理废弃图片并将 PNG/JPG 批量无损压缩为 WebP（需 `pip install Pillow`）：
 
   ```bash
   # 第一步：扫描预览（只读，不修改任何文件）
@@ -47,7 +68,7 @@
   python tools/convert2webp.py --confirm
   ```
 
-  脚本会自动：将 PNG/JPG 转为 WebP 并更新 `.md` 引用；将原始图片和未被引用的废弃图片归档；任一步骤失败则完整回滚。
+  脚本会自动将 PNG/JPG 转为 WebP 并更新 `.md` 引用；将原始图片和未被引用的废弃图片归档；任一步骤失败则完整回滚。
   - [ ] TODO: 取消输入输出路径硬编码，支持全仓库 markdown 扫描而不是预定义路径
 
 - 若图片为**透明底黑字**，在暗色模式下文字会不可见。
