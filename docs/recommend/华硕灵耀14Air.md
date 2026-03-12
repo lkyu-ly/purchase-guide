@@ -16,6 +16,7 @@
         <source src="./assets/华硕灵耀14Air.mp4" type="video/mp4">
     </video>
 </div>
+
 <p style="text-align: center;">视频来自<a href='https://www.asus.com.cn/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/'>官方产品展示页</a></p>
 
 ## 配置
@@ -23,7 +24,7 @@
 |   项目   |                  参数                  |
 | :------: | :------------------------------------: |
 | 机身参数 |             14 寸；1.18kg              |
-| 核心配置 |             Intel Ultra 7 258V              |
+| 核心配置 |           Intel Ultra 7 258V           |
 | 存储配置 |   32G LPDDR5X-8533MHZ；1T 西数 SN560   |
 | 屏幕配置 | 2880\*1800 OLED；100% sRGB 色域；120Hz |
 | USB 接口 |   USB-A:10Gbps\*1 ；USB-C:40Gbps\*2    |

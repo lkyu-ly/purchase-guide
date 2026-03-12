@@ -16,6 +16,7 @@ test.txt
 **.Identifier
 
 /assets
+/*.pdf
 
 .spec-workflow/
 CLAUDE.md
