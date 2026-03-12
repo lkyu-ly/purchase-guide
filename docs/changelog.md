@@ -12,6 +12,7 @@
 
 - 新功能：Algolia 驱动的全站搜索
 - 通过 Vercel Environments 实现了生产和预览环境自动切换 Algolia 搜索索引配置
+- 为除机型推荐外的其他页面配置关键词
 
 ## VER 3.0.0.20260311_beta
 
