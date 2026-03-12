@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: 拓展性,拓展,外设,接口,USB,充电,OCuLink,外接设备,加内存,加硬盘
+---
+
 # 拓展性
 
 ## 外部拓展性

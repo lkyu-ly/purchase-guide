@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: Vibe Coding,Claude Code,ZCF,AI,大模型,云雾API,GLM,智谱,Coding Plan,LLM,Minimax
+---
+
 # 基于 Zero-Config Code Flow 的 Claude Code 配置教程
 
 <br/>原文名为：《What could a soul like that be capable of? 基于 Zero-Config Code Flow 的 Claude Code 配置教程》

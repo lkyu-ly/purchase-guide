@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: Deepseek,大模型,LLM,Cherry Studio,火山引擎,火山方舟
+---
+
 # **Dive Deeper, Seek Further**<br/><span style="font-size: 24px;">一种高效、稳定的 DeepSeek 系列模型调度方案</span>
 
 **作者**：劳家康 & lkyu

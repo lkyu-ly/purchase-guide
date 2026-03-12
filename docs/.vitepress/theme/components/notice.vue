@@ -7,10 +7,10 @@ function closeBulletin() {
 	visible.value = false;
 }
 
-// Automatically hide the bulletin after 20 seconds
+// Automatically hide the bulletin after 15 seconds
 setTimeout(function () {
 	visible.value = false;
-}, 20000); // Disappearance time is set here
+}, 15000*100); // Disappearance time is set here
 </script>
 
 <template>
@@ -23,7 +23,12 @@ setTimeout(function () {
 					xmlns="http://www.w3.org/2000/svg"
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					viewBox="0 0 32 32"
-					style="width: 20px; height: 20px; font-size: 20px; color: rgb(255, 255, 255)"
+					style="
+						width: 20px;
+						height: 20px;
+						font-size: 20px;
+						color: rgb(255, 255, 255);
+					"
 				>
 					<path
 						d="M27.16 8.08l-1.53 1.29a10 10 0 0 1-.29 13.23l1.47 1.4a12 12 0 0 0 .35-15.88z"
@@ -58,14 +63,21 @@ setTimeout(function () {
 
 		<!-- Bulletin Content -->
 		<div class="bulletin-content">
-			<p class="bulletin-p">记住！买电脑一定要用<b style="color: #d90429">国补</b>！！！</p>
 			<p class="bulletin-p">
-				如果您所在的地区不支持国补，那原则上我们<b style="color: #d90429">不推荐</b
-				>您买任何笔记本电脑，直至购机价格与其他有国补的地区保持一致。
+				随着近期内存硬盘价格攀升，各家厂商的笔记本价格也至少<b
+					style="color: orange"
+					>上调了一两千元</b
+				>。
 			</p>
-			<p class="bulletin-p">具体情况请点击下方按钮查看我们的文档。</p>
+			<p class="bulletin-p">
+				如果您不是刚需购机，且目前手中有老机器可供使用，我们推荐您<b
+					style="color: red"
+					>暂时不要购买任何笔记本</b
+				>。
+			</p>
+			<p class="bulletin-p">请点击下方按钮查看相关内容。</p>
 			<div class="btn-group">
-				<a class="btn" href="/introduction/购买#国补">查看详情</a>
+				<a class="btn" href="/evaluation/memory/#内存规格">查看详情</a>
 			</div>
 		</div>
 	</div>
@@ -85,9 +97,10 @@ setTimeout(function () {
 	background-color: #ffffff;
 	box-shadow: 0 8px 25px 0 rgba(0, 0, 0, 0.15); /* Softer, more modern shadow */
 	border: 1px solid #f0f0f0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
-		"Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-		"Noto Color Emoji";
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
 }
 
 /* Title bar of the bulletin */
@@ -124,7 +137,7 @@ setTimeout(function () {
 
 /* Content area of the bulletin */
 .bulletin-content {
-	padding: 1.5rem;
+	padding: 1.2rem;
 	background-color: #ffffff;
 }
 
@@ -132,12 +145,12 @@ setTimeout(function () {
 .bulletin-p {
 	margin: 0 0 1rem 0;
 	color: #333333;
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 1.6;
 }
 
 .bulletin-p:last-of-type {
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.0rem;
 }
 
 /* Container for the button */
@@ -149,7 +162,7 @@ setTimeout(function () {
 .btn {
 	display: inline-block;
 	cursor: pointer;
-	padding: 0.6rem 1.5rem; /* Vertical and horizontal padding */
+	padding: 0.4rem 1.0rem; /* Vertical and horizontal padding */
 	border-radius: 8px; /* Rounded corners */
 	background-color: #ff6b6b;
 	text-align: center;
@@ -158,7 +171,9 @@ setTimeout(function () {
 	font-size: 15px;
 	text-decoration: none;
 	border: none;
-	transition: background-color 0.3s ease, transform 0.2s ease;
+	transition:
+		background-color 0.3s ease,
+		transform 0.2s ease;
 }
 
 .btn:hover {

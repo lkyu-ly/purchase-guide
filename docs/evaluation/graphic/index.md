@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: 显卡,核芯显卡,独立显卡,核显,独显,显存,RTX,50系
+---
+
 # 显卡
 
 ## 核芯显卡

@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: CPU,处理器,性能,AMD,Intel,锐龙,酷睿,Ultra,移动端,马甲,TDP
+---
+
 # 处理器
 
 ## 处理器型号
