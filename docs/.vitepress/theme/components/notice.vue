@@ -10,7 +10,7 @@ function closeBulletin() {
 // Automatically hide the bulletin after 15 seconds
 setTimeout(function () {
 	visible.value = false;
-}, 15000*100); // Disappearance time is set here
+}, 15000); // Disappearance time is set here
 </script>
 
 <template>
