@@ -118,7 +118,7 @@ export default defineConfig({
 						link: "/recommend/机械革命蛟龙16pro",
 					},
 					{
-						text: "机械革命 翼龙 15Pro",
+						text: "机械革命 翼龙/耀世 15Pro",
 						link: "/recommend/机械革命翼龙15Pro",
 					},
 					{
