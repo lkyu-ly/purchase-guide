@@ -1,6 +1,6 @@
 Sitemap: https://moe.lkyu.cf/sitemap.xml
 
-# Algolia-Crawler-Verif: 9C05C387B7E77A42
+# Algolia-Crawler-Verif: 1D93995522CE467B
 
 User-agent: *
 Allow: /
