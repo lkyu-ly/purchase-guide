@@ -6,7 +6,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	lang: "zh-CN",
 	title: "MOE 购机指南",
-	description: "MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
+	description:
+		"MOE 频道 2025 年新生购机指南：写给大学生的电脑科普&购买一体方案",
 	head: [
 		["link", { rel: "icon", href: "/icon.png" }],
 
@@ -54,17 +55,17 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{
-						text: "机械革命 无界 14X/15X",
-						link: "/recommend/机械革命无界14Xor15X",
+						text: "机械革命 无界 14X 斗战版",
+						link: "/recommend/机械革命无界14X斗战版",
 					},
 
 					{
-						text: "联想 来酷 Pro 14",
-						link: "/recommend/联想来酷Pro14",
+						text: "联想 来酷 Pro 14 酷睿版",
+						link: "/recommend/联想来酷Pro14酷睿版",
 					},
 					{
-						text: "机械革命 无界 14/15XPro",
-						link: "/recommend/机械革命无界14or15XPro",
+						text: "机械革命 无界 14X Pro",
+						link: "/recommend/机械革命无界14XPro",
 					},
 					{
 						text: "机械革命 星耀 14",
