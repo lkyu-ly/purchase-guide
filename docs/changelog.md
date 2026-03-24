@@ -2,7 +2,13 @@
 
 <!-- 由于全局使用`text-indent: 2rem`，即默认段落缩进两个字符，本页面列表较多，普通文本若显示不美观请用`<p style="text-indent: 0"></p>`包裹 -->
 
-## VER 3.0.0.20260312_beta
+## VER 3.0.1.20260324_release
+
+- 更新机型：小米 XiaomiBook Pro 14
+- 移除机型：华硕 灵耀 14Air
+- 更新了webp压缩工具的代码
+
+## VER 3.0.0.20260312_release
 
 <p style="text-indent: 0">文案</p>
 

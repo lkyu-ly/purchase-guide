@@ -106,8 +106,8 @@ export default defineConfig({
 						link: "/recommend/联想ThinkBook14plus",
 					}, // + 号导致直接访问页面 404, 改为 plus
 					{
-						text: "华硕 灵耀 14Air",
-						link: "/recommend/华硕灵耀14Air",
+						text: "小米 XiaomiBook Pro 14",
+						link: "/recommend/小米XiaomiBookPro14",
 					},
 					{
 						text: "机械革命 极光 X/XPRO",
