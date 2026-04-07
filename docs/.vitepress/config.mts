@@ -163,7 +163,7 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{
-						text: "<b style='color:red'>[NEW!!!]</b> 基于 Zero-Config Code Flow 的 Claude Code 配置教程",
+						text: "<b style='color:red'>[NEW!!!]</b>善弈者谋势，不善者谋子：基于Zero-Config Code Flow的Claude Code配置使用教程",
 						link: "/misc/tutorials_for_claude_code/",
 					},
 					{
