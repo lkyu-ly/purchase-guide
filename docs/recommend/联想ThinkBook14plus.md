@@ -20,9 +20,13 @@
 | 供电配置 |                          100W PD 充电、99.9Wh 锂电池                          |
 | 网络配置 |          RJ45 网口、瑞昱 8852BE 无线网卡；RJ45 网口、BE213 无线网卡           |
 
-主购买链接：[R7 H 255 32G+1TB ￥ 5099.2（JD 国补）](https://3.cn/2GRdPx-r?jkl=@BEbwGE7yIq@)
+主购买链接1：[26款 R7 H 255 32G+1TB ￥ 5949.15（JD 国补）](https://3.cn/2-Rz9aFG?jkl=@H4mTmDSqac@)
 
-副购买链接：[Ultra-5 225H 32G+1TB ￥ 5289（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=GtrAz1YUqW)
+主购买链接2：[26款 Ultra X7 358H 32G+1TB ￥ 9499（JD 国补）](https://3.cn/2Rz9-ENZ?jkl=@T4gFD1pcH9@)
+
+副购买链接1：[25款 Ultra-5 225H 32G+1TB ￥ 5699（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=1pcZNWrvDR)
+
+副购买链接2：[26款 R7 H 260 32G+1TB ￥ 5499（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods1.html?ps=yGcVwGolaW)
 
 ## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
@@ -42,7 +46,7 @@
 
 为了使机器的定位符合其首发售价，联想这一次还首次在 ThinkBook14+上采用了 LPCAMM2 内存，其搭载的长鑫颗粒最高支持 8533MT/s 的速率。固态则是罕见的使用了搭载长存颗粒的 AM6D1，最高支持 Pcie5.0\*4 速率。可以说，在国产供应链的适配上，联想总算是不授人以柄了。
 
-但受限于内存与硬盘涨价的大环境，新款 ThinkBook14+ 的价格并不是那么美丽，同时因为 Intel 18A 工艺偏低的良率，Panther Lake 系列处理器的出货量预估也不会很多，目前京东上该型号笔记本仍属于缺货状态。因此如果你的预算受限，但仍想要享受一线笔记本的品质与售后，我们会更推荐你购买 25 款的 ThinkBook14+或是26款的AMD型号。
+但受限于内存与硬盘涨价的大环境，新款 ThinkBook14+ 的价格并不是那么美丽，同时因为 Intel 18A 工艺偏低的良率，Panther Lake 系列处理器的出货量预估也不会很多，目前京东上该型号笔记本相较于首发价格涨价了约1000元。因此如果你的预算受限，但仍想要享受一线笔记本的品质与售后，我们会更推荐你购买 25 款的 ThinkBook14+或是26款的AMD型号。
 
 ## 其他外观
 
