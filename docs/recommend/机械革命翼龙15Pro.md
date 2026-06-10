@@ -17,9 +17,9 @@
 | 供电配置 |         210W DC 电源接口；140W PD 充电；99Wh 锂电池         |
 | 网络配置 |                 RJ45 网口；MT 7922 无线网卡                 |
 
-主购买链接：[R7 H 255+RTX5060 32G+1TB 灰色 ￥ 7198.65（JD 国补）](https://3.cn/2GRmxT-p?jkl=@I465aDi3HE)
+主购买链接：[R7 H 255+RTX5060 32G+1TB 灰色 ￥ 7341.45（抖音国补）](https://v.douyin.com/_pkjSnq54BI/)
 
-主购买链接：[U7 356H+RTX5060 32G+1TB 白色 ￥ 7649.15（JD 国补）](https://3.cn/2-H0Fw6h?jkl=@N3erD15RRe@)
+副购买链接：[AI 7 H 350+RTX5060 16G+1TB 白色 ￥ 7581.15（JD 国补）](https://3.cn/2Rz6J-cz?jkl=@BDZeeBhAq5@)
 
 ## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
