@@ -20,9 +20,9 @@
 | 供电配置 |        200W DC 电源接口；100W PD 充电；73Wh 锂电池         |
 | 网络配置 |                    瑞昱 8852CE 无线网卡                    |
 
-主购买链接：[R7 H 260+RTX5060 白色 32G+1TB ￥ 8047.8 （JD 国补）](https://3.cn/2GRqr-ku?jkl=@S0oNq3sDg7@)
+主购买链接：[锐龙AI 7 H 350+RTX5060 灰色 32G+1TB ￥ 8482.15 （JD 国补）](https://3.cn/2-Rz2PA2?jkl=@A47WDClG5O@)
 
-副购买链接：[AI Max+ 392 黑色 32G+1TB ￥ 9999 （JD 国补）](https://3.cn/2G-RqeIT?jkl=@Q4IpA9aOW8@)
+副购买链接：[AI Max+ 392 黑色 32G+1TB ￥ 8999 （JD 国补）](https://3.cn/2Rz319-t?jkl=@QCkRp9jxlY@)
 
 ## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
