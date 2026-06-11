@@ -18,7 +18,7 @@
 | 供电配置 |               300W DC 电源接口；170W PD 充电；85Wh 锂电池               |
 | 网络配置 |                     MT7925 无线网卡；BE200 无线网卡                     |
 
-主购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 7893.95（抖音国补）](https://v.douyin.com/mCsqNn_rNzQ/)
+主购买链接：[R9-8945HX+RTX5060 16G+1TB ￥ 7521.65（抖音国补）](https://v.douyin.com/AR1VyECjkps/ )
 
 副购买链接：[U7-255HX+RTX5060 32G+1TB ￥ 9989（JD 国补）](https://3.cn/2R-zb7Rm?jkl=@XD7GqAwjRI@)
 
