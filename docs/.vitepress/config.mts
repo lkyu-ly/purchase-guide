@@ -90,8 +90,12 @@ export default defineConfig({
 						link: "/recommend/联想来酷Pro14酷睿版",
 					},
 					{
-						text: "机械革命 无界 14X Pro",
-						link: "/recommend/机械革命无界14XPro",
+						text: "机械革命 无界 14 2026",
+						link: "/recommend/机械革命无界142026",
+					},
+					{
+						text: "联想 来酷 Air 16",
+						link: "/recommend/联想来酷Air16",
 					},
 					{
 						text: "机械革命 星耀 14",
@@ -114,6 +118,10 @@ export default defineConfig({
 						link: "/recommend/机械革命极光X(PRO)",
 					},
 					{
+						text: "华硕 灵耀 14Air",
+						link: "/recommend/华硕灵耀14Air",
+					},
+					{
 						text: "机械革命 蛟龙 16Pro 2025",
 						link: "/recommend/机械革命蛟龙16pro",
 					},
@@ -132,10 +140,6 @@ export default defineConfig({
 					{
 						text: "联想 来酷 斗战者 战 7000",
 						link: "/recommend/联想来酷斗战者战7000",
-					},
-					{
-						text: "联想 拯救者 R9000P 2025",
-						link: "/recommend/联想拯救者R9000P2025",
 					},
 					{
 						text: "联想 ThinkBook 16P 2025",
@@ -163,7 +167,7 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{
-						text: "<b style='color:red'>[NEW!!!]</b> 基于 Zero-Config Code Flow 的 Claude Code 配置教程",
+						text: "善弈者谋势，不善者谋子：基于Zero-Config Code Flow的Claude Code配置使用教程",
 						link: "/misc/tutorials_for_claude_code/",
 					},
 					{
