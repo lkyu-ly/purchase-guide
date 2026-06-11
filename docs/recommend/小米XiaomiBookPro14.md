@@ -32,7 +32,7 @@
 | 供电配置 |           100W PD 充电；72Wh 锂电池            |
 | 网络配置 |                 AX211 无线网卡                 |
 
-主购买链接：[[Ultra-7 258V 雪域白 32G+1TB ￥ 7368.65（JD 国补）](https://3.cn/2Il2K4-r?jkl=@DA4733C3xC@)
+主购买链接：[Ultra X7 358H 32G+1TB ￥ 8989（JD 国补）](https://3.cn/-2RGha3R?jkl=@Z3K7vAA2Ke@)
 
 ## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
