@@ -130,13 +130,14 @@ export default defineConfig({
 						link: "/recommend/机械革命翼龙15Pro",
 					},
 					{
-						text: "机械革命 耀世 16Ultra",
-						link: "/recommend/机械革命耀世16Ultra",
-					},
-					{
 						text: "华硕 天选 Air",
 						link: "/recommend/华硕天选Air",
 					},
+					{
+						text: "机械革命 耀世 16Ultra",
+						link: "/recommend/机械革命耀世16Ultra",
+					},
+
 					{
 						text: "联想 来酷 斗战者 战 7000P",
 						link: "/recommend/联想来酷斗战者战7000P",
