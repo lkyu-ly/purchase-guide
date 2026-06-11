@@ -126,6 +126,10 @@ export default defineConfig({
 						link: "/recommend/机械革命蛟龙16pro",
 					},
 					{
+						text: "联想 来酷 斗战者 战 7000P",
+						link: "/recommend/联想来酷斗战者战7000P",
+					},
+					{
 						text: "机械革命 翼龙/耀世 15Pro",
 						link: "/recommend/机械革命翼龙15Pro",
 					},
@@ -134,25 +138,21 @@ export default defineConfig({
 						link: "/recommend/华硕天选Air",
 					},
 					{
+						text: "联想 ThinkBook 16P 2025",
+						link: "/recommend/联想ThinkBook16P2025",
+					},
+					{
 						text: "机械革命 耀世 16Ultra",
 						link: "/recommend/机械革命耀世16Ultra",
 					},
 
 					{
-						text: "联想 来酷 斗战者 战 7000P",
-						link: "/recommend/联想来酷斗战者战7000P",
-					},
-					{
-						text: "联想 ThinkBook 16P 2025",
-						link: "/recommend/联想ThinkBook16P2025",
+						text: "机械革命 苍龙16Ultra 2025",
+						link: "/recommend/机械革命苍龙16Ultra2025",
 					},
 					{
 						text: "联想 拯救者 Y9000P 至尊版",
 						link: "/recommend/联想拯救者Y9000P至尊版",
-					},
-					{
-						text: "机械革命 苍龙16Ultra 2025",
-						link: "/recommend/机械革命苍龙16Ultra2025",
 					},
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 				],
