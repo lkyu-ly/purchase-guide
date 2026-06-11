@@ -26,7 +26,7 @@
 
 副购买链接1：[25款 Ultra-5 225H 32G+1TB ￥ 5699（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods2.html?ps=1pcZNWrvDR)
 
-副购买链接2：[26款 R7 H 260 32G+1TB ￥ 5499（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods1.html?ps=yGcVwGolaW)
+副购买链接2：[25款 R7 H 260 32G+1TB ￥ 5499（PDD 百亿补贴）](https://mobile.yangkeduo.com/goods1.html?ps=yGcVwGolaW)
 
 ## 优缺点 [<Icon icon="clarity:info-line" />](/recommend/recommend_overview#优缺点)
 
