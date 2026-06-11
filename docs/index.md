@@ -36,5 +36,5 @@ features:
     details: <a href="https://qm.qq.com/q/HU05k45VmK" target="_blank">点击加入：304067847</a>
   - icon: 📚
     title: 最新文章
-    details: 面向新同学，已经对 2026 年中推荐机型进行全面更新，欢迎阅读了解！
+    details: 面向2026年秋季入学的新同学，已经对当前推荐机型进行全面更新和校对，欢迎阅读了解！
 ---
