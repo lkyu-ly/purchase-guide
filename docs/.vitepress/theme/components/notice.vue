@@ -10,7 +10,7 @@ function closeBulletin() {
 // Automatically hide the bulletin after 15 seconds
 setTimeout(function () {
 	visible.value = false;
-}, 15000); // Disappearance time is set here
+}, 20000); // Disappearance time is set here
 </script>
 
 <template>
@@ -43,7 +43,7 @@ setTimeout(function () {
 						fill="currentColor"
 					></path>
 				</svg>
-				<span><b>网站公告</b></span>
+				<span><b>网站公告（刷新弹出）</b></span>
 			</span>
 			<svg
 				class="btn-close"
@@ -75,7 +75,8 @@ setTimeout(function () {
 					>暂时不要购买任何笔记本</b
 				>。
 			</p>
-			<p class="bulletin-p">请点击下方按钮查看相关内容。</p>
+			<p class="bulletin-p">如果您是刚需购机，请在有优惠券的情况下尽早下单，笔记本的价格在今年的其他时间可能仍会存在涨价的情况，下一次大优惠可能要等到双11活动，因此尽早下单不仅能早享受，可能还能避免涨价。</p>
+			<p class="bulletin-p">请点击下方按钮查看内存相关内容。</p>
 			<div class="btn-group">
 				<a class="btn" href="/evaluation/memory/#内存规格">查看详情</a>
 			</div>

@@ -14,7 +14,7 @@
 | 核心配置 |         AMD AI 7 H 350、RTX 5060；AMD AI Max+ 392          |
 | 存储配置 | 32G LPDDR5X-7500MT/s、32G LPDDR5X-8000MT/s；1T 三星 PM9C1b |
 | 屏幕配置 |        2560\*1600；100%sRGB 高色域；165Hz；400nits         |
-| USB 接口 |        USB-A:10Gbps\*2 ；USB-C:10Gbps\*1、40Gbps\*1        |
+| USB 接口 |        USB-A:10Gbps\*2；USB-C:10Gbps\*1、40Gbps\*1         |
 | 影音接口 |          HDMI 2.1；3.5mm 音频接口；DP 2.1（独显）          |
 | 其它接口 |                      Micro SD 读卡器                       |
 | 供电配置 |        200W DC 电源接口；100W PD 充电；73Wh 锂电池         |

@@ -27,7 +27,7 @@
 | 核心配置 |           Intel Ultra 7 258V           |
 | 存储配置 |   32G LPDDR5X-8533MHZ；1T 西数 SN560   |
 | 屏幕配置 | 2880\*1800 OLED；100% sRGB 色域；120Hz |
-| USB 接口 |   USB-A:10Gbps\*1 ；USB-C:40Gbps\*2    |
+| USB 接口 |   USB-A:10Gbps\*1；USB-C:40Gbps\*2    |
 | 影音配置 |    HDMI 2.1；3.5mm 音频接口；DP 1.4    |
 | 供电配置 |        65W PD 充电；72Wh 锂电池        |
 | 网络配置 |             BE201 无线网卡             |
