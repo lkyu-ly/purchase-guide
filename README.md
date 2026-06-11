@@ -58,18 +58,15 @@
 
 - 换下来的旧图文移至该文件夹下的`old`中，图片照原结构存放。
 
-- 使用 `tools/convert2webp.py` 可以清理废弃图片并将 PNG/JPG 批量无损压缩为 WebP（需 `pip install Pillow`）：
+- 使用 `tools/convert2webp.py` 可以将脚本所在目录中的常见位图图片就地无损压缩为 WebP（需 `pip install Pillow`）：
 
   ```bash
-  # 第一步：扫描预览（只读，不修改任何文件）
   python tools/convert2webp.py
-
-  # 第二步：确认报告无误后，执行实际转换
-  python tools/convert2webp.py --confirm
   ```
 
-  脚本会自动将 PNG/JPG 转为 WebP 并更新 `.md` 引用；将原始图片和未被引用的废弃图片归档；任一步骤失败则完整回滚。
-  - [ ] TODO: 取消输入输出路径硬编码，支持全仓库 markdown 扫描而不是预定义路径
+  脚本会扫描 `tools/` 目录下当前一级的 `.png`、`.jpg`、`.jpeg`、`.bmp`、`.tif`、`.tiff` 文件，
+  并在同目录输出同基础名的 `.webp` 文件。运行结束后会在控制台输出每个文件的转换前后大小、
+  单文件压缩率以及本次运行的平均压缩率。
 
 - 若图片为**透明底黑字**，在暗色模式下文字会不可见。
   为 `<img>` 标签加上 `class="dark-invert"` 即可自动在暗色模式下反色显示：

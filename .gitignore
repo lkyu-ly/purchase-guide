@@ -6,6 +6,7 @@ docs/.vitepress/dist
 
 .env.local
 
+docs/public/robots.txt
 docs/public/mas.cmd
 
 package-lock.json
@@ -20,3 +21,4 @@ test.txt
 
 .spec-workflow/
 CLAUDE.md
+.zcf/
