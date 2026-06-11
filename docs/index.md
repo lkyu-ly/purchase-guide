@@ -19,7 +19,7 @@ hero:
       link: /more
     - theme: alt
       text: PDF 版本站下载
-      link: /MOE频道：2025年笔记本购机指南v25.2.0.pdf
+      link: /MOE频道：2026年笔记本购机指南v26.3.0.pdf
     - theme: alt
       text: PDF 蓝奏云盘下载（密码：3nos）
       link: https://misaka-h.lanzouu.com/b0plwi1le?pwd=3nos
@@ -36,5 +36,5 @@ features:
     details: <a href="https://qm.qq.com/q/HU05k45VmK" target="_blank">点击加入：304067847</a>
   - icon: 📚
     title: 最新文章
-    details: 已经更新 2026 年初推荐机型，欢迎阅读！
+    details: 面向新同学，已经对 2026 年中推荐机型进行全面更新，欢迎阅读了解！
 ---
