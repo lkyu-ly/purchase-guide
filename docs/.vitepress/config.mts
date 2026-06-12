@@ -86,12 +86,16 @@ export default defineConfig({
 					},
 
 					{
-						text: "联想 来酷 Pro 14 酷睿版",
-						link: "/recommend/联想来酷Pro14酷睿版",
+						text: "联想 来酷 Pro 14",
+						link: "/recommend/联想来酷Pro14",
 					},
 					{
-						text: "机械革命 无界 14X Pro",
-						link: "/recommend/机械革命无界14XPro",
+						text: "机械革命 无界 14 2026",
+						link: "/recommend/机械革命无界142026",
+					},
+					{
+						text: "联想 来酷 Air 16",
+						link: "/recommend/联想来酷Air16",
 					},
 					{
 						text: "机械革命 星耀 14",
@@ -106,48 +110,49 @@ export default defineConfig({
 						link: "/recommend/联想ThinkBook14plus",
 					}, // + 号导致直接访问页面 404, 改为 plus
 					{
+						text: "华硕 灵耀 14Air",
+						link: "/recommend/华硕灵耀14Air",
+					},
+					{
 						text: "小米 XiaomiBook Pro 14",
 						link: "/recommend/小米XiaomiBookPro14",
 					},
 					{
-						text: "机械革命 极光 X/XPRO",
-						link: "/recommend/机械革命极光X(PRO)",
+						text: "机械革命 极光 X",
+						link: "/recommend/机械革命极光X",
 					},
 					{
 						text: "机械革命 蛟龙 16Pro 2025",
 						link: "/recommend/机械革命蛟龙16pro",
 					},
 					{
-						text: "机械革命 翼龙/耀世 15Pro",
-						link: "/recommend/机械革命翼龙15Pro",
+						text: "联想 来酷 斗战者 战 7000P",
+						link: "/recommend/联想来酷斗战者战7000P",
 					},
 					{
-						text: "机械革命 耀世 16Ultra",
-						link: "/recommend/机械革命耀世16Ultra",
+						text: "机械革命 翼龙/耀世 15Pro",
+						link: "/recommend/机械革命翼龙15Pro",
 					},
 					{
 						text: "华硕 天选 Air",
 						link: "/recommend/华硕天选Air",
 					},
 					{
-						text: "联想 来酷 斗战者 战 7000",
-						link: "/recommend/联想来酷斗战者战7000",
-					},
-					{
-						text: "联想 拯救者 R9000P 2025",
-						link: "/recommend/联想拯救者R9000P2025",
-					},
-					{
 						text: "联想 ThinkBook 16P 2025",
 						link: "/recommend/联想ThinkBook16P2025",
 					},
 					{
-						text: "联想 拯救者 Y9000P 至尊版",
-						link: "/recommend/联想拯救者Y9000P至尊版",
+						text: "机械革命 耀世 16Ultra",
+						link: "/recommend/机械革命耀世16Ultra",
 					},
+
 					{
 						text: "机械革命 苍龙16Ultra 2025",
 						link: "/recommend/机械革命苍龙16Ultra2025",
+					},
+					{
+						text: "联想 拯救者 Y9000P 至尊版",
+						link: "/recommend/联想拯救者Y9000P至尊版",
 					},
 					{ text: "百亿补贴或其他优秀机型", link: "/recommend/其他" },
 				],
@@ -163,7 +168,7 @@ export default defineConfig({
 				collapsed: false,
 				items: [
 					{
-						text: "<b style='color:red'>[NEW!!!]</b>善弈者谋势，不善者谋子：基于Zero-Config Code Flow的Claude Code配置使用教程",
+						text: "善弈者谋势，不善者谋子：基于Zero-Config Code Flow的Claude Code配置使用教程",
 						link: "/misc/tutorials_for_claude_code/",
 					},
 					{
