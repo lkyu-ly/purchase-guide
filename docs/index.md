@@ -19,7 +19,7 @@ hero:
       link: /more
     - theme: alt
       text: PDF 版本站下载
-      link: /MOE频道：2026年笔记本购机指南v26.3.0.pdf
+      link: /MOE频道：2026年笔记本购机指南v26.4.0.pdf
     - theme: alt
       text: PDF 蓝奏云盘下载（密码：3nos）
       link: https://misaka-h.lanzouu.com/b0plwi1le?pwd=3nos
