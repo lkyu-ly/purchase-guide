@@ -265,7 +265,7 @@ export default defineConfig({
 
 	lastUpdated: true,
 	sitemap: {
-		hostname: "https://moe.lkyu.cf",
+		hostname: "https://moe.lkyu.top",
 	},
 	vite: {
 		optimizeDeps: {
